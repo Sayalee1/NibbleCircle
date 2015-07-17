@@ -1,0 +1,203 @@
+recipe_id,name,image,description,user_id,preparation,cooktime,level,serves,category,type,calories,protein,carbohydrates,fat,cholesterol,salt,created_at,like_num,is_editerpick
+2,Kohlapuri Chicken,C2. Kohlapuri Chicken.jpg,"Marinated and then cooked with bay leaf, cinnamon, cloves, black pepper and ground paste, this is a fav dish of Maharashtrians.",1,40 mins,30 mins,Tough,8,Chicken,Non-Veg,520 cal,28%,18%,50%,131 mg,4%,1/1/2015,,0
+3,Chicken Pulao,C3. Chicken Pulao.jpg,Pulao is a rice-based dish which often also includes ingredients like vegetables and meat.,1,15 mins,40 mins,Moderate,4,Chicken,Non-Veg,542 cal,28%,52%,21%,40 mg,4%,1/1/2015,,0
+4,Roasted Chicken,C4. Roasted Chicken.jpg,"A perfectly roasted chicken has a crunchy skin on the outside and juicy, tender meat underneath.",1,10 mins,70 mins,Easy,6,Chicken,Non-Veg,567 cal,54%,12%,35%,75 mg,6%,1/1/2015,,0
+5,Chicken Chettinad,C5. Chicken Chettinad.jpg,A melange of spices makes this fiery chicken dish a Southern favorite.,1,15 mins,30 mins,Moderate,3,Chicken,Non-Veg,279 cal,40%,13%,47%,75 mg,6%,1/1/2015,,0
+6,Chicken Lababdar,C6. Chicken Lababdar.jpg,"Delicately spiced and laced with butter, cream and tomatoes, chicken lababdar is sure to become one of your favourites too.",1,15 mins,30 mins,Moderate,3,Chicken,Non-Veg,249 cal,37%,32%,27%,74 mg,4%,1/1/2015,,0
+7,Chicken (Murg) Mussallam,C7. Murg Mussallam.jpg,Murg Musallam is a typical North-west Indian chicken or murg recipe subtly flavoured with Indian spices and cooked in onion based gravy.,1,80 mins,30 mins,Tough,6,Chicken,Non-Veg,414 cal,55%,13%,30%,160 mg,4%,1/1/2015,,0
+8,Chicken Jalfrezi,C8. Chicken Jalfrezi.jpg,Chicken Jalfrezi is mild hot chicken curry richly flavored with capsicum and onion. ,1,10 mins,50 mins,Tough,4,Chicken,Non-Veg,343 cal,62%,12%,25%,131 mg,5%,1/1/2015,,0
+9,Almond (Badami) Chicken,C9. Almond Chicken.jpg,This is an Indian mughlai dish that uses both finely ground and slivered almonds.,1,30 mins,45 mins,Tough,4,Chicken,Non-Veg,562 cal,34%,12%,52%,124 mg,4%,1/1/2015,,0
+10,Mangalore Chicken,C10. Mangalore Chicken.jpg,This is a spicy Mangalorian delicay best served with Neer Dosa or Rice balls (Pundi).,1,25 mins,45 mins,Moderate,6,Chicken,Non-Veg,200 cal,39%,16%,43%,24 mg,5%,1/2/2015,,0
+11,Chicken Shawarma,C11. Chicken Shawarma.jpg,Chicken Shawarma is a of garlicky meat or poultry served on pitas. This chicken version is flavored with a savory yogurt sauce.,1,60 mins,25 mins,Tough,4,Chicken,Non-Veg,384 cal,58%,19%,23%,122 mg,4%,1/2/2015,,0
+12,Lemon Chicken,C12. Lemon Chicken.jpg,"Chicken cooked with citrus juice and indian spice. Paired with vegies, this is a dish with a lemony kick",1,15 mins,40 mins,Moderate,3,Chicken,Non-Veg,376 cal,48%,22%,30%,171 mg,4%,1/2/2015,,0
+13,Fried Chicken,C13. Fried Chicken.jpg,"Tender and juice inside while crispy outside, this is chicken cooked with the minimum preparation",1,10 mins,20 mins,Moderate,4,Chicken,Non-Veg,402 cal,38%,42%,21%,90 mg,7%,1/2/2015,,0
+14,Chicken Mayo Sandwich,C14. Chicken Mayo Sandwich.JPG,This sandwich is an instant classic. It's quick easy and everyone loves the flavor.,1,10 mins,10 mins,Easy,4,Chicken,Non-Veg,337 cal,50%,20%,30%,76 mg,4%,1/2/2015,,0
+15,Chicken Tikka Masala,C15. Chicken Tikka Masala.jpg,Chicken marinated in yogurt and spices. The yogurt helps tenderize the chickenand the spices infuse it with lots of flavor.,1,30 mins,50 mins,Tough,3,Chicken,Non-Veg,479 cal,41%,23%,36%,175 mg,6%,1/2/2015,,0
+16,Sweet & Spicy Chicken,C16. Sweet & Spicy Chicken.jpg,"Honey-imbued marinade spiked with fresh citrus juice gives this chicken its fiery, syrupy character. ",1,30 mins,50 mins,Moderate,3,Chicken,Non-Veg,409 cal,45%,22%,33%,154 mg,4%,1/2/2015,,0
+17,Garlic Fried Chicken,C17. Garlic Fried Chicken.jpg,This Fried Chicken variation uses a hefty amount of garlic powder to add taste and nice aroma to the usual Fried Chicken Recipe.,1,30 mins,20 mins,Moderate,6,Chicken,Non-Veg,401 cal,45%,23%,30%,160 mg,4%,1/2/2015,,0
+18,Amritsari Murg Makhani,C18. Amritsari Murg Makhni.jpg,"Tender chicken pieces marinated and cooked in a deep, rich gravy of fresh cream, butter, tomato and spices.",1,10 mins,30 mins,Moderate,4,Chicken,Non-Veg,543 cal,40%,24%,35%,131 mg,5%,1/2/2015,,0
+19,Murg Malaiwala,C19. Murg Malaiwala.jpg,"Chicken is cooked in cream and milk and is very mildly spiced with garam masala powder, cardamom powder, saffron and some green chilies.",1,30 mins,45 mins,Tough,4,Chicken,Non-Veg,597 cal,32%,26%,42%,154 mg,4%,1/2/2015,,0
+20,Kerela Chicken Roast,C20. Kerela Chicken Roast.jpg,"Fried chicken recipe teamed up with some chillies, fried onions and lemon juice to bring out that extra zing in this dish.",1,25 mins,30 mins,Moderate,4,Chicken,Non-Veg,497 cal,39%,16%,43%,24 mg,5%,1/2/2015,,0
+21,Assamese Sour Fish (Masor Tenga),F1. Assamese Sour Fish.jpg,"Masor Tenga is a mouth-watering sour fish curry made from freshwater river fish & tomotoes, elongated lemon (kajinemu) or dried mangosteen(thereka ).",1,30 mins,20 mins,Moderate,4,Fish,Non-Veg,230 cal,55%,30%,20%,87 mg,4%,1/3/2015,,0
+22,Malabar Fish Curry,F2. Malabar Fish Curry.jpg,The malabar fish curry is a Northern Kerala fish specialty with authentic Malabari flavors. ,1,10 mins,30 mins,Moderate,4,Fish,Non-Veg,243 cal,47%,12%,41%,123 mg,4%,1/3/2015,,0
+23,Goan Fish Curry,F3. Goan Fish Curry.jpg,"Almost the staple food of Goa along with rice, fish curry made in this style is tangy and spicy.",1,10 mins,30 mins,Moderate,4,Fish,Non-Veg,535 cal,30%,5%,59%,143 mg,4%,1/3/2015,,0
+24,Shrimp in Tender Coconut (Daab Chingri),F4. Shrimp in Tender coconut.jpg,"The divine aroma of the tender coconut water and kernel gets infused in the shrimps, giving this delicasy from West Bengal a fabulous flavour.",1,25 mins,40 mins,Tough,4,Fish,Non-Veg,280 cal,28%,24%,23%,143 mg,4%,1/3/2015,,0
+25,Tuna Stuffed Cherry Tomato,F5. Tuna Stuffed Cheery Tomato.jpg,"Serve as an appetizer, take on a picnic or enjoy as a light lunch.",1,30 mins,0 mins,Easy,3,Fish,Non-Veg,86 cal,20%,35%,30%,112 mg,4%,1/3/2015,,0
+26,Spicy Fish Fry,F6. Spicy Fish Fry.jpg,A spicy fish fry can be eaten on its own as an appetizer or starter or goes well with rice too. ,1,0 mins,20 mins,Easy,5,Fish,Non-Veg,300 cal,25%,35%,30%,132 mg,5%,1/3/2015,,0
+27,Fish Amritsari,F7. Fish Amritsari.jpg,This mouth watering fried fish prepared with lot of spices is a popular street food of Punjab. ,1,30 mins,10 mins,Moderate,4,Fish,Non-Veg,600 cal,25%,24%,20%,119 mg,4%,1/3/2015,,0
+28,Pomfret Fish Masala,F8. Pomfret Fish Masala.JPG,"A mouth-watering, refreshing and delectable seafood delicacy made with pomfret fish stuffed with spices.",1,15 mins,15 mins,Moderate,1,Fish,Non-Veg,230 cal,45%,24%,23%,98 mg,4%,1/3/2015,,0
+29,Catfish Fish Curry (Pabda),F9. Catfish Fish Curry.JPG,Pabda is one of the many delicate sweet water fishes that Bengalis love to eat.,1,15 mins,25 mins,Moderate,5,Fish,Non-Veg,200 cal,35%,44%,23%,142 mg,4%,1/3/2015,,0
+30,Yogurt Fish,F10. Yogurt Fish Curry.jpg,Yogurt tenderizes the fish in this recipe and gives it an unexpected taste. ,1,30 mins,20 mins,Moderate,6,Fish,Non-Veg,390 cal,50%,3%,50%,108 mg,4%,1/3/2015,,0
+31,Fish in Green Manago Curry,F11. Fish in Green Mango Curry.JPG,Delicous fish cooked in a coconut gravy with raw mangoes.,1,30 mins,25 mins,Moderate,4,Fish,Non-Veg,230 cal,55%,30%,20%,97 mg,4%,1/4/2015,,0
+32,Fish Kalia,F12. Fish Kalia.JPG,"A fish curry with thick gravy and medium spicy that can be served with Fried Rice, Pulow or even with steamed rice",1,10 mins,20 mins,Moderate,4,Fish,Non-Veg,274 cal,47%,18%,35%,102 mg,4%,1/4/2015,,0
+33,Fish Sukka,F13. Fish Sukka.jpg,"A sweet, tangy fruit combined with the fish masala gives this fish gravy it's rather different and tasty flavour.",1,10 mins,30 mins,Moderate,4,Fish,Non-Veg,435 cal,40%,15%,39%,118 mg,4%,1/4/2015,,0
+34,Hilsa Fish (Ilish Machh Bhapa),F14. Hilsa Fish.JPG,Hilsa fish steam cooked with a tangy paste of mustard and green chillies ,1,20 mins,25 mins,Tough,4,Fish,Non-Veg,410 cal,38%,14%,40%,145 mg,4%,1/4/2015,,0
+35,Tamarind Fish Curry,F15. Tamarind Fish Curry.JPG,"Traditionally cooked in a clay or earthen pot, the fish is cooked in spicy and delectable gravy made with onions, tomatoes, tamarind and spices sautéed in sesame oil.",1,15 mins,20 mins,Moderate,4,Fish,Non-Veg,325 cal,20%,35%,30%,145 mg,4%,1/4/2015,,0
+36,Calamari Achari,F16. Calamari Achari.jpg,Calamari cooked in the perfect blend of aniseeds (saunf) and nigella seeds (kalonji). ,1,60 mins,20 mins,Easy,2,Fish,Non-Veg,317 cal,45%,35%,20%,116 mg,4%,1/4/2015,,0
+37,Patra Ni Machchi,F17. Patra Ni Machhi.jpg,A delicious Parsi preparation fish cooked with green chutney wrapped in banana leaves.,1,25 mins,20 mins,Moderate,4,Fish,Non-Veg,600 cal,25%,24%,20%,103 mg,4%,1/4/2015,,0
+38,Baked Indian Basa,F18. Baked Indian Basa.jpg,A garlic flavoured fish dish that is simple yet exquisite in its flavours,1,60 mins,25 mins,Tough,1,Fish,Non-Veg,329 cal,45%,24%,23%,97 mg,5%,1/4/2015,,0
+39,Fish Moilee,F19. Fish Moilee.jpg,Kerela styled fish stew made with coconut milk,1,10 mins,20 mins,Moderate,4,Fish,Non-Veg,330 cal,45%,34%,23%,142 ml,4%,1/4/2015,,0
+40,Xoriyoh Fish,F20. Xoriyoh Fish.jpg,Excusite Assamese fish recipe dipped in mustard sauce spiced with green chillies and cooked in mustard oil. ,1,60 mins,20 mins,Moderate,4,Fish,Non-Veg,307 cal,50%,17%,33%,108 mg,4%,1/4/2015,,0
+41,Mutton Korma,M1.Mutton Korma.JPG,Kormas are typically made by marinating the main ingredient in yogurt and spices like ginger and garlic.,1,30 mins,60 mins,Tough,6,Mutton,Non-Veg,522 cal,32%,26%,42%,120 mg,5%,1/5/2015,,0
+42,Mutton Vindaloo,M2. Mutton Vindaloo.jpg,Mutton Vindaloo is a traditional dish of Goa made with meat dipped in wine/vinegar and garlic. ,1,60 mins,45 mins,Tough,4,Mutton,Non-Veg,390 cal,21%,41%,38%,55 mg,4%,1/5/2015,,0
+43,Mutton Dum Biryani,M3. Mutton Dum Biryani.jpg,"This is classic Hyderabadi dish is long-grained rice cooked with mutton, retaining the aroma of varied spices.",1,180 mins,75 mins,Tough,4,Mutton,Non-Veg,754 cal,18%,39%,42%,91 mg,6%,1/5/2015,,0
+44,Mutton Roganjosh,M4. Mutton Rogan Josh.jpg,"This signature Kashmiri dish is known for its flavors of fennel, ginger and marked by the sriking red hue.",1,20 mins,60 mins,Moderate,4,Mutton,Non-Veg,400 cal,28%,30%,40%,55 mg,4%,1/5/2015,,0
+45,Mutton Do Pyaza,M5. Mutton Do Pyaza.JPG,"Raw onions are slowly cooked with the meat, enhancing the flavor. The fried onions, added toward the end boost the color of the dish.",1,20 mins,60 mins,Moderate,4,Mutton,Non-Veg,325 cal,40%,30%,28%,110 mg,4%,1/5/2015,,0
+46,Kashmiri Lamb,M6. Kashmiri Lamb.jpg,This cuisine combines the area's fruits and nuts with the ingredients. This rich stew makes a marvelous main dish. ,1,15 mins,75 mins,Moderate,4,Mutton,Non-Veg,342 cal,52%,25%,22%,111 mg,4%,1/5/2015,,0
+47,Mutton Shashlik,M7. Mutton Sashlik.jpg,"Cubes of mutton marinated with garlic, ginger, raw papaya and a medley of exciting spices grilled to perfection.",1,180 mins,20 mins,Easy,2,Mutton,Non-Veg,464 cal,35%,20%,43%,69 mg,4%,1/5/2015,,0
+48,Raan Musallam,M8. Mutton Rann.jpg,A whole mutton leg roasted is a festive dish.,1,180 mins,20 mins,Tough,4,Mutton,Non-Veg,597 cal,30%,25%,43%,149 mg,4%,1/5/2015,,0
+49,Lamb Chops,M9. Lamb Chops.jpg,"Quick and easy to cook, lamb chops have tender, juicy meat that is best served slightly pink.",1,15 mins,26 mins,Easy,6,Mutton,Non-Veg,112 cal,34%,6%,40%,49 mg,4%,1/5/2015,,0
+50,Keema Methi,M10. Keema Meethi.jpg,Incredibly delicious combination of lamb flavored with fenugreek leaves. This dish is from Andhra Pradesh.,1,10 mins,40 mins,Moderate,4,Mutton,Non-Veg,297 cal,49%,26%,22%,101 mg,3%,1/5/2015,,0
+51,Mutton Rada,M11. Mutton Rara.jpg,"Cooked slowly and patiently in whole spices, mutton and condiments come together to create a heavenly mutton recipe",1,30 mins,70 mins,Tough,6,Mutton,Non-Veg,592 cal,32%,26%,42%,183 mg,5%,1/6/2015,,0
+52,Stir Fried Lamb,M12. Stir Fried Lamb.jpg,"Fragrant, intense and full of fiery chile, this lamb stir-fry isn’t for the timid eater. ",1,60 mins,25 mins,Moderate,6,Mutton,Non-Veg,490 cal,21%,41%,38%,95 mg,4%,1/6/2015,,0
+53,Galouti Kabab,M13. Galouti Kabab.jpg,This melt-in-your-mouth kabab with Mint-Coriander chutney is mainstay of Awadhi cuisine,1,120 mins,40 mins,Tough,4,Mutton,Non-Veg,754 cal,18%,39%,42%,91 mg,6%,1/6/2015,,0
+54,Reshmi Kabab,M14. Reshmi Kabab.jpg,"This delicious kabab gets its name from the juicy, succulence of the meat used to make it. The meat gets this way thanks to the marinade in which it is soaked.",1,20 mins,60 mins,Moderate,4,Mutton,Non-Veg,401 cal,38%,25%,35%,105 mg,4%,1/6/2015,,0
+55,Nihari Gosht,M15. Nihari Gosht.jpg,A traditional dish of slow cooked meat adorned with just the right amount of spice.,1,30 mins,70 mins,Tough,6,Mutton,Non-Veg,525 cal,35%,30%,33%,167 mg,4%,1/6/2015,,0
+56,Boti Kabab,M16. Boti Kabab.jpg,A mughlai dish that comprises of intensely marinated mutton pieces which are usually grilled.,1,20 mins,30 mins,Moderate,4,Mutton,Non-Veg,442 cal,52%,25%,22%,121 mg,4%,1/6/2015,,0
+57,Shami Kebab,M17. Shami Kebab.JPG,"These kebabs are silky smooth and stuffed with just a little finely chopped onion, mint and green chilli.",1,30 mins,60 mins,Tough,4,Mutton,Non-Veg,434 cal,35%,20%,43%,109 mg,4%,1/6/2015,,0
+58,Methi Gosht,M18. Methi Gosht.jpg,"The fenugreek leaves add a lovely, earthy flavor to chunks of mutton in this delicious dish.",1,10 mins,30 mins,Moderate,6,Mutton,Non-Veg,557 cal,30%,25%,43%,169 mg,4%,1/6/2015,,0
+59,Lamb Handi,M19. Lamb Handi.jpg,"Despite its delicious taste, this authentic recipe is simple to make, and far less time consuming than traditional Indian curries.",1,20 mins,40 mins,Moderate,6,Mutton,Non-Veg,406 cal,40%,16%,34%,149 mg,4%,1/6/2015,,0
+60,Mutton Rezala,M20. Mutton Rezala.jpg,Extremely fragrant mutton in yogurt based stew and a bit thick in consistency,1,60 mins,60 mins,Tough,4,Mutton,Non-Veg,561 cal,39%,26%,32%,131 mg,4%,1/6/2015,,0
+61,Pork Spare Ribs,P1.Pork Spare Ribs.jpg,"Fall-off-the-bone spare ribs can be  grilled, barbecued, roasted or slow-cooked. ",1,120 mins,90 mins,Moderate,4,Pork,Non-Veg,337 cal,30%,28%,42%,103 mg,5%,1/7/2015,,0
+62,Spicy Sweet Pork Tenderloin,P2. Spicy Sweet Pork Tenderloin.jpg,"Start with a spicy rub, pan sear and oven bake. Then brush with a sweet spicy sauce.",1,10 mins,30 mins,Easy,4,Pork,Non-Veg,169 cal,47%,26%,28%,74 mg,3%,1/7/2015,,0
+63,Pork Stir Fry,P3. Pork Stir Fry.jpg,"In the time that it takes to wait for take-out, you could already be sinking your chopsticks into this savory pork stir-fry.",1,20 mins,10 mins,Moderate,4,Pork,Non-Veg,247 cal,40%,26%,32%,72 mg,4%,1/7/2015,,0
+64,Smoked Pork In Sengmora Leaves (Xaak),P4. Pork in Sengmora Xaak.jpg,This traditional dish of Arunachal Pradesh is cooked by combining pork with sengmora leaves.,1,5 mins,30 mins,Moderate,4,Pork,Non-Veg,140 cal,45%,26%,27%,52 mg,4%,1/7/2015,,0
+65,Pork Pandi Curry,P5. Pork Pandi Curry.jpg,"A famous delicacy from Coorg, Pandi Curry is  pork cooked in a freshly made masala paste.",1,5 mins,20 mins,Moderate,4,Pork,Non-Veg,340 cal,23%,26%,52%,157 mg,5%,1/7/2015,,0
+66,Pork with Dry Bamboo Shoot,P6. Pork with Dry Bamboo Shoot.JPG,"A delicay from Nagaland, this dish is pork cooked with fermented bamboo shoot.",1,5 mins,70 mins,Moderate,4,Pork,Non-Veg,280 cal,30%,22%,45%,157 mg,4%,1/7/2015,,0
+67,Coconut Curried Pork,P7. Coconut Curried Pork.jpg,This signature pork dish is famed for it bold ingredients of coconut milk and the right amount of spices. ,1,5 mins,50 mins,Tough,4,Pork,Non-Veg,429 cal,30%,27%,39%,107 mg,4%,1/7/2015,,0
+68,Pork Vindaloo,P8. Pork Vindaloo.JPG,"The traditional Goan pork dish flavored with chilies, garlic and vinegar. It's spicy and tangy at the same time. ",1,60 mins,60 mins,Tough,4,Pork,Non-Veg,401 cal,28%,32%,39%,127 mg,4%,1/7/2015,,0
+69,Roasted Pork Belly,P9. Roasted Pork Belly.JPG,"Pork belly is a relatively cheap cut of meat, making this an affordable but a terrific crowd puller.",1,5 mins,150 mins,Easy,4,Pork,Non-Veg,278 cal,28%,16%,61%,106 mg,4%,1/7/2015,,0
+70,Honey Glazed Ham,P10. Honey Glazed Ham.jpg,The honey glaze crackles with good flavor and taste as it has a distinctive flavor can only be achieved with a glaze.,1,4 mins,50 mins,Easy,4,Pork,Non-Veg,170 cal,41%,20%,37%,60 mg,4%,1/7/2015,,0
+71,Hamburger,P11. Hamburger.jpg,"A blend of mayonnaise, ketchup, slow-cooked onions and pork makes a perfect tangy, sweet and creamy hamburger",1,10 mins,40 mins,Easy,4,Pork,Non-Veg,375 cal,38%,30%,42%,101 mg,5%,1/8/2015,,0
+72,Spicy Honey Mustard Pork Roast,P12. Honey-Mustard Pork Roast.jpg,Spicy Pork in a wonderful fan fried gravy sauce,1,10 mins,60 mins,Easy,6,Pork,Non-Veg,409 cal,40%,26%,33%,94 mg,3%,1/8/2015,,0
+73,Pork Chops in  Beer,P13. Pork Chops in  Beer.jpg,This beer braised tender chops are perfect for a hectic weeknight because they're so easy to prep.,1,20 mins,10 mins,Moderate,4,Pork,Non-Veg,547 cal,40%,26%,32%,72 mg,4%,1/8/2015,,0
+74,Wonton Soup,P14. Wonton Soup.jpg,Pork wontons simmer in broth with Chinese vegetables in this hearty and warming dish,1,15 mins,15 mins,Easy,4,Pork,Non-Veg,240 cal,49%,26%,25%,62 mg,4%,1/8/2015,,0
+75,Baked Beans with Pork,P15. Baked Beans with Pork.jpg,"A little sweet, a little spice, and a little onion, and then bake it with bacon over the top.",1,20 mins,60 mins,Moderate,4,Pork,Non-Veg,290 cal,39%,23%,32%,97 mg,4%,1/8/2015,,0
+76,Swedish Meatballs,P16. Swedish Meatballs.jpg,These are heavenly balls of pork smothered in a creamy gravy sauce.,1,15 mins,25 mins,Moderate,4,Pork,Non-Veg,380 cal,35%,22%,40%,167 mg,4%,1/8/2015,,0
+77,Thai Pork with Peanut Sauce,P17. Thai Pork with Peanut Sauce.jpg,This delicious dish combines the standard pork chop with the wonderful flavor of coconuts and peanuts. ,1,30 mins,30 mins,Moderate,4,Pork,Non-Veg,419 cal,30%,27%,39%,137 mg,4%,1/8/2015,,0
+78,Fiery Pork Skewers,P18. Fiery Pork Skewers.jpg,"Pork in teriyaki sauce, red wine vinegar, vegetable oil, brown sugar and red pepper flakes. ",1,15 mins,20 mins,Tough,4,Pork,Non-Veg,402 cal,28%,35%,37%,107 mg,4%,1/8/2015,,0
+79,Pork with Black Bean Salsa,P19. Pork with Black Bean Salsa.jpg,Pork smeared in flavoured salsa accompanied by the goodness of black beans,1,5 mins,25 mins,Easy,4,Pork,Non-Veg,378 cal,33%,16%,41%,156 mg,4%,1/8/2015,,0
+80,Szechaun Pork,P20. Szechaun Pork.jpg,This chinese favourite can be made in an instance and is hearty and budget friendly,1,10 mins,15 mins,Easy,4,Pork,Non-Veg,570 cal,31%,40%,27%,180 mg,4%,1/8/2015,,0
+81,Egg Curry,E1. Egg Curry.JPG,Spicy and creamy egg curry made with dash of spices.,1,5 mins,30 mins,Easy,4,Egg,Non-Veg,177 cal,39%,30%,31%,113 mg,5%,1/9/2015,,0
+82,Scrambled Egg,E2. Scrambled Egg.jpg,The perfect scrambled eggs should be soft and just a little bit moist.,1,0 mins,10 mins,Easy,1,Egg,Non-Veg,154 cal,45%,23%,31%,97 mg,4%,1/9/2015,,0
+83,Masala Omelette  ,E3. Masala Omlette.jpg,"Masala omelette is an all time favourite. The easiest dish to make on the go, you can fluff it up and add a variety of toppings ",1,5 mins,5 mins,Easy,2,Egg,Non-Veg,225 cal,42%,27%,31%,113 mg,4%,1/9/2015,,0
+84,Egg Bhruji,E4. Egg Bhurji.JPG,"Scrambled eggs, fried and tossed with a host of spices.",1,5 mins,10 mins,Easy,2,Egg,Non-Veg,201 cal,37%,32%,31%,113 mg,5%,1/9/2015,,0
+85,Egg Masala,E5. Egg  Masala.jpg,Finely chopped boiled eggs with Indian spices tossed in,1,5 mins,20 mins,Easy,4,Egg,Non-Veg,260 cal,41%,34%,26%,119 mg,4%,1/9/2015,,0
+86,Egg Roll,E6. Egg Roll.jpg,"This is a famous Indian street food which is made of fried eggs, onions, chillies wrapped in ",1,5 mins,10 mins,Easy,2,Egg,Non-Veg,227 cal,36%,31%,33%,93 mg,4%,1/9/2015,,0
+87,Egg Benedict,E7. Egg Benedict.jpg,"Hot buttered muffins, bacon, and poached eggs are topped with a heavenly drizzle of hollandaise sauce. ",1,5 mins,25 mins,Easy,4,Egg,Non-Veg,284 cal,38%,31%,39%,93 mg,4%,1/9/2015,,0
+88,Chettinad Egg Curry,E8. Chettinad Egg Curry.jpg,"A finger licking and spicy egg curry with flavorful spices,this curry goes very well with rice and roti.",1,15 mins,30 mins,Easy,3,Egg,Non-Veg,303 cal,34%,35%,31%,156 mg,5%,1/9/2015,,0
+89,Stuffed Eggs,E9. Stuffed Eggs.jpg,Hard-cooked eggs get dolled up with the classic combination of cream cheese and seasonings.,1,10 mins,10 mins,Easy,4,Egg,Non-Veg,149 cal,45%,27%,28%,89 mg,5%,1/9/2015,,0
+90,Egg Bean Salad,E10. Egg Bean Salad.JPG,"A simple and delicious combination of hard-cooked eggs, beans and onion. A little mayo holds it all together.",1,20 mins,30 mins,Moderate,2,Egg,Non-Veg,164 cal,44%,28%,27%,98 mg,4%,1/9/2015,,0
+91,Muglai Parantha,E11. Muglai Parantha.jpg,"Wholesome and tasty Mughlai-style stuffed bread  with liberal helping of eggs, onion, green chilies and coriander leaves.",1,30 mins,15 mins,Moderate,2,Egg,Non-Veg,267 cal,39%,30%,31%,143 mg,5%,1/10/2015,,0
+92,Egg Korma,E12. Egg Korma.JPG,Boiled egg cooked in masala flavoured curry.,1,10 mins,25 mins,Easy,4,Egg,Non-Veg,254 cal,45%,23%,31%,97 mg,4%,1/10/2015,,0
+93,Cheese Omlette,E13. Cheese Omlette.jpg,"Masala omelette is an all time favourite. The easiest dish to make on the go, you can fluff it up and add a variety of toppings ",1,10 mins,5 mins,Easy,1,Egg,Non-Veg,245 cal,38%,27%,34%,133 mg,4%,1/10/2015,,0
+94,Egg Pakoda,E14. Egg Pakoda.JPG,Puffs made from eggs and flour that makes for excellent quick snacks.,1,5 mins,10 mins,Easy,4,Egg,Non-Veg,201 cal,33%,32%,33%,103 mg,5%,1/10/2015,,0
+95,Egg Salad,E15. Egg Salad.jpg,"This creamy egg salad is mashed up and mixed with mayo, mustard, tomato, crunchy bits of celery, and tangy dill relish.",1,5 mins,20 mins,Easy,2,Egg,Non-Veg,208 cal,45%,30%,26%,119 mg,4%,1/10/2015,,0
+96,Egg Biryani,E16. Egg Biryani.JPG,Fragrant rice cooked in aromatic biryani spices and boiled eggs,1,15 mins,20 mins,Moderate,3,Egg,Non-Veg,227 cal,36%,31%,33%,93 mg,4%,1/10/2015,,0
+97,Egg Manchurian,E17. Egg Manchurian.jpg,Crispy Egg balls made from flour and with traditional Chinese flavours,1,5 mins,25 mins,Moderate,2,Egg,Non-Veg,274 cal,41%,31%,37%,113 mg,4%,1/10/2015,,0
+98,Baked Eggs with Beans,E18. Baked Eggs with Beans.jpg,Beans and eggs make for a healthy low carb diet,1,5 mins,20 mins,Moderate,3,Egg,Non-Veg,188 cal,54%,20%,23%,96 mg,5%,1/10/2015,,0
+99,French Toast,E19. French Toast.jpg,"Thick slices of bread, soaked in a mixture of beaten eggs with milk and cinnamon, toasted in a frying pan",1,8 mins,15 mins,Easy,2,Egg,Non-Veg,209 cal,45%,27%,28%,89 mg,5%,1/10/2015,,0
+100,Smoked Tofu & Egg Fried Rice,E20. Smoked Tofu & Egg Fried Rice.jpg,A simple and healthy dish compreising of smoked tofu sauteed with some cooked rice and eggs.,1,10 mins,20 mins,Moderate,2,Egg,Non-Veg,184 cal,44%,28%,27%,92 mg,4%,1/10/2015,,0
+101,LittiChokha,LittiChokha.jpg,"Litti is a traditional dish from India's Bihar state; it consists of balls of wheat and sattu (powdered gram) formed into balls with spices, and then filled with ghee (clarified butter)",1,15 mins,45 mins,moderate,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+103,Bajra Khichdi,Bajra Khichdi.jpg,"A unique recipe of Khichdi, totally tasty and healthy",1,10 mins,15 mins,easy,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+104,Channa Madra,Channa Madra.JPG,This is a traditinal recipe of Himachal Pradesh. Very simple to make and tastes absolutely delicious,1,10 mins,20 mins,easy,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+105,Kalari Cheese,Kalari Cheese.jpg,This is a traditinal recipe by shepherds in the mountains of Kashmir,1,5 mins,5 mins,easy,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+106, Baingan ka Bharta,Baingan ka Bharta.jpg,"Baingan Bharta is a north Indian recipe made using roasted and mashed eggplant (brinjal) and cooked with onion, tomato, ginger and Indian spices",1,10 mins,10 mins,moderate,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+107,Spiced Lentil Soup,Spiced Lentil Soup.jpg,A soup to warm your soul! Healthy and tasty meal for winter,1,5 mins,20 mins,easy,4,Vegetarian,Veg,,,,,,,1/11/2015,,0
+108,Uttapam,Uttapam.jpg,A breakfast recipe from South India. Easy to cook and delicious to eat,1,5 mins,10 mins,easy,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+109,Red Kidney Beans Curry,Red Kidney Beans Curry.jpg,"Rajmah Chawal, a red kidney bean curry served with rice, is a rustic Indian meal that is cooked in households all over India",1,480 mins,20 mins,easy,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+110,Boondi Raita,Boondi Raita.JPG,Boodi are tiny fried gram flour balls. Boondi Raita is ery easy to make and goes well with any North Indian dish especially rice dishes like Biryani and Pulao,1,5 mins,0 mins,easy,2,Vegetarian,Veg,,,,,,,1/11/2015,,0
+111, Sweet Lassi,Sweet Lassi.jpg,Sweet Lassi is a drink to relish not only in summer but always. It is quite popular in punjab and north india,1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+112, Sweet Lime Soda,Sweet Lime Soda.jpg," A sweet lemonade made using soda water instead of plain water, Sweet Lime Soda, is one of the best drinks to beat the summer heat",1,5 mins,0 mins,easy,4,Beverages,Veg,,,,,,,1/12/2015,,0
+113, Badam Milk,Badam Milk.jpg,Badam Milk (Almond Milk flavored with saffron) is a delicious milk shake,1,20 mins,5 mins,easy,4,Beverages,Veg,,,,,,,1/12/2015,,0
+114, Classic Vodka Martini,Classic Vodka Martini.jpg,"Vodka martini, the famous James Bond drink, which he prefers to be known as Vesper, is one of the most popular global drinks",1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+115, James Bond Martini,James Bond Martini.jpg,Shaken not Stirred,1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+116, Old Fashioned,Old Fashioned.jpg,Try this quintessential Old Fashioned cocktail with your favorite bourbon.,1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+117, Daiquiri,Daiquiri.jpg,"The Daiquiri has developed, much like the Martini and Margarita, into a sub-family of drinks. The common denominator is rum, lime, and a sweetener",1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+118, Margarita,Margarita.jpg,"Margarita is one of the most famous cocktails in North America, it is such a classic that you should have the recipe memorized.",1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+119, Bloody Mary,Bloody Mary.jpg,This lively eye-opener adds a spicy kick to brunch,1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+120, Manhattan,Manhattan.jpg,"One of the finest and oldest cocktails, Manhattan was the first cocktail that used vermouth as a modifier",1,5 mins,0 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+121,Achari Paneer,achari paneer.jpg,"Achari paneer is an aromatic accompaniment, which imbibes its flavour from a mixture of seeds used in the seasoning.",1,8 mins,7 mins,easy,2,Vegetarian,Veg,,,,,,,1/12/2015,,0
+122,Pudina Parantha,pudina parantha.jpg,A healthy stuffed pudina parantha.,1,25 mins,25 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+123,Gobi Manchurian,gobi manchurian.jpg,Gobi Manchurian is a very popularIndo-Chinese dish,1,40 mins,20 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+124,Paneer Tikka,paneer tikka.jpg,"Paneer tikka is marinated cottage chese cubes, arranged on skewers and grilled or baked in the oven. This recipe is made on tawa.",1,60 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+125,Vada Pav,vada pav.jpg,Staple snack/meal of Mumbaikar. It's addictive,1,10 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+126,Gobi Parantha,gobhi paratha.jpg,A healthy stuffed gobi (cauliflower) parantha.,1,30 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+127,Masala Dosa,Masala Dosa.jpg,"Masala dosa is a famous south indin dish, tasty to the core",1,480 mins,30 mins,easy,5,Vegetarian,Veg,,,,,,,1/12/2015,,0
+128,Paneer Bhurji,paneer bhurjee.jpg,Quick to make and tasty to eat. ,1,5 mins,15 mins,easy,2,Vegetarian,Veg,,,,,,,1/12/2015,,0
+129,Dahi Vada,dahi vada.jpg,"Very popular  indian street food  made of lentil dumplings in curd, spiced with chutneys.",1,480 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+130,Paneer Butter Masala,Panner Butter Masala.jpg,Cottage cheese cubes prepared in a creamy tomato gravy.,1,10 mins,30 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+131,Dal Makhani,Dal Makhani.jpg, Punjabi lentil recipe in the house. ,1,15 mins,45 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+132,Dal Tadka,Dal Tadka.jpg,Creamy spicy dal to add flavor to your meal,1,10 mins,20 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+133,Punjabi Chole,Punjabi Chole.jpg,Punjabi Chole is a must try North Indian recipe,1,480 mins,45 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+135,Malai Kofta,Malai Kofta.jpg,"Paneer & Potato koftas in a creamy, rich, and sweet gravy.",1,40 mins,50 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+136,Paneer Kofta,paneer kofta.jpg,Paneer koftas in a  sweet cashew gravy.,1,45 mins,45 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+137,Pasta in Red Sauce,Pasta in red sauce.jpg,Classic penne pasta in tomato sauce. ,1,30 mins,20 mins,easy,2,Vegetarian,Veg,,,,,,,1/12/2015,,0
+138,Methi Mutter Malai,Methi Matar Malai.jpg,Popular north indian gravy. Sweet and tasty,1,15 mins,30 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+139,Veg Biryani,Veg Biryani.JPG,"Hyderabadi biryani - light, aromatic and yummy. ",1,45 mins,45 mins,tough,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+140,Bhindi Masala,Bhindi Masala.jpg,Classic bhindi (Okra) curry - semi dry ,1,15 mins,30 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+141,Aloo Gobi Masala,Aloo Gobi Masala.jpg,Classic aloo gobi recipe - easy and tasty,1,15 mins,45 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+142,Peas Masala,Peas Masala.jpg,Classic green peas (mutter) masala recipe - easy and tasty,1,15 mins,45 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+143,Veg Pulao,Veg Pulao.jpg,Kashmiri sweet kaju kishmish Pulao recipe,1,15 mins,25 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+144,Veg Hakka Noodles,Veg Hakka Noodles.JPG,An indo chinese spicy dish prepared with  noodles and mix vegetables.,1,15 mins,25 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+145,Veg Chow Mein,Veg Chowmein.jpg,An indo chinese spicy dish prepared with  noodles and mix vegetables.,1,15 mins,25 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+146,Mix Vegetable Curry,Mix Veg.jpg,A nutritious and healthy vegeterian dish. ,1,10 mins,30 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+147,Hara Bhara Kabab,Hara Bhara Kabab.jpg,Healthy kababs made from peas and spinach. ,1,20 mins,40 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+148,American Chopsuey Veg,American Chopsuey Veg.jpg,Indo-chinese recipe of crispy noodles served  with a sweet and sour vegetable gravy,1,20 mins,40 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+149,Veg Spring Rolls,Veg Spring Rolls.jpg,A classic indo-chinese deep fried dish that is enjoyed by everyone,1,15 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+150,Vegetable Cutlets,Vegetable Cutlets.jpg,A healthy spicy cutlet made from vegetables. ,1,30 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+151,Dal Bukhara,Dal Bukhara.jpg,A dal recipe very similar to Dal Makhani,1,480 mins,45 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+152,Lachha Parantha,Lachha Parantha.jpg,Crispy healthy parantha,1,15 mins,25 mins,tough,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+153,Vermicelli Kheer,Vermicelli Kheer.jpg,"A sweet delicacy, also called Seviyan Kheer, great for festive dinners and parties",1,10 mins,15 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+154,Moong Dal Kachori,Moong Dal Kachori.jpg,"A tasty snack that is generally made for the festive season. The Kachori is served with curd, green chutney and tamarind chutney.",1,15 mins,20 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+155,Moong Dal Samosa,Moong Dal Samosa.jpg,A tasty and healthy samosa recipe. Perfect for tea time. ,1,15 mins,25 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+156,Sweet Potato Souffle,Sweet Potato Souffle.jpg,A sweet potato side dish made in oven.. Yummy,1,15 mins,75 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+157,Cheese Risotto,Cheese Risotto.jpg,Cheese Risotto is a north Italian rice dish cooked in broth and cheese. ,1,10 mins,50 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+158,Honey Chilli Potato,Honey Chilli Potato.jpg,Great tasty honey chilli potatoes cooked in few easy steps,1,15 mins,15 mins,easy,2,Vegetarian,Veg,,,,,,,1/12/2015,,0
+159,Honey Roasted Pineapple,Honey Roasted Pineapple.jpg,Great tasty honey roasted pineapple cooked in few easy steps,1,10 mins,30 mins,easy,2,Vegetarian,Veg,,,,,,,1/12/2015,,0
+160,Puran Poli,Puran Poli.jpg,A sweet delicacy from Maharashtra. ,1,270 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+161,Paneer Grilled Sandwich,Paneer Grilled Sandwich.jpg,Healthy sandwich recipe,1,10 mins,15 mins,easy,4,Vegetarian,Veg,,,,,,,1/12/2015,,0
+162,Brooklyn,Brooklyn.JPG,A variation of Manhattan named after the most populous of New York City's five boroughs,1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+163,Sidecar,Sidecar.jpg,The Sidecar was reportedly created in Paris during WWI and was made with Cognac or Armagnac. Lately it is more commonly made with bourbon ,1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+164,French 75,french75.jpg,"The French 75 is a cocktail first made around the end of World War One. Today it is a favored classic that combines gin, sweet and sour, and champagne",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+165,Irish Coffee,Irish Coffee.jpg,"Irish coffee is a cocktail consisting of hot coffee, irish whiskey, and sugar; stirred, and topped with thick cream",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+166,Jack Rose,Jack Rose.jpg,"Jack Rose is the name of a classic cocktail, popular in the 1920s and 1930s, containing applejack, grenadine, and lime juice",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+167,Negroni,Negroni.jpg,"The Negroni cocktail is made of gin,  vermouth rosso and  Campari. It is considered an apéritif.",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+168,Boulevardier,Boulevardier.jpg,"The boulevardier cocktail is similar to the Negroni, with the gin replaced by rye whiskey or bourbon.",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+169,Sazerac,Sazerac.jpg,"The Sazerac is a New Orleans variation of Cognac cocktail, named for the Sazerac de Forge et Fils brand of Cognac brandy that served as its original main ingredient",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+170,Vieux Carre,Vieux Carre.jpg,"Named after New Orleans’s French Quarter this drink is as representative of the city as the neighborhood. It is strong, fun, and a little bit crazy.",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+171,Ramos Gin Fizz,Ramos Gin Fizz.jpg,"Ramos Fizz, the New Orleans Fizz was created in the late 1800's by Henry C. Ramos in New Orleans. ",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+172,Mint Julep,Mint Julep.jpg,"The mint julep is a centuries-old cocktail, consisting primarily of bourbon and fresh mint.",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+173,Whiskey Sour,Whiskey Sour.jpg,"The whiskey sour is a cocktail containing whiskey (often Bourbon), lemon juice, sugar, and optionally a dash of egg white",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+174,Mai Tai,Mai Tai.jpg,"Mai Tai is an alcoholic cocktail based on rum and combined with pineapple juice and orange juice to make a yummy, fruity drink",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+175,Planter's Punch,Planters Punch.jpg,"Planter's Punch is a cocktail made of dark rum, lemon juice, grenadine syrup and a dash of Angostura bitters",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+176,Pisco Sour,Pisco Sour.jpg,"A Pisco Sour is a cocktail typical of South American cuisine.The drink's name comes from pisco, which is its base liquor, and sour citrus juice and sweetener components
+",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+177,Cosmopolitan,Cosmopolitan.jpg,"Cosmopolitan's popularity peaked in the 1990's due to its multiple appearances in the HBO show, Sex and the City",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+178,Tom Collins,Tom Collins.jpg,The Tom Collins is a refreshing gin cocktail and an excellent sipper for hot summer day,1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+179,Last Word,Last Word.jpg,The Last Word is a Gin based prohibition-era cocktail originally developed at the Detroit Athletic Club.,1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+180,Mojito,mojito.jpg,Mojito is a traditional Cuban rum based cocktail which is extremely popular globally. If you are throwing a Havana or Cuban theme party this is THE drink to serve,1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+181,Long Island Iced Tea,longislandicedtea.jpg,"A Long Island Iced Tea is a popular cocktail which includes vodka, gin, tequila, and rum. The drink has a  high alcohol concentration ",1,5 mins,5 mins,easy,2,Beverages,Veg,,,,,,,1/12/2015,,0
+182,Sabudana Khichdi,Sabudana Khichdi.JPG,A yummy breakfast dish of tapioca pearls (sabudana) cooked with potatoes and peanuts,1,480 mins,30 mins,easy,4,Breakfast,Veg,,,,,,,1/12/2015,,0
+183,Medu Vada,Medu Vada.jpg,A yummy breakfast from South India. Crisp and fried dough nuts served with sambar and chutney. ,1,240 mins,40 mins,moderate,4,Breakfast,Veg,,,,,,,1/12/2015,,0
+184,Banana Pancakes,Banana Pancakes.JPG,A yummy breakfast of pancakes with mapple sauce. ,1,10 mins,20 mins,easy,4,Breakfast,Non-Veg,,,,,,,1/12/2015,,0
+185,Poha,Poha.jpg,Light and lovely breakfast recipe made from flattened rice (poha),1,10 mins,20 mins,easy,4,Breakfast,Veg,,,,,,,1/12/2015,,0
+186,Aloo Parantha,Aloo Parantha.jpg,The classic aloo (potato) paratha. Punjabi breakfast item.  ,1,20 mins,30 mins,moderate,4,Breakfast,Veg,,,,,,,1/12/2015,,0
+187,Upma,Upma.jpg,South indian breakfast dish made with rava (semolina).,1,5 mins,15 mins,easy,2,Breakfast,Veg,,,,,,,1/12/2015,,0
+188,Sweet Honey Waffles,Sweet Honey Waffles.jpg,Sweet english breakfast recipe,1,5 mins,15 mins,easy,2,Breakfast,Non-Veg,,,,,,,1/12/2015,,0
+189,Misal Pav,Misal Pav.jpg,"Street food from mumbai, sprouts curry topped with onions, tomatoes, farsan and served with pav.",1,15 mins,45 mins,easy,4,Breakfast,Veg,,,,,,,1/12/2015,,0
+190,Rabri,Rabri.jpg,A rich tasty desert made out of milk,1,15 mins,105 mins,moderate,4,Desserts,Veg,,,,,,,1/12/2015,,0
+191,Gulab Jamun,Gulab Jamun.jpg,Very popular Indian dessert. Must try!,1,30 mins,30 mins,easy,4,Desserts,Veg,,,,,,,1/12/2015,,0
+192,Gajar ka Halwa,Gajar ka Halwa.jpg,"An Indian delicacy made from carrots, milk and sugar. ",1,15 mins,105 mins,moderate,4,Desserts,Veg,,,,,,,1/12/2015,,0
+193,Rasgulla,Rasgulla.jpg,A syrupy dessert from bengal. ,1,240 mins,40 mins,moderate,4,Desserts,Veg,,,,,,,1/12/2015,,0
+194,Blueberry Cheesecake,Blueberry Cheesecake.jpg,"Yummiest cheesecake of all, the blueberry one. Right?",1,30 mins,120 mins,moderate,4,Desserts,Veg,,,,,,,1/12/2015,,0
+195,Caramel Custard,Caramel Custard.jpg,Very popular pudding. Yummy and tasty.,1,15 mins,60 mins,moderate,4,Desserts,Non-Veg,,,,,,,1/12/2015,,0
+196,Doodhi ka Halwa,Doodhi ka Halwa.jpg,Also called lauki ka halwa. Sweet Indian delicacy made from bottle gourd (doodhi). ,1,15 mins,45 mins,easy,4,Desserts,Veg,,,,,,,1/12/2015,,0
+197,Besan Ladoo,Besan Ladoo.jpg,Very popular ladoo dessert made from gram flour and ghee. ,1,10 mins,20 mins,easy,4,Desserts,Veg,,,,,,,1/12/2015,,0
+198,Falooda,Falooda.jpg,"A perfect summer dessert beverage made from milk, rose syrup, falooda and icecream.",1,20 mins,10 mins,easy,4,Desserts,Veg,,,,,,,1/12/2015,,0
+199,Black Forest Cake,Black Forest Cake.jpg,A chocolate cake with lot of cream. ,1,20 mins,50 mins,tough,8,Desserts,Non-Veg,,,,,,,1/12/2015,,0
+200,Sheera (Sooji ka Halwa),Sheera.jpg,Classic Indian dessert made from rava (semolina) and ghee. ,1,5 mins,15 mins,easy,2,Desserts,Veg,,,,,,,1/12/2015,,0
+201,Mango Shake,Mango Shake.jpg,Refreshing mango milkshake for summer season.,1,10 mins,5 mins,easy,3,Desserts,Veg,,,,,,,1/12/2015,,0
+1,Butter Chicken,C1. Butter Chicken.jpg,Butter Chicken Masala is one of the most popular Indian chicken recipes liked by  all for its mild flavour and deliciously rich gravy. ,1,60 mins,25 mins,Tough,6,Chicken,Non-Veg,390 cal,30%,15%,50%,122 mg,4%,1/1/2015,,1
+102,Khandvi,Khandvi.jpg,"Khandvi is a popular snack from the state of Gujarat. Nobody can hide their love for this delicious savoury made of gram flour and curd, tempered with mustard seed",1,10 mins,10 mins,tough,4,Vegetarian,Veg,,,,,,,1/11/2015,,1
+134,Pav Bhaji,Pav Bhaji.jpg,Yummy street food from Mumbai. Must try. ,1,30 mins,30 mins,moderate,4,Vegetarian,Veg,,,,,,,1/12/2015,,1

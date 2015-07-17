@@ -1,0 +1,241 @@
+#recipesection
+{
+  float: left;
+    width: 100%;
+background-color: #13262c;
+}
+
+#contenttitle a
+ { color: inherit; 
+text-decoration: none;} 
+
+#contentdesc a
+ { color: inherit; 
+text-decoration: none;} 
+
+#sidebarprod
+{
+width: 20%;
+height:auto;
+float:right;
+
+}
+
+
+#sidebar 
+{
+background-color: #13262c;
+    float: right;
+    width: 100%;
+min-height:300px;
+    height: auto;
+    border: 2px solid #fff;
+    font-size:20px;
+ color:white;
+text-align: center;
+    margin-top: 100px;
+margin-right: 1%;
+}
+
+#sidebar h2
+{
+font-size:20px;
+padding: 10% 10% 10% 10%;
+font-family:verdana;
+color:white;
+text-align: center;
+line-height: 150%; 
+
+}
+#sidebar p
+{
+font-size:15px;
+font-family:verdana;
+color:white;
+margin:0;
+line-height: 180%; 
+text-align: center;
+
+}
+
+
+
+#banner
+{
+
+background: url(banner.jpg) no-repeat center center fixed; 
+
+ -webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover; 
+
+height: 500px;
+
+
+
+}
+
+#menubar
+{
+    
+ height: 100px; 
+
+}
+
+#title
+{
+ 
+padding-top:200px;
+color:#34dddd;
+margin:  0px;
+ font-size:45px;
+font-weight: bold;
+text-align: center;
+text-shadow: 1px 1px #000;
+}
+
+#title p {
+ padding-top:20px;
+font-weight: normal;
+
+}
+
+
+
+
+#recipesection h4 {
+ padding-top:30px;
+font-weight: normal;
+color: red;
+margin:  0px;
+ font-size:45px;
+text-align: center;
+
+}
+
+#content_area
+{
+    float: left;
+    width: 78%;
+    margin: 0% 0% 0% 0%;
+ margin-top: 100px;
+background-color: #13262c;
+}
+
+
+
+#contentTable
+{
+table-layout: fixed;
+width: 22%;
+height: 375px;
+float: left;
+margin: 1% 1% 1% 1%;
+background-color: #13262c;
+}
+
+#contenttitle
+{
+
+text-align: center;
+vertical-align: middle;
+word-wrap:break-word;
+color: white;
+font-family:cursive;
+font-style: italic;
+font-size:15pt;
+background-color: #EC1D27;
+width:100%;
+height: 60px;
+margin: 0;
+padding: 0;
+float: left;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.align {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.aligner {
+    height: 100%;
+    width: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#contentdesc
+{
+text-align: center;
+vertical-align: middle;
+align="justify";
+word-wrap:break-word;
+color: white;
+font-family:verdana;
+font-size:10pt;
+float: left;
+width:100%;
+height: 120px;
+margin: 0;
+padding: 2px;
+background-color: black;
+line-height: 150%; 
+
+}
+
+#contentimage
+{
+align="center";
+width:100%;
+height: auto;
+margin: 0;
+padding: 0;
+float: left;
+vertical-align: middle;
+}
+
+
+#search {
+
+}
+
+#search input[type="text"] {
+    background: url(search-white.png) no-repeat 15px 10px #fcfcfc;
+    border: 1px solid #000;
+    font: bold 15px Arial,Helvetica,Sans-serif;
+    color: #bebebe;
+    width: 250px;
+    padding: 6px 15px 6px 35px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+    -webkit-transition: all 0.7s ease 0s;
+    -moz-transition: all 0.7s ease 0s;
+    -o-transition: all 0.7s ease 0s;
+    transition: all 0.7s ease 0s;
+    }
+
+#search input[type="text"]:focus {
+    width: 300px;
+    }
+
+
+
+#foot
+{
+width:100%;
+background-color: #34DDDD;
+
+
+}

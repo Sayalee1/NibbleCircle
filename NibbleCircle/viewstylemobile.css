@@ -1,0 +1,152 @@
+.place
+{
+height:450px;
+width:100%;
+background-color: #34DDDD;
+
+
+}
+
+.description
+{
+height:100px;
+width:100%;
+background-color: #CCCCCC;
+box-shadow:  0 10px 6px -6px #777;
+border: 2px solid grey;
+margin-top: 30px;
+color: black;
+}
+
+.apppromo
+{
+height:100px;
+width:100%;
+background-color: #CCCCCC;
+box-shadow:  0 10px 6px -6px #777;
+border: 2px solid grey;
+margin-top: 30px;
+color: black;
+
+
+}
+
+
+
+
+#ingredient
+{
+min-height:100px;
+width:100%;
+background-color: #CCCCCC;
+box-shadow:  0 10px 6px -6px #777;
+border: 2px solid grey;
+margin-top: 30px;
+color: black;
+
+}
+
+#ingredient tr, #ingredient td
+{
+padding: 10px;
+text-align: center;
+border: 1px solid black;
+}
+
+#ingredient th
+{
+padding: 10px;
+text-align: left;
+
+}
+
+
+.veg
+{
+height:40px;
+width:300px;
+padding: 20px;
+color: #000080;
+
+}
+
+
+.place img
+{
+max-width:100%;
+float: right;
+height:450px;
+margin:auto;
+display:block;
+}
+
+.place p
+{
+max-width:100%; 
+float: left;
+max-height:100%;
+margin:auto;
+display:block;
+margin-top: 60px;
+padding: 20px;
+font-size:30px;
+font-family:  courier;
+}
+
+.veg img
+{
+max-width:40px;
+float: left;
+max-height:40px;
+margin:0;
+display:block;
+}
+
+
+.veg p
+{
+max-width:100%; 
+float: left;
+max-height:100%;
+margin:auto;
+display:block;
+font-size: 17px;
+font-family:  arial;
+
+
+}
+
+.description p
+{
+max-width:100%; 
+float: left;
+max-height:100%;
+margin:auto;
+display:block;
+font-size: 17px;
+font-family:  arial;
+padding: 20px;
+align: center;
+
+}
+
+.apppromo p
+{
+max-width:100%; 
+max-height:100%;
+margin:auto;
+font-size: 17px;
+font-family:  arial;
+padding: 5px;
+text-align: center;
+
+}
+
+
+ul.social-buttons { list-style: none; margin: 10; padding: 0; text-align: center;}
+ul.social-buttons li { display: inline-block; margin-right: 10px; }
+ul.social-buttons li:last-child { margin-right: 0; }
+.social-btn {text-align: center; width: 40px; height: 40px; border-radius: 10%; -moz-border-radius: 10%; -webkit-border-radius: 10%; -o-border-radius: 10%; display: inline-block; color: #f00; font-size: 30px; line-height: 40px;  }
+.social-btn:hover, .social-btn:focus {  color: #fff; }
+.social { margin-top: 0px }
+

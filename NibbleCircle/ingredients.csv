@@ -1,0 +1,2358 @@
+unique_id,recipe_id,ingredients_image,name,quantity,date_added
+1,1,Chicken.jpg,Chicken,"500 gms (boneless, cubed)",1/1/2015
+2,1,Onion.jpg,Onions,"2 (medium, minced)",1/1/2015
+3,1,Tomato.jpg,Tomato,1 (pureed),1/1/2015
+4,1,Butter.jpg,Butter,"3 tablespoon (soft, unmelted)",1/1/2015
+5,1,Garlic.jpg,Garlic,1 tablespoon (minced),1/1/2015
+6,1,Ginger.jpg,Ginger,1 tablespoon (minced),1/1/2015
+7,1,Corriander Powder.jpg,Corriander Powder,2 tablespoon,1/1/2015
+8,1,Chilli Powder.jpg,Chilli Powder,1 tablespoon  ,1/1/2015
+9,1,Meat Masala.jpg,Chicken Masala,1 tablespoon,1/1/2015
+10,1,Fenugreek Leaves.jpg,Fenugreek Leaves,1 (large pinch),1/1/2015
+11,1,Oil.jpg,Vegetable Oil,4 tablespoon,1/1/2015
+12,1,Yogurt.jpg,Yogurt,1 cup,1/1/2015
+13,1,Cashew.jpg,Cashew,2 tablespoon (pureed),1/1/2015
+14,1,Salt.jpg,Salt,1 tablespoon,1/1/2015
+15,1,Turmeric Powder.jpg,Turmeric Powder,1/2 tablespoon,1/1/2015
+16,1,Cilantro Leaves.jpg,Cilantro Leaves,1 bunch,1/1/2015
+17,2,Chicken.jpg,Chicken,1 kg,1/1/2015
+18,2,Yogurt.jpg,Yogurt,3 cups,1/1/2015
+19,2,Turmeric Powder.jpg,Turmeric Powder,1 tablespoon,1/1/2015
+20,2,Chilli Powder.jpg,Red Chilli Powder,2 tablespoon,1/1/2015
+21,2,Ginger.jpg,Ginger Paste,1 tablespoon,1/1/2015
+22,2,Garlic.jpg,Garlic Paste,1 tablespoon,1/1/2015
+23,2,Salt.jpg,Salt,To Taste,1/1/2015
+24,2,Lemon.jpg,Lemon,1 tablespoon (juiced),1/1/2015
+25,2,Oil.jpg,Oil,3 tablespoon,1/1/2015
+26,2,Bay Leaf.jpg,Bay Leaf,1,1/1/2015
+27,2,Cinnamon.jpg,Cinnamon Sticks,1,1/1/2015
+28,2,Cloves.jpg,Cloves,4,1/1/2015
+29,2,Black Pepper.jpg,Black Pepper,1/2 tablespoon,1/1/2015
+30,2,Tomato.jpg,Tomato,1 (chopped),1/1/2015
+31,2,Onion.jpg,Onions,"2 (medium, chopped)",1/1/2015
+32,2,Coconut.jpg,Coconut,2 tablespoon (grated),1/1/2015
+33,2,Cilantro Leaves.jpg,Corriander Leaves,1 stack,1/1/2015
+34,3,Chicken.jpg,Chicken,"1 kg (boneless, cut into small cubes)",1/1/2015
+35,3,Rice.jpg,Rice,"2 cups (long grained, washed & strained)",1/1/2015
+36,3,,Onions,"2 (medium, sliced)",1/1/2015
+37,3,,Green Chilli,2 (slit length-wise),1/1/2015
+38,3,,Ginger Paste,1/2 tablespoon,1/1/2015
+39,3,,Garlic Paste,1/2 tablespoon,1/1/2015
+40,3,,Potato,2 (sliced),1/1/2015
+41,3,,Tomato,1 (finely chopped),1/1/2015
+42,3,,Corrainder Leaf,1 tablespoon (chopped),1/1/2015
+43,3,,Mint Leaf,10,1/1/2015
+44,3,,Clarified Butter,1/2 tablespoon,1/1/2015
+45,3,,Oil,3 tablespoon (vegetable / canola),1/1/2015
+46,3,,Yougurt,1/2 cup,1/1/2015
+47,3,,Red Chilli Powder,1/2 tablespoon,1/1/2015
+48,3,,Lemon ,1/2 tablespoon (juiced),1/1/2015
+49,3,,Salt,To taste,1/1/2015
+50,3,,Cloves,6,1/1/2015
+51,3,,Cinnamon Stick,1,1/1/2015
+52,3,,Cardamom,5 pods (green),1/1/2015
+53,3,,Bay Leaf,2,1/1/2015
+54,3,,Turmeric Powder,1/2 tablespoon,1/1/2015
+55,4,Chicken.jpg,Chicken,1.5 kg (whole),1/1/2015
+56,4,Lemon.jpg,Lemon,1 (sliced),1/1/2015
+57,4,Oil.jpg,Olive Oil,2 tablespoon,1/1/2015
+58,4,,Butter,2 tablespoon,1/1/2015
+59,4,,Black Pepper,1 tablespoon,1/1/2015
+60,4,,Salt,1 tablespoon,1/1/2015
+61,4,,Mustard,3 tablespoon (sauce),1/1/2015
+62,5,Chicken.jpg,Chicken,500 gms (cut into small pieces),1/1/2015
+63,5,Chilli Powder.jpg,Red Chilli Powder,1 tablespoon,1/1/2015
+64,5,,Turmeric Powder,1/2 tablespoon,1/1/2015
+65,5,,Chicken Masala,1 tablespoon,1/1/2015
+66,5,,Yogurt,1 tablespoon,1/1/2015
+67,5,Ginger.jpg,Ginger Paste,1 tablespoon,1/1/2015
+68,5,Garlic.jpg,Garlic Paste,1/2 tablespoon,1/1/2015
+69,5,Onion.jpg,Onion,3 (finely cut),1/1/2015
+70,5,,Tomato,1 (chopped),1/1/2015
+71,5,,Green chilli,2 (slit length-wise),1/1/2015
+72,5,,Corriander Powder,1 tablespoon,1/1/2015
+73,5,,Coconut,1 (grated),1/1/2015
+74,5,,Poppy Seeds,1/4 tablespoon,1/1/2015
+75,5,,Fennel Seeds,1/4 tablespoon,1/1/2015
+76,5,,Oil,3 tablespoon,1/1/2015
+77,5,,Clove,3 pods ,1/1/2015
+78,5,Cinnamon.jpg,Cinnamon,1 stick,1/1/2015
+79,5,Cardamom.jpg,Cardamom,3 pods ,1/1/2015
+80,5,Bay Leaf.jpg,Bay Leaf,1 (small),1/1/2015
+81,5,,Mint Leaf,1 tablespoon (chopped),1/1/2015
+82,5,,Curry Leaf,1 tablespoon (chopped),1/1/2015
+83,6,Chicken.jpg,Chicken,500 gms (breast),1/1/2015
+84,6,,Red Chilli ,4,1/1/2015
+85,6,,Turmeric Powder,1/2 tablespoon,1/1/2015
+86,6,,Saffron,1/4 tablespoon,1/1/2015
+87,6,,Fenugreek Leaf,2 tablespoon (dried),1/1/2015
+88,6,Salt.jpg,Salt,To taste,1/1/2015
+89,6,Yogurt.jpg,Yogurt,1/2 cup,1/1/2015
+90,6,,Ginger Paste,1 tablespoon,1/1/2015
+91,6,Garlic.jpg,Garlic Paste,1 tablespoon,1/1/2015
+92,6,,Onion,1 (finely cut),1/1/2015
+93,6,,Tomato,1 (chopped),1/1/2015
+94,6,,Green chilli,2 (slit length-wise),1/1/2015
+95,6,,Corriander Powder,1 tablespoon,1/1/2015
+96,6,,Cashew,2 tablespoon (crushed),1/1/2015
+97,6,,Butter,3 tablespoon,1/1/2015
+98,6,,Cream,4 tablespoon (raw),1/1/2015
+99,6,,Olive Oil,3 tablespoon,1/1/2015
+100,6,Cloves.jpg,Clove,2 pods ,1/1/2015
+101,6,,Cinnamon,2 stick,1/1/2015
+102,6,,Cardamom,3 pod ,1/1/2015
+103,6,Bay Leaf.jpg,Bay Leaf,1 (small),1/1/2015
+104,6,,Cumin Seed,1/2 tablespoon (grinded),1/1/2015
+105,7,Chicken.jpg,Chicken,"1 kg (whole, cleaned & washed thoroughly)",1/1/2015
+106,7,,Clarified Butter (Ghee),2 tablespoon,1/1/2015
+107,7,Yogurt.jpg,Yogurt,500 gms,1/1/2015
+108,7,,Turmeric Powder,1/2 tablespoon,1/1/2015
+109,7,,Cumin Seed,1 tablespoon,1/1/2015
+110,7,Onion.jpg,Onion,"4 (large, sliced & fried till golden brown)",1/1/2015
+111,7,Cinnamon.jpg,Cinnamon,4 sticks,1/1/2015
+112,7,,Caraway Seed,1 tablespoon,1/1/2015
+113,7,,Black Peppercorn,10 pods,1/1/2015
+114,7,,Cardamom,7 pods,1/1/2015
+115,7,,Cloves,7 pods,1/1/2015
+116,7,Ginger.jpg,Ginger,1 piece,1/1/2015
+117,7,Garlic.jpg,Garlic,1 (whole),1/1/2015
+118,7,,Green Chilli,3 (slit length-wise),1/1/2015
+119,7,,Garam Masala,1 tablespoon,1/1/2015
+120,7,Red Chilli.jpg,Red Chilli,6 (slit length-wise),1/1/2015
+121,7,,Salt,To taste,1/1/2015
+122,8,Chicken.jpg,Chicken,"500 gms (boneless, cut into small pieces)",1/1/2015
+123,8,,Capsicum,1 (cut into small sqaures),1/1/2015
+124,8,,Onion,"1 (medium, finely chopped)",1/1/2015
+125,8,Egg.jpg,Egg,1,1/1/2015
+126,8,,Tomato,2 (chopped),1/1/2015
+127,8,Green Chilli.jpg,Green Chilli,4 (chopped)),1/1/2015
+128,8,,Oil,4 tablespoon,1/1/2015
+129,8,,Ginger Paste,1/2 tablespoon,1/1/2015
+130,8,Garlic.jpg,Garlic Paste,1/2 tablespoon,1/1/2015
+131,8,,Red Chilli Powder,1 tablespoon,1/1/2015
+132,8,Salt.jpg,Salt,1 tablespoon,1/1/2015
+133,8,,Tomoto,2 tablespoon (pureed),1/1/2015
+134,8,,Black Pepper,1/2 tablespoon (crushed),1/1/2015
+135,8,,Corrainder Leaf,2 tablespoon (crushed),1/1/2015
+136,8,,Turmeric Powder,1/2 tablespoon,1/1/2015
+137,8,,Clarified Butter,2 tablespoon,1/1/2015
+138,9,Chicken.jpg,Chicken,"500 gms (boneless, cubed)",1/1/2015
+139,9,Yogurt.jpg,Yogurt,1/2 cup,1/1/2015
+140,9,,Red Chilli Powder,1/2 tablespoon,1/1/2015
+141,9,Salt.jpg,Salt ,To taste,1/1/2015
+142,9,,Almonds,1/2 cup (sliced),1/1/2015
+143,9,,Cardamom,2 pods,1/1/2015
+144,9,,Cloves,2 pods,1/1/2015
+145,9,,Cinnamon,1 stick,1/1/2015
+146,9,Oil.jpg,Oil,4 tablespoon,1/1/2015
+147,9,,Onion,"2 (Medium, finely chopped)",1/1/2015
+148,9,,Ginger Paste,1/2 tablespoon,1/1/2015
+149,9,,Garlic Paste,1/2 tablespoon,1/1/2015
+150,9,,Mint Leaf,1/4 (chopped),1/1/2015
+151,9,Tomato.jpg,Tomato,"1 (medium, chopped)",1/1/2015
+152,9,,Turmeric Powder,1/2 tablespoon,1/1/2015
+153,9,,Green Chilli,7,1/1/2015
+154,9,,Bay Leaf,1,1/1/2015
+155,9,,Raisins,10,1/1/2015
+156,9,,Sugar,1/2 tablespoon,1/1/2015
+157,10,Chicken.jpg,Chicken,1 kg (cubed),1/1/2015
+158,10,Coconut.jpg,Coconut,1/2 (grated),1/1/2015
+159,10,,Coconut Milk,1/2 cup,1/1/2015
+160,10,,Red Chilli,5,1/1/2015
+161,10,,Black Peppercorn,5,1/1/2015
+162,10,,Coriander Powder,1 tablespoon,1/1/2015
+163,10,,Cumin Seeds,1/2 tablespoon,1/1/2015
+164,10,,Tamarind,1 (lemon sized) ball,1/1/2015
+165,10,,Onions,2 (sliced),1/1/2015
+166,10,,Turmeric Powder,1/2 tablespoon,1/1/2015
+167,10,,Garlic,4 flakes,1/1/2015
+168,10,,Fenugreek Seed,1/2 tablespoon (dried),1/1/2015
+169,10,,Cinnamon,1 stick,1/1/2015
+170,10,,Cloves,4 pods,1/1/2015
+171,10,,Clarified Butter,1/2 cup,1/1/2015
+172,11,Chicken.jpg,Chicken Thigh,"8 pieces (skinless, thinly cut)",1/2/2015
+173,11,,Onions,"2 (medium, minced)",1/2/2015
+174,11,,Tomato,"2 (medium, minced)",1/2/2015
+175,11,,Pita Bread,8 loaves,1/2/2015
+176,11,,Cucumber,1 (thinly sliced),1/2/2015
+177,11,,Parsley,1/2 cup (finely chopped),1/2/2015
+178,11,,Pickle Slice,12 piece,1/2/2015
+179,11,,Tahini,1 cup,1/2/2015
+180,11,,Garlic,2 cloves (crushed),1/2/2015
+181,11,,Lemon Juice,2 tablespoon (pureed),1/2/2015
+182,11,,Vinegar,3 tablespoon,1/2/2015
+183,11,,Yogurt,1 cup,1/2/2015
+184,11,,Pepper,1 tablespoon,1/2/2015
+185,11,,Cardamom,2 pods,1/2/2015
+186,11,,Olive Oil,4 tablespoon,1/2/2015
+187,11,,Salt,1/2 tablespoon,1/2/2015
+188,12,Chicken.jpg,Chicken,6 thighs (skinless),1/2/2015
+189,12,,Refined Oil,4 tablespoon,1/2/2015
+190,12,,Cumin Seeds,2 tablespoon,1/2/2015
+191,12,,Onions,"2 (medium, minced)",1/2/2015
+192,12,Garlic.jpg,Garlic  ,6 cloves,1/2/2015
+193,12,Ginger.jpg,Ginger,1/2 inch (crushed),1/2/2015
+194,12,,Green Chilli,4 (slit lengthwise),1/2/2015
+195,12,,Turmeric Powder,1 tablespoon,1/2/2015
+196,12,,Corriander Powder,1 tablespoon,1/2/2015
+197,12,Salt.jpg,Salt,To taste,1/2/2015
+198,12,,Lemon Juice,1 cup,1/2/2015
+199,12,,Orange Juice,1/2 cup,1/2/2015
+200,12,,Sugarcane Juice,1/2 cup,1/2/2015
+201,12,,Corriander Leaves,Bunch,1/2/2015
+202,13,Chicken.jpg,Chicken,"1 kg (boneless, cut into small cubes)",1/2/2015
+203,13,Egg.jpg,Eggs,3,1/2/2015
+204,13,,Red Pepper,1 cup (sauce),1/2/2015
+205,13,,Flour,2 cups,1/2/2015
+206,13,,Pepper,1 tablespoon   ,1/2/2015
+207,13,Oil.jpg,Oil,8 tablespoon,1/2/2015
+208,13,,Salt,2 tablespoon,1/2/2015
+209,13,,Black Pepper,1 tablespoon,1/2/2015
+210,13,,Garlic Powder,1 tablespoon ,1/2/2015
+211,14,Chicken.jpg,Chicken,500 gms (boneless),1/2/2015
+212,14,,Lettuce Leaves,1 (sliced),1/2/2015
+213,14,,Mayonnaise,6 tablespoon,1/2/2015
+214,14,,Coleslaw,1 tablespoon,1/2/2015
+215,14,,Bread,4 slices,1/2/2015
+216,14,,Olive Oil,2 tablespoon,1/2/2015
+217,14,,Onion,"2 (medium, finely chopped)",1/2/2015
+218,14,,Pepper,To taste (grounded),1/2/2015
+219,15,Chicken.jpg,Chicken,"500 gms (Boneless, cut into small pieces)",1/2/2015
+220,15,,Yougurt,1/2 cup,1/2/2015
+221,15,Oil.jpg,Mustard Oil,2 tablespoon,1/2/2015
+222,15,,Lemon Juice,2 tablespoon,1/2/2015
+223,15,,Ginger,1 inch (minced),1/2/2015
+224,15,,Garlic  ,1 clove (minced),1/2/2015
+225,15,,Corriander Powder,1 tablespoon,1/2/2015
+226,15,,Cumin Seeds,1 tablespoon (grounded),1/2/2015
+227,15,,Cardamom,1/2 tablespoon (grounded),1/2/2015
+228,15,,Nutmeg,1/2 tablespoon (grounded),1/2/2015
+229,15,,Paprika,1 tablespoon (grounded),1/2/2015
+230,15,,Cayene,1 tablespoon (grounded),1/2/2015
+231,15,Butter.jpg,Butter,4 tablespoon,1/2/2015
+232,15,,Onion,"2 (medium, finely chopped)",1/2/2015
+233,15,,Tomato,1 cup (pureed),1/2/2015
+234,15,,Water,1 cup,1/2/2015
+235,15,,Salt,1 & 1/2 tablespoon,1/2/2015
+236,15,,Black Pepper,1/2 tablespoon (grounded),1/2/2015
+237,15,,Cilantro,1/2 cup (chopped),1/2/2015
+238,16,Chicken.jpg,Chicken,500 gms (cut into 8 pieces),1/2/2015
+239,16,,Honey,3 tablespoon,1/2/2015
+240,16,,Salt,2 & 1/2 tablespoon,1/2/2015
+241,16,,Black Pepper,1 tablespoon (grounded),1/2/2015
+242,16,,Soy Sauce,3 tablespoon,1/2/2015
+243,16,,Vinegar,2 tablespoon,1/2/2015
+244,16,,Butter,2 tablespoon,1/2/2015
+245,16,,Garlic,4 cloves (minced),1/2/2015
+246,16,,Ginger,1/2 inch (minced),1/2/2015
+247,16,,Onion,"3 (medium, sliced)",1/2/2015
+248,16,,Chipotle Pepper,2 (minced),1/2/2015
+249,16,,Vegetable Oil,5 tablespoon,1/2/2015
+250,16,,Mustard,1 & 1/2 tablespoon (paste),1/2/2015
+251,16,,Carrots,"2 (medium, sliced)",1/2/2015
+252,16,,Thyme Leaves,1 tablespoon (fresh cut),1/2/2015
+253,16,,Lemon,1 (sliced),1/2/2015
+254,17,Chicken.jpg,Chicken,1 kg (sliced into pieces),1/2/2015
+255,17,,Salt,1 & 1/2 tablespoon,1/2/2015
+256,17,,Pepper,1 tablespoon,1/2/2015
+257,17,,Paprika,1 tablespoon,1/2/2015
+258,17,,Garlic Powder,2 tablespoon,1/2/2015
+259,17,,Flour,1 & 1/2 cup,1/2/2015
+260,17,,Vegetable Oil,3 cup,1/2/2015
+261,17,,Egg,1,1/2/2015
+262,17,,Milk,1/2 cup,1/2/2015
+263,17,,Bread,1/2 cup (crumbs),1/2/2015
+264,18,Chicken.jpg,Chicken,"500 gms (boneless, cut into small pieces)",1/2/2015
+265,18,,Curd,4 tablespoon,1/2/2015
+266,18,,Onion,"2 (medium, coarsely chopped)",1/2/2015
+267,18,,Lemon Juice,2 tablespoon,1/2/2015
+268,18,,Tomato,4 (pureed),1/2/2015
+269,18,,Green Chilli,4 (chopped)),1/2/2015
+270,18,,Ginger Paste,1 tablespoon,1/2/2015
+271,18,,Garlic Paste,1 tablespoon,1/2/2015
+272,18,,Red Chilli Powder,1 tablespoon,1/2/2015
+273,18,,Turmeric Powder,1/2 tablespoon,1/2/2015
+274,18,,Salt,To taste,1/2/2015
+275,18,,Tomoto,2 tablespoon (pureed),1/2/2015
+276,18,,Cumin powder,1 tablespoon,1/2/2015
+277,18,,Garam Masala,1 tablespoon (Amritsari),1/2/2015
+278,18,,Fresh Cream,2 tablespoon   ,1/2/2015
+279,18,,Honey,1 tablespoon,1/2/2015
+280,18,,Clarified Butter (Ghee),2 tablespoon,1/2/2015
+281,18,,Cashew Nuts,6 (chopped),1/2/2015
+282,18,,Almonds,6 (chopped),1/2/2015
+283,18,,Corriander Leaves,Few (chopped),1/2/2015
+284,19,Chicken.jpg,Chicken,"500 gms (boneless, cubed)",1/2/2015
+285,19,,Yogurt,2 tablespoon,1/2/2015
+286,19,,Lemon Juice,1 tablespoon,1/2/2015
+287,19,,Ginger Paste,1 tablespoon,1/2/2015
+288,19,,Garlic Paste,1 tablespoon,1/2/2015
+289,19,,Salt,1 tablespoon,1/2/2015
+290,19,,Garam Masala Powder,1 tablespoon,1/2/2015
+291,19,,Oil ,1 tablespoon,1/2/2015
+292,19,,Clarified Butter (Ghee),1 tablespoon,1/2/2015
+293,19,,Clove,4 pods,1/2/2015
+294,19,,Black Peppercorn,6 pods,1/2/2015
+295,19,,Onion,"3 (medium sized, chopped)",1/2/2015
+296,19,,Green Chilli,2 (slit lengthwise),1/2/2015
+297,19,,Fresh Cream,1/2 cup,1/2/2015
+298,19,,Milk,1/2 cup,1/2/2015
+299,19,,Saffron Strands,A pinch,1/2/2015
+300,19,,Cardamom Powder,1/2 tablespoon,1/2/2015
+301,19,,White Pepper Powder,1/2 tablespoon,1/2/2015
+302,19,,Dried Fenugreek Leaves,2 tablespoon (crushed),1/2/2015
+303,19,,Almond,6 (flaked for garnishing),1/2/2015
+304,20,Chicken.jpg,Chicken,500 gms (cubed),1/2/2015
+305,20,,Coconut Milk,1/2 cup,1/2/2015
+306,20,,Turmeric Powder,1/2 tablespoon,1/2/2015
+307,20,,Red Chilli Powder,2 tablespoon,1/2/2015
+308,20,,Vinegar,1 tablespoon,1/2/2015
+309,20,,Salt,To taste,1/2/2015
+310,20,,Onion,"3 (medium, sliced)",1/2/2015
+311,20,,Ginger Paste,1 tablespoon,1/2/2015
+312,20,,Garlic Paste,1 tablespoon,1/2/2015
+313,20,,Corriander Powder,2 tablespoon,1/2/2015
+314,20,,Garam Masala,1 tablespoon,1/2/2015
+315,20,,Fennel Powder,1/2 tablespoon,1/2/2015
+316,20,,Tomato,2 (sliced),1/2/2015
+317,20,,Curry Leaves,Few,1/2/2015
+318,20,,Coconut/Sunflower Oil,6 tablespoon,1/2/2015
+319,21,Fish.jpg,Fish (Rohu/Carp) ,500 grams (cut into medium sized pieces),1/3/2015
+320,21,,Tomato,"4 (medium, chopped)",1/3/2015
+321,21,,Onion,"2 (medium, thinly sliced)",1/3/2015
+322,21,,Garlic,"3 (cloives, finely minced)",1/3/2015
+323,21,,Ginger,"1 (piece, peeled & finely minced)",1/3/2015
+324,21,,Mustard Seeds,1 tablespoon,1/3/2015
+325,21,,Green Chillies,"2 (large, slit lengthwise)",1/3/2015
+326,21,,Turmeric,1 tablespoon,1/3/2015
+327,21,,Fenugreek Seeds (methi),1/2 tablespoon,1/3/2015
+328,21,,Salt,To taste,1/3/2015
+329,21,,Lemon,1 (juice),1/3/2015
+330,21,,Oil,4+ tablespoon (mustard or vegetable),1/3/2015
+331,21,,Cilantro Leaves,2 stalk; fresh chopped (for garnish),1/3/2015
+332,22,Fish.jpg,Fish (White),"500 gm (cubes, boneless, skinless)",1/3/2015
+333,22,,Onions,"2 (medium, finely chopped)",1/3/2015
+334,22,,Green Chillies,"2 (large, slit lengthwise)",1/3/2015
+335,22,,Coconut Milk,3 cups,1/3/2015
+336,22,,Turmeric,1/2 tablespoon,1/3/2015
+337,22,,Sunflower Oil,4 tablespoon,1/3/2015
+338,22,,Red Chilly Powder,2 tablespoon,1/3/2015
+339,22,,Corriander Powder ,2 tablespoon,1/3/2015
+340,22,,Ginger,"1/2 (piece, peeled & finely minced)",1/3/2015
+341,22,,Pepper,1 tablespoon,1/3/2015
+342,22,,Salt,1 tablespoon,1/3/2015
+343,22,,Lemon,1 (juice),1/3/2015
+344,22,,Curry Leaves,2 stalks,1/3/2015
+345,23,Fish.jpg,Fish (White),"500 gm (cubes, boneless, skinless)",1/3/2015
+346,23,,Coconut,1 (grated),1/3/2015
+347,23,,Kashmiri Chilli,6,1/3/2015
+348,23,,Ginger ,1 tablespoon (paste),1/3/2015
+349,23,,Corriander Powder ,2 tablespoon,1/3/2015
+350,23,,Garlic,2 tablespoon (paste),1/3/2015
+351,23,,Onions,"2 (medium, finely chopped)",1/3/2015
+352,23,,Green Chillies,"2 (large, slit lengthwise)",1/3/2015
+353,23,,Red Chilly Powder,1/2 tablespoon,1/3/2015
+354,23,,Cumins Powder,2 tablespoon,1/3/2015
+355,23,,Turmeric Powder,1/2 tablespoon,1/3/2015
+356,23,,Tamarind,1 & 1/2 lumps ,1/3/2015
+357,23,,Lemon,1,1/3/2015
+358,23,,Salt,To taste,1/3/2015
+359,24,,Prawns,"500 gm (peeled, deveined)",1/3/2015
+360,24,,Coconut,1 (tender),1/3/2015
+361,24,,Ginger,"1 (piece, peeled & finely minced)",1/3/2015
+362,24,,Garlic,"1 (cloives, finely minced)",1/3/2015
+363,24,,Tomato,1,1/3/2015
+364,24,,Green Chillies,"4 (large, slit lengthwise)",1/3/2015
+365,24,,Onions,"2 (medium, finely chopped)",1/3/2015
+366,24,,Mustard Paste,3 tablespoon,1/3/2015
+367,24,,Mustard Oil,3 tablespoon  ,1/3/2015
+368,24,,Salt,To taste,1/3/2015
+369,24,,Flour dough,To cover the coconut,1/3/2015
+370,25,Fish.jpg,Tuna,250 gms,1/3/2015
+371,25,,Cream Cheese,100 gms,1/3/2015
+372,25,,Avocado,"1 (ripe, mashed)",1/3/2015
+373,25,,Lemon Juice,1 tablespoon,1/3/2015
+374,25,,Chilli Powder,1 tablespoon,1/3/2015
+375,25,,Salt,1/2 tablespoon,1/3/2015
+376,25,,Tobasco Sauce,1/2 tablespoon,1/3/2015
+377,25,,Worcestershire Sauce,1/2 tablespoon,1/3/2015
+378,25,,Tomato,12,1/3/2015
+379,26,Fish.jpg,Fish,500 grams (cut into medium sized pieces),1/3/2015
+380,26,,Chilli Powder,3 tablespoon,1/3/2015
+381,26,,Black Pepper,3 tablespoon (crushed),1/3/2015
+382,26,,Ginger Paste,1 tablespoon,1/3/2015
+383,26,,Garlic Paste,1 tablespoon,1/3/2015
+384,26,,Curry Leaves,10,1/3/2015
+385,27,Fish.jpg,Fish,500 grams (cut into medium sized pieces),1/3/2015
+386,27,,Flour,200 gm,1/3/2015
+387,27,,Garlic Paste,1 tablespoon,1/3/2015
+388,27,,Ginger Paste,1 tablespoon,1/3/2015
+389,27,,Carom Seeds,1 tablespoon,1/3/2015
+390,27,,Lemons,1 (cut into wedges),1/3/2015
+391,27,,Red Chilli Powder,1 tablespoon,1/3/2015
+392,27,,Salt,To taste,1/3/2015
+393,27,,Egg,1,1/3/2015
+394,27,,Oil,4 tablespoon,1/3/2015
+395,28,Fish.jpg,Pomfret,1,1/3/2015
+396,28,,Ginger Paste,2 tablespoon,1/3/2015
+397,28,,Garlic Paste,2 tablespoon,1/3/2015
+398,28,,Oil,4 tablespoon,1/3/2015
+399,28,,Turmeric Powder,1/2 tablespoon,1/3/2015
+400,28,,Red Chilli Powder,1 tablespoon,1/3/2015
+401,28,,Corriander Powder,1 tablespoon,1/3/2015
+402,28,,Lemon,1 (juiced),1/3/2015
+403,28,,Semolina,3 tablespoon,1/3/2015
+404,28,,Rice Flour,1 tablespoon,1/3/2015
+405,28,,Salt,To Taste,1/3/2015
+406,28,,Black Pepper,1 tablespoon,1/3/2015
+407,29,Fish.jpg,Catfish,5,1/3/2015
+408,29,,Turmeric Powder,1/2 tablespoon,1/3/2015
+409,29,,Red Chilli Powder,1 tablespoon,1/3/2015
+410,29,,Onion,2 (thinly sliced),1/3/2015
+411,29,,Tomato,1 (cut into small pieces),1/3/2015
+412,29,,Garlic,1 (thinly sliced),1/3/2015
+413,29,,Ginger Paste,1 tablespoon,1/3/2015
+414,29,,Black Pepper,1/2 tablespoon,1/3/2015
+415,29,,Cumin Powder,1 tablespoon,1/3/2015
+416,29,,Red Chilli ,1 (dry),1/3/2015
+417,29,,Mustard Oil,4 tablespoon,1/3/2015
+418,29,,Salt,To taste,1/3/2015
+419,30,Fish.jpg,Fish,"1 kg (Carb, cut into big pieces)",1/3/2015
+420,30,,Ginger Paste,1 tablespoon,1/3/2015
+421,30,,Garlic Paste,1 tablespoon,1/3/2015
+422,30,,Onion,"1 (medium sized, grounded)",1/3/2015
+423,30,,Yogurt,1 cup,1/3/2015
+424,30,,Turmeric Powder,1/2 tablespoon,1/3/2015
+425,30,,Red Chilli Powder,1/2 tablespoon,1/3/2015
+426,30,,Mustard Oil,4 tablespoon,1/3/2015
+427,30,,Salt,1 tablespoon,1/3/2015
+428,30,,Bay Leaf,1,1/3/2015
+429,30,,Sugar,1/2 tablespoon,1/3/2015
+430,30,,Cloves,3,1/3/2015
+431,30,,Corrainder,2 tablespoon,1/3/2015
+432,30,,Cumin Seeds,1 tablespoon,1/3/2015
+433,30,,Cardamom Seeds,2 pod,1/3/2015
+434,30,,Cinnamon Stick,1 (1' stick),1/3/2015
+435,31,Fish.jpg,Fish (Rohu/Carp) ,500 grams (cut into medium sized pieces),1/4/2015
+436,31,,Tomato,2 (cut into pieces),1/4/2015
+437,31,,Raw Mango,1 (chopped into cubes),1/4/2015
+438,31,,Corriander Powder,1 tablespoon,1/4/2015
+439,31,,Red Chilli Powder,1 tablespoon,1/4/2015
+440,31,,Turmeric Powder,1/2 tablespoon,1/4/2015
+441,31,,Cumin Powder,1/2 tablespoon,1/4/2015
+442,31,,Salt,To taste,1/4/2015
+443,31,,Coconut,1/2 cup (shreded),1/4/2015
+444,31,,Green Chilli,4 nos (slit),1/4/2015
+445,31,,Shallots,8 nos,1/4/2015
+446,31,,Garlic,4 pods,1/4/2015
+447,31,,Ginger,1/2 inch stem,1/4/2015
+448,31,,Cumin Powder,1/2 tablespoon,1/4/2015
+449,31,,Curry Leaves,5,1/4/2015
+450,31,,Coconut Oil,2 tablespoon,1/4/2015
+451,31,,Mustard Seeds,2 tablespoon,1/4/2015
+452,31,,Red Chilli  ,1 (dried),1/4/2015
+453,31,,Onion,"1 (medium, chopped)",1/4/2015
+454,32,Fish.jpg,Fish (Rohu or Katla),"500 gm (cubes, boneless, skinless)",1/4/2015
+455,32,,Potato,"2 (medium, cut into quarters)",1/4/2015
+456,32,,Onion,"2 (1 chopped, 1 paste)",1/4/2015
+457,32,,Ginger,1 inch (minced),1/4/2015
+458,32,,Garlic,3 cloves (minced),1/4/2015
+459,32,,Green Chilli,3 (sliced),1/4/2015
+460,32,,Tomato,1 (pureed),1/4/2015
+461,32,,Turmeric Powder,1/2 tablespoon,1/4/2015
+462,32,,Red Chilli Powder,1 tablespoon,1/4/2015
+463,32,,Salt,To taste,1/4/2015
+464,32,,Sugar,1 tablespoon,1/4/2015
+465,32,,Cinnamon ,1 small stick,1/4/2015
+466,32,,Cardamom,2 pods,1/4/2015
+467,32,,Cloves,2 nos,1/4/2015
+468,32,,Garam Masala Powder,1/4 tablespoon,1/4/2015
+469,32,,Bay Leaf,2,1/4/2015
+470,32,,Dry Red Chilli,1,1/4/2015
+471,32,,Corriander Leaves,Few (chopped),1/4/2015
+472,32,,Mustard Oil,7 tablespoon,1/4/2015
+473,32,,Clarified Butter,1 tablespoon,1/4/2015
+474,33,Fish.jpg,Fish (White),"500 gm (cubes, boneless, skinless)",1/4/2015
+475,33,,Coconut,1 (grated),1/4/2015
+476,33,,Garlic,5 cloves,1/4/2015
+477,33,,Kokam,5 (medium),1/4/2015
+478,33,,Turmeric Powder,1/4 tablespoon,1/4/2015
+479,33,,Red Chilli Powder,1/2 tablespoon,1/4/2015
+480,33,,Garam Masala Powder,1/4 tablespoon,1/4/2015
+481,33,,Lemon Juice,1/2 tablespoon,1/4/2015
+482,33,,Olive Oil,2 tablespoon,1/4/2015
+483,33,,Salt,To taste,1/4/2015
+484,33,,Cilantro,Few (chopped),1/4/2015
+485,33,,Onion,"2 (medium, sliced)",1/4/2015
+486,33,,Pepper,1/2 tablespoon (grounded),1/4/2015
+487,33,,Kasori Methi,1/2 tablespoon,1/4/2015
+488,34,Fish.jpg,Hilsa Fish,500 gms (cut into pieces),1/4/2015
+489,34,,Mustard Paste,2 tablespoon,1/4/2015
+490,34,,Turmeric Powder,1 tablespoon,1/4/2015
+491,34,,Tomato,1,1/4/2015
+492,34,,Tamarind,1/4 tablespoon,1/4/2015
+493,34,,Salt,To taste,1/4/2015
+494,34,,Garlic,1 pod,1/4/2015
+495,34,,Green Chilli,6 (slit),1/4/2015
+496,34,,Mustard Oil,3 tablespoon,1/4/2015
+497,34,,Corriander Leaves,Few (chopped),1/4/2015
+498,35,Fish.jpg,Cat Fish,500 gms (cut into big pieces),1/4/2015
+499,35,,Tamarind Juice,1 cup,1/4/2015
+500,35,,Onion,"1 (large, chopped)",1/4/2015
+501,35,,Tomato,"2 (medium, chopped)",1/4/2015
+502,35,,Green Chilli,4 (slit),1/4/2015
+503,35,,Curry Leaves,1 spring,1/4/2015
+504,35,,Garlic ,8 pods (minced),1/4/2015
+505,35,,Dry Red Chilli,2 no,1/4/2015
+506,35,,Peppercon,1 tablespoon,1/4/2015
+507,35,,Salt,To taste,1/4/2015
+508,35,,Fish Masala Powder,3 tablespoon,1/4/2015
+509,35,,Turmeric,1 tablespoon,1/4/2015
+510,35,,Canola Oil,5 tablespoon,1/4/2015
+511,35,,Sugar,1/2 tablespoon,1/4/2015
+512,36,,Calamari Rings,250 gms,1/4/2015
+513,36,,Achari Spice Powder,1 tablespoon,1/4/2015
+514,36,,Salt,To taste,1/4/2015
+515,36,,Lemon Juice,2 tablespoon,1/4/2015
+516,36,,Red Chilli Powder,1 tablespoon,1/4/2015
+517,36,,Nigella Seeds,1/2 tablespoon,1/4/2015
+518,36,,Ani Seeds,1/2 tablespoon,1/4/2015
+519,36,,Yogurt,100 gms,1/4/2015
+520,36,,Ginger Paste,1 tablespoon,1/4/2015
+521,36,,Garlic Paste,1 tablespoon,1/4/2015
+522,36,,Olive Oil,3 tablespoon,1/4/2015
+523,37,Fish.jpg,Pomfret,6 fillets,1/4/2015
+524,37,,Coconut ,1 (grated finely),1/4/2015
+525,37,,Green Chillies,3 (slit lengthwise),1/4/2015
+526,37,,Coriander leaves,1 small bunch (chopped),1/4/2015
+527,37,,Mint,1 small bunch (chopped),1/4/2015
+528,37,,Ginger,1 inch (minced),1/4/2015
+529,37,,Garlic,3 cloves (minced),1/4/2015
+530,37,,Cumin Powder,1/2 tablespoon,1/4/2015
+531,37,,Turmeric Powder,1/4 tablespoon,1/4/2015
+532,37,,Lime Juice,4 tablespoon,1/4/2015
+533,37,,Salt,To taste,1/4/2015
+534,37,,Banana Leaf,"1 (washed, central spine removed and cut into 6 pieces)",1/4/2015
+535,37,,Canola Oil,3 tablespoon,1/4/2015
+536,38,Fish.jpg,Basa,500 gms (fillet),1/4/2015
+537,38,,Garlic Paste,1/2 tablespoon,1/4/2015
+538,38,,Ginger Paste,1/2 tablespoon,1/4/2015
+539,38,,Rosemary,1 tablespoon (minced),1/4/2015
+540,38,,Oregano,1/2 tablespoon (minced),1/4/2015
+541,38,,Thyme,1/2 tablespoon (minced),1/4/2015
+542,38,,Paprika,1/2 tablespoon,1/4/2015
+543,38,,Pepper,1/4 tablespoon (grounded),1/4/2015
+544,38,,Lime Juice,1 tablespoon   ,1/4/2015
+545,38,,Butter,50 gms,1/4/2015
+546,38,,Salt,To taste,1/4/2015
+547,38,,Mushroom,4 pods (sliced),1/4/2015
+548,38,,Carrot,1 (sliced),1/4/2015
+549,38,,Olive Oil,3 tablespoon,1/4/2015
+550,39,Fish.jpg,Pomfret,"1 (large, thinly sliced)",1/4/2015
+551,39,,Turmeric Powder,1 tablespoon,1/4/2015
+552,39,,Lemon Juice,1 tablespoon,1/4/2015
+553,39,,Salt,To taste,1/4/2015
+554,39,,Onion,"1 (large, thinly sliced)",1/4/2015
+555,39,,Tomato,"1 (medium, sliced)",1/4/2015
+556,39,,Ginger,1 inch (minced),1/4/2015
+557,39,,Garlic,4 cloves (minced),1/4/2015
+558,39,,Black Pepper Powder,1 tablespoon,1/4/2015
+559,39,,Coconut Milk,1 cup,1/4/2015
+560,39,,Mustard Seeds,1/2 tablespoon,1/4/2015
+561,39,,Curry Leaves,2 spring (chopped),1/4/2015
+562,39,,Green Chilli,3 (slit lengthwise),1/4/2015
+563,39,,Coconut Oil,3 tablespoon,1/4/2015
+564,40,Fish.jpg,Pavdo Fish,1 kg (cut into big pieces),1/4/2015
+565,40,,Cumin Seeds,1/4 tablespoon,1/4/2015
+566,40,,Fenugreek Seeds,1/4 tablespoon,1/4/2015
+567,40,,Brown Mustard Seeds,1/4 tablespoon,1/4/2015
+568,40,,Fennel Seeds,1/4 tablespoon,1/4/2015
+569,40,,Nigella Seeds,1/4 tablespoon,1/4/2015
+570,40,,Mustard Paste,4 tablespoon,1/4/2015
+571,40,,Onion,"2 (medium, chopped)",1/4/2015
+572,40,,Green Chilli,4 (slit lengthwise),1/4/2015
+573,40,,Mustard Oil,4 tablespoon,1/4/2015
+574,40,,Sugar,1/4 tablespoon,1/4/2015
+575,40,,Ginger Paste,2 tablespoon,1/4/2015
+576,41,Mutton.jpg,Mutton,1 kg (cut into medium sized pieces),1/5/2015
+577,41,,Yogurt,1 cup,1/5/2015
+578,41,,Creaam,1/2 cup,1/5/2015
+579,41,,Ginger ,1 tablespoon (minced cloves),1/5/2015
+580,41,,Garlic,1 tablespoon (minced),1/5/2015
+581,41,,Cloves,4 pods,1/5/2015
+582,41,,Coriander Powder,1 tablespoon,1/5/2015
+583,41,,Saffron,1 tablespoon,1/5/2015
+584,41,,Onion,"2 (medium, chopped)",1/5/2015
+585,41,,Cardamom,4,1/5/2015
+586,41,,Cinnamon ,1 stick,1/5/2015
+587,41,,Clarified Butter,4 tablespoon,1/5/2015
+588,41,,Cayenne Pepper,1 tablespoon,1/5/2015
+589,41,,Bay Leaf,2,1/5/2015
+590,41,,Milk,3 tablespoon,1/5/2015
+591,41,,Cumin Seed,1 tablespoon,1/5/2015
+592,41,,Almonds,1/2 cup,1/5/2015
+593,42,Mutton.jpg,Mutton,500 gms (cubed),1/5/2015
+594,42,,Onion,"1 (large, finely chopped)",1/5/2015
+595,42,,Red Chilli,7 (whole),1/5/2015
+596,42,,Turmeric Powder,1/2 tablespoon,1/5/2015
+597,42,,Pepper Powder,1/2 tablespoon,1/5/2015
+598,42,,Ginger,"1 (stick, minced)",1/5/2015
+599,42,,Garlic,"7 (cloved, minced)",1/5/2015
+600,42,,Cumin Seed,1/2 tablespoon,1/5/2015
+601,42,,Mustard Seed,1/2 tablespoon,1/5/2015
+602,42,,Cinnamon,2 pods,1/5/2015
+603,42,,Clove,4 pods,1/5/2015
+604,42,,Vinegar,1/4 cup,1/5/2015
+605,42,,Coconut Milk,1/2 cup,1/5/2015
+606,42,,Sugar,1 tablespoon,1/5/2015
+607,42,,Oil,5 tablespoon,1/5/2015
+608,42,,Salt,To taste,1/5/2015
+609,43,Mutton.jpg,Mutton,1 kg (cut into big sized pieces),1/5/2015
+610,43,,Rice,4 cups (Basmati or long grained rice),1/5/2015
+611,43,,Oil,1 cup,1/5/2015
+612,43,,Clarified Butter,3 tablespoon,1/5/2015
+613,43,,Onion,2 (finely chopped),1/5/2015
+614,43,,Tomato,2 (chopped),1/5/2015
+615,43,,Ginger Paste,2 tablespoon,1/5/2015
+616,43,,Garlic Paste,2 tablespoon,1/5/2015
+617,43,,Yogurt,1 cup,1/5/2015
+618,43,,Salt,2 tablespoon,1/5/2015
+619,43,,Red Chilli Powder,2 tablespoon,1/5/2015
+620,43,,Turmeric Powder,1/2 tablespoon,1/5/2015
+621,43,,Green Chilli,3 (slit length-wise),1/5/2015
+622,43,,Cilantro,1/2 branch,1/5/2015
+623,43,,Clove,2 pods,1/5/2015
+624,43,,Cinnamon,1 stick,1/5/2015
+625,43,,Cardamom,2 pods,1/5/2015
+626,44,Mutton.jpg,Mutton,500 gms,1/5/2015
+627,44,,Fennel Seed,1/4 tablespoon (powdered),1/5/2015
+628,44,,Kashmiri Red Chilli Powder,2 tablespoon,1/5/2015
+629,44,,Saffron,2 threads,1/5/2015
+630,44,,Cumin Seeds,1/4 tablespoon   ,1/5/2015
+631,44,,Cardamom,4 pods,1/5/2015
+632,44,,Cinnamon Sticks,2,1/5/2015
+633,44,,Salt ,To taste,1/5/2015
+634,44,,Turmeric,1/4 tablespoon,1/5/2015
+635,44,,Clarified Butter,2 tablespoon,1/5/2015
+636,44,,Onion,"2 (medium, finely chopped)",1/5/2015
+637,44,,Asafoetida (Hing),1 tablespoon,1/5/2015
+638,44,,Dry Ginger Powder,1 tablespoon,1/5/2015
+639,44,,Yogurt,1 cup (whisked),1/5/2015
+640,44,,Black Peppercorn,4 pods,1/5/2015
+641,44,,Mustard Oil,5 tablespoon,1/5/2015
+642,45,Mutton.jpg,Mutton,1 kg (cut into medium sized pieces),1/5/2015
+643,45,,Onions,"3 (big, chopped)",1/5/2015
+644,45,,Cloves,5 pods,1/5/2015
+645,45,,Cinnamon,3 sticks,1/5/2015
+646,45,,Onions,"2 (big, chopped and deep fried)",1/5/2015
+647,45,,Bay Leaf,2,1/5/2015
+648,45,,Red Chilli,4 (whole),1/5/2015
+649,45,,Ginger,2 tablespoon (minced),1/5/2015
+650,45,,Garlic,2 tablespoon (minced),1/5/2015
+651,45,,Black Cardamom,4 pods,1/5/2015
+652,45,,Black Peppercorn,1 tablespoon,1/5/2015
+653,45,,Clarified Butter,1 tablespoon,1/5/2015
+654,45,,Salt ,To taste,1/5/2015
+655,45,,Turmeric Powder,1/4 tablespoon,1/5/2015
+656,45,,Yogurt,1/2 cup,1/5/2015
+657,46,Mutton.jpg,Lamb,1 kgs (cut into medium sized pieces),1/5/2015
+658,46,,Yogurt,1/2 cup,1/5/2015
+659,46,,Red Chiili,4 (dried),1/5/2015
+660,46,,Green Chilli,3,1/5/2015
+661,46,,Saffron ,5 threads,1/5/2015
+662,46,,Almonds,"20 (whole, branched)",1/5/2015
+663,46,,Turmeric Powder,1/2 tablespoon,1/5/2015
+664,46,,Onion,"2 (large, thinly sliced)",1/5/2015
+665,46,,Cumin Seed,1 tablespoon,1/5/2015
+666,46,,Ginger,1 piece (peeled and grated),1/5/2015
+667,46,,Garlic,5 cloves (crushed),1/5/2015
+668,46,,Vegetable Oil,5 tablespoon,1/5/2015
+669,46,,Coconut,"1/4 cup (grated, dried)",1/5/2015
+670,46,,Corriander Leaf,Handful (chopped),1/5/2015
+671,47,Mutton.jpg,Mutton,"500 gms (boneless, cubed into large pieces)",1/5/2015
+672,47,,Garlic Paste,1 tablespoon,1/5/2015
+673,47,,Ginger Paste,1 tablespoon,1/5/2015
+674,47,,Papaya,"2 tablespoon (raw, grated)",1/5/2015
+675,47,,Onions,"2 (large, cut into big pieces)",1/5/2015
+676,47,,Tomato,"4 (large, cut into big pieces)",1/5/2015
+677,47,,Red Chilli Powder,2 tablespoon  ,1/5/2015
+678,47,,Yogurt,1 cup,1/5/2015
+679,47,,Corriander Powder,1 tablespoon,1/5/2015
+680,47,,Garam Masala,1 tablespoon,1/5/2015
+681,47,,Salt,To taste,1/5/2015
+682,47,,Skewers,4,1/5/2015
+683,47,,Oil,3 tablespoon,1/5/2015
+684,47,,Brush,1 (For the meat),1/5/2015
+685,47,,Chat Masala,Pinch,1/5/2015
+686,48,Mutton.jpg,Mutton Leg,1 kg (whole),1/5/2015
+687,48,,Onions,"2 (large, thinly sliced)",1/5/2015
+688,48,,Clarified Butter,4 tablespoon,1/5/2015
+689,48,,Papaya,4 tablespoon (raw paste),1/5/2015
+690,48,,Khoya,3 tablespoon,1/5/2015
+691,48,,Ginger Paste,1 tablespoon,1/5/2015
+692,48,,Garlic Paste,1 tablespoon,1/5/2015
+693,48,,Red Chilli Powder,2 tablespoon,1/5/2015
+694,48,,Grams,"2 tablespoon (parched, powdered)",1/5/2015
+695,48,,Almonds,"2 tablespoon (blanced, grounded with water)",1/5/2015
+696,48,,Corriander Powder,1 tablespoon,1/5/2015
+697,48,,Black Pepper,2 tablespoon,1/5/2015
+698,48,,Turmeric Powder,1 tablespoon,1/5/2015
+699,48,,Garam Masala,1 tablespoon,1/5/2015
+700,48,,Cardamom,1 tablespoon (powder),1/5/2015
+701,48,,Mace,1 tablespoon (powder),1/5/2015
+702,48,,Salt,To taste,1/5/2015
+703,48,,Saffron,4 threads,1/5/2015
+704,49,Mutton.jpg,Lamb,6 chops (1.24 inch thick),1/5/2015
+705,49,,Olive Oil,2 tablespoon,1/5/2015
+706,49,,Thyme Leaf,1 tablespoon (lightly crushed),1/5/2015
+707,49,,Rosemary Leaf,1 tablespoon (lightly crushed),1/5/2015
+708,49,,Salt,To taste,1/5/2015
+709,49,,Pepper,To taste,1/5/2015
+710,49,,Basil,1 tablespoon  ,1/5/2015
+711,50,Mutton.jpg,Mutton,500 gms (minced),1/5/2015
+712,50,,Fenugreek Leaf (Meethi),250 gms (chopped),1/5/2015
+713,50,,Onion,1 grated,1/5/2015
+714,50,,Tomato,2 (chopped),1/5/2015
+715,50,,Ginger Paste,1 tablespoon,1/5/2015
+716,50,,Garlic Paste,1 tablespoon,1/5/2015
+717,50,,Cumin Seed,1 tablespoon,1/5/2015
+718,50,,Turmeric Powder,1/2 tablespoon,1/5/2015
+719,50,,Black Pepper,1/2 tablespoon,1/5/2015
+720,50,,Red Pepper,1/2 tablespoon,1/5/2015
+721,50,,Garam Masala,1 tablespoon,1/5/2015
+722,50,,Bay Leaf,2,1/5/2015
+723,50,,Mustard Oil,5 tablespoon,1/5/2015
+724,50,,Salt,To taste,1/5/2015
+725,51,Mutton.jpg,Mutton,500 gms (leg cut into cubes),1/6/2015
+726,51,,Mutton,250 gms (minced),1/6/2015
+727,51,,Cinnamon,1 stick,1/6/2015
+728,51,,Black Cardamom,2 pods,1/6/2015
+729,51,,Green Cardamom,4 pods,1/6/2015
+730,51,,Black Peppercorns,5 pods,1/6/2015
+731,51,,Cloves,3 pods,1/6/2015
+732,51,,Star Anise,A pinch,1/6/2015
+733,51,,Bay Leaves,2,1/6/2015
+734,51,,Dry Red Chilli,7,1/6/2015
+735,51,,Cumin Seeds,1 tablespoon,1/6/2015
+736,51,,Ginger Paste,1 tablespoon,1/6/2015
+737,51,,Garlic Paste,1 tablespoon,1/6/2015
+738,51,,Onions,"2 (medium, finely chopped)",1/6/2015
+739,51,,Tomato,"3 (medium, chopped)",1/6/2015
+740,51,,Yogurt,3 tablespoon,1/6/2015
+741,51,,Corriander Powder,1 tablespoon,1/6/2015
+742,51,,Garam Masala,1/2 tablespoon,1/6/2015
+743,51,,Salt,To taste,1/6/2015
+744,51,,Clarified Butter,4 tablespoon,1/6/2015
+745,52,Mutton.jpg,Lamb,"1 kg (boneless, thinly sliced)",1/6/2015
+746,52,,Blackbean Sauce,2 tablespoon,1/6/2015
+747,52,,Soy Sauce,2 tablespoon,1/6/2015
+748,52,,Vinegar,1 tablespoon,1/6/2015
+749,52,,Garlic,3 cloves (crushed),1/6/2015
+750,52,,Ginger,1 tablespoon (minced),1/6/2015
+751,52,,Chinese Spice Powder,1/2 tablespoon,1/6/2015
+752,52,,Peanut Oil,2 tablespoon,1/6/2015
+753,52,,Sesame Oil,1/2 tablespoon,1/6/2015
+754,52,,Onion,"2 (medium, thinly sliced crossways)",1/6/2015
+755,52,,Cornflour,1 tablespoon,1/6/2015
+756,52,,Shallots,"4 (green, thinly sliced)",1/6/2015
+757,53,Mutton.jpg,Lamb,500 gms (minced),1/6/2015
+758,53,,Chana Dal,1/2 cup (roasted),1/6/2015
+759,53,,Flour,1 cup,1/6/2015
+760,53,,Cornflour,2 tablespoon,1/6/2015
+761,53,,Ginger Paste,1 tablespoon,1/6/2015
+762,53,,Garlic Paste,1 tablespoon,1/6/2015
+763,53,,Papaya Paste,2 tablespoon,1/6/2015
+764,53,,Green Chilli ,1/2 tablespoon (paste),1/6/2015
+765,53,,Onion,"1 (large, finely chopped)",1/6/2015
+766,53,,Red Chilli Powder,1/2 tablespoon   ,1/6/2015
+767,53,,Turmeric Powder,1/4 tablespoon,1/6/2015
+768,53,,Cilantro,3 tablespoon (chopped),1/6/2015
+769,53,,Salt ,To taste,1/6/2015
+770,53,,Oil,8 tablespoon,1/6/2015
+771,53,,Lemon Juice ,2 tablespoon,1/6/2015
+772,54,Mutton.jpg,Mutton,500 gms (minced),1/6/2015
+773,54,,Corriander Powder,2 tablespoon,1/6/2015
+774,54,,Red Chilli Powder,1/4 tablespoon,1/6/2015
+775,54,,Onion,"2 (medium, chopped)",1/6/2015
+776,54,,Ginger,1 inch (minced),1/6/2015
+777,54,,Garlic,8 cloves (crushed),1/6/2015
+778,54,,Salt,To taste,1/6/2015
+779,54,,Water,1/4 cup,1/6/2015
+780,54,,Garam Masala,1 & 1/2 tablespoon,1/6/2015
+781,54,,Channa Dal,1/3 cup,1/6/2015
+782,54,,Peppercorn,1/4 tablespoon,1/6/2015
+783,54,,Cinnamon,1 stick (small),1/6/2015
+784,54,,Cloves,2 pods,1/6/2015
+785,54,,Cardamom,2 pods,1/6/2015
+786,54,,Corrainder Leaves,1/4 cup,1/6/2015
+787,54,,Pudina,1 cup,1/6/2015
+788,54,,Egg,1 (beaten),1/6/2015
+789,54,,Oil,6 tablespoon,1/6/2015
+790,55,Mutton.jpg,Mutton,1 kg (cut into medium sized pieces),1/6/2015
+791,55,,Onions,"1 (big, chopped)",1/6/2015
+792,55,,Cloves,5 pods,1/6/2015
+793,55,,Cinnamon,2 sticks,1/6/2015
+794,55,,Clarified Butter,2 tablespoon  ,1/6/2015
+795,55,,Bay Leaf,2,1/6/2015
+796,55,,Black Cardamom,3 pods,1/6/2015
+797,55,,Corriander Powder,2 tablespoon,1/6/2015
+798,55,,Red Chilli Powder,1 tablespoon,1/6/2015
+799,55,,Turmeric Powder,1/4 tablespoon,1/6/2015
+800,55,,Ginger,2 tablespoon (minced),1/6/2015
+801,55,,Garlic,2 tablespoon (minced),1/6/2015
+802,55,,Salt ,To taste,1/6/2015
+803,55,,Yogurt,1 cup,1/6/2015
+804,55,,Flour,1 tablespoon,1/6/2015
+805,55,,Gram Flour,2 tablespoon,1/6/2015
+806,55,,Mace,1/2 tablespoon (powdered),1/6/2015
+807,55,,Aniseed,1 tablespoon (powdered),1/6/2015
+808,55,,Green Cardamom,5 pods (powdered),1/6/2015
+809,55,,Saffron,Few strands,1/6/2015
+810,55,,Lemon Juice,1 tablespoon,1/6/2015
+811,55,,Corriander Powder,4 tablespoon,1/6/2015
+812,55,,Vetiver Essence,2 tablespoon,1/6/2015
+813,56,,Lamb,"500 gms (boneless, cubed)",1/6/2015
+814,56,Mutton.jpg,Yogurt,1/2 cup,1/6/2015
+815,56,,Ginger,1 tablespoon,1/6/2015
+816,56,,Garlic,1 tablespoon,1/6/2015
+817,56,,Turmeric Powder,1 tablespoon,1/6/2015
+818,56,,Almonds,"20 (whole, branched)",1/6/2015
+819,56,,Red Chiili Powder,1 tablespoon,1/6/2015
+820,56,,Salt ,To taste,1/6/2015
+821,56,,Garam Masala,1/2 tablespoon,1/6/2015
+822,56,,Vegetable Oil,5 tablespoon,1/6/2015
+823,57,Mutton.jpg,Mutton,"500 gms (boneless, minced)",1/6/2015
+824,57,,Bengal Gram Lentil (Chana Dal),3 tablespoon,1/6/2015
+825,57,,Green Chilli,4 (finely chopped),1/6/2015
+826,57,,Corriander Leaves,1/4 cup (chopped),1/6/2015
+827,57,,Mint Leaves,1/4 cup (chopped),1/6/2015
+828,57,,Ginger Paste,1 tablespoon,1/6/2015
+829,57,,Garlic Paste,1 tablespoon,1/6/2015
+830,57,,Red Chilli Powder,1 tablespoon,1/6/2015
+831,57,,Turmeric Powder,1/4 tablespoon,1/6/2015
+832,57,,Black Pepper Powder,1/2 tablespoon,1/6/2015
+833,57,,Garam Masala,1 tablespoon,1/6/2015
+834,57,,Lemon Juice,1 tablespoon,1/6/2015
+835,57,,Salt,To taste,1/6/2015
+836,57,,Oil,1/2 cup,1/6/2015
+837,58,Mutton.jpg,Mutton ,1 kg (cut into pieces),1/6/2015
+838,58,,Onions,"2 (large, thinly sliced)",1/6/2015
+839,58,,Canola Oil,4 tablespoon,1/6/2015
+840,58,,Tomato,"2 (large, diced)",1/6/2015
+841,58,,Ginger Paste,1 tablespoon,1/6/2015
+842,58,,Garlic Paste,1 tablespoon,1/6/2015
+843,58,,Corriander Powder,1 tablespoon,1/6/2015
+844,58,,Cumin Powder,1 tablespoon,1/6/2015
+845,58,,Turmeric Powder,1 tablespoon,1/6/2015
+846,58,,Red Chilli Powder,2 tablespoon,1/6/2015
+847,58,,Garam Masala,1 tablespoon,1/6/2015
+848,58,,Salt,To taste,1/6/2015
+849,58,,Fenugreek Leaves,500 gms (finely chopped),1/6/2015
+850,59,Mutton.jpg,Mutton,1 kg (cubed),1/6/2015
+851,59,,Olive Oil,2 tablespoon,1/6/2015
+852,59,,Ginger Paste,1 tablespoon,1/6/2015
+853,59,,Ginger ,1 inch (cut into sticks),1/6/2015
+854,59,,Green Chilly,4 (finely chopped),1/6/2015
+855,59,,Tomato,"3 (medium, chopped)",1/6/2015
+856,59,,Black Pepper,1 tablespoon (grounded),1/6/2015
+857,59,,Garam Masala,2 tablespoon,1/6/2015
+858,59,,Corriander,1/2 bunch (chopped),1/6/2015
+859,59,,Turmeric Powder,1 tablespoon,1/6/2015
+860,59,,Corriander Powder,1 tablespoon,1/6/2015
+861,59,,Red Chilli Powder,1 tablespoon,1/6/2015
+862,59,,Salt,To taste,1/6/2015
+863,60,Mutton.jpg,Mutton,500 gms (minced),1/6/2015
+864,60,,Curd,300 ml,1/6/2015
+865,60,,Onion Paste,1/4 cup,1/6/2015
+866,60,,Ginger,1 tablespoon (grated),1/6/2015
+867,60,,Garlic,1 tablespoon (minced),1/6/2015
+868,60,,Salt,1 tablespoon,1/6/2015
+869,60,,Bay Leaves,2,1/6/2015
+870,60,,Red Chilli,4 (dry),1/6/2015
+871,60,,Black Peppercorn,1 tablespoon,1/6/2015
+872,60,,Cinnamon,1 stick,1/6/2015
+873,60,,Clove,1 tablespoon,1/6/2015
+874,60,,Green Cardamom,1 tablespoon,1/6/2015
+875,60,,Clarified Butter (Ghee),2 tablespoon,1/6/2015
+876,60,,Poppy Seed Paste,3 tablespoon,1/6/2015
+877,60,,Cashew Nut Paste,2 tablespoon,1/6/2015
+878,60,,Nutmeg Powder,1/2 tablespoon,1/6/2015
+879,60,,Mace,1/2 tablespoon (crushed),1/6/2015
+880,60,,Sugar,1 tablespoon,1/6/2015
+881,61,Pork.jpg,Pork,1 kg (Slab of spare ribs),1/7/2015
+882,61,,Onion,"2 (large, sliced)",1/7/2015
+883,61,,Ginger Paste,1 tablespoon,1/7/2015
+884,61,,Garlic Paste,1 tablespoon,1/7/2015
+885,61,,Sugar,2 tablespoon,1/7/2015
+886,61,,Salt,1 tablespoon,1/7/2015
+887,61,,BBQ Sauce,2 tablespoon,1/7/2015
+888,61,,Soy Sauce,4 tablespoon,1/7/2015
+889,61,,Black Pepper,1 tablespoon,1/7/2015
+890,61,,Cilantro,1 cup (coarsely chopped),1/7/2015
+891,61,,Scallion (Spring Onion),10 (coarsely chopped),1/7/2015
+892,62,Pork.jpg,Pork Tenderloin,1 kg (trimmed & cut cross-wise)  ,1/7/2015
+893,62,,Chilli Powder,2 tablespoon,1/7/2015
+894,62,,Salt,To Taste,1/7/2015
+895,62,,Pepper,1 tablespoon,1/7/2015
+896,62,,Paprika,1 tablespoon (smoked),1/7/2015
+897,62,,Sugar,1 tablespoon,1/7/2015
+898,62,,Vinegar,2 tablespoon,1/7/2015
+899,62,,Oil,3 tablespoon (Vegetable/Canola),1/7/2015
+900,62,,Ginger,1 tablespoon (minced),1/7/2015
+901,62,,Garlic,1 tablespoon (minced),1/7/2015
+902,62,,Salsa Sauce,3 tablespoon  ,1/7/2015
+903,62,,Cilantro ,2 tablespoon (chopped),1/7/2015
+904,63,Pork.jpg,Pork,1 kg (boneless pieces),1/7/2015
+905,63,,Onion,"6 (medium, sliced diagonally)",1/7/2015
+906,63,,Garlic,4 cloves (minced),1/7/2015
+907,63,,Ginger,1 piece (minced),1/7/2015
+908,63,,Soy Sauce,2 tablespoon,1/7/2015
+909,63,,Sugar,1 tablespoon,1/7/2015
+910,63,,Canola Oil,4 tablespoon,1/7/2015
+911,63,,Green Chilli,4 (chopped),1/7/2015
+912,63,,Corn Starch,1 tablespoon,1/7/2015
+913,64,Pork.jpg,Pork,1 kg (cubed and smoked),1/7/2015
+914,64,,Olive Oil,2 tablespoon,1/7/2015
+915,64,,Sengmora Leaf,5 leaves (sliced and cut),1/7/2015
+916,64,,Salt,1 tablespoon,1/7/2015
+917,64,,Onion,"1 (large, sliced)",1/7/2015
+918,64,,Garlic,6 cloves (minced),1/7/2015
+919,64,,Ginger,1 stick (minced),1/7/2015
+920,65,Pork.jpg,Pork,"1 kg (cubed, pork with fat & skin)",1/7/2015
+921,65,,Garlic Paste,1 tablespoon,1/7/2015
+922,65,,Ginger Paste,1 tablespoon,1/7/2015
+923,65,,Green Chilli,4 (chopped),1/7/2015
+924,65,,Onion,"1 (large, finely sliced)",1/7/2015
+925,65,,Red Chilli Powder,1 tablespoon,1/7/2015
+926,65,,Turmeric Powder,1/2 tablespoon,1/7/2015
+927,65,,Oil,3 tablespoon,1/7/2015
+928,65,,Salt,To taste,1/7/2015
+929,65,,Curry Leaf,10,1/7/2015
+930,65,,Fenugreek Seeds,1/4 tablespoon,1/7/2015
+931,65,,Mustard Seeds,1 tablespoon,1/7/2015
+932,65,,Peppercorn,10 pods,1/7/2015
+933,65,,Cumin Seeds,1 tablespoon,1/7/2015
+934,65,,Corriander Seeds,2 tablespoon,1/7/2015
+935,65,,Cinnamon,1 stick,1/7/2015
+936,66,Pork.jpg,Pork,1 kg (cubed),1/7/2015
+937,66,,Onion,"3 (medium, chopped)",1/7/2015
+938,66,,Potato,"3 (medium, each sliced into 4 pieces)",1/7/2015
+939,66,,Dried Bamboo Shoot,1/4 cup,1/7/2015
+940,66,,Red Chilli Powder,2 tablespoon,1/7/2015
+941,66,,Green Chilli,3 (slit length-wise),1/7/2015
+942,66,,Garlic,4 cloves (smashed),1/7/2015
+943,66,,Ginger,1 stick (smashed),1/7/2015
+944,66,,Turmeric Powder,1 tablespoon,1/7/2015
+945,66,,Garam Masala,1 tablespoon,1/7/2015
+946,66,,Salt,To taste,1/7/2015
+947,66,,Oil,2 tablespoon,1/7/2015
+948,67,Pork.jpg,Pork,1 kg (cubed),1/7/2015
+949,67,,Coconut Milk,1 cup,1/7/2015
+950,67,,Vegertable Oil,2 tablespoon,1/7/2015
+951,67,,Cumin Seeds,1 tablespoon (grounded),1/7/2015
+952,67,,Corriander Powder,1 tablespoon  ,1/7/2015
+953,67,,Cinnamon,1 stick,1/7/2015
+954,67,,Onion,"2 (medium, finely chopped)",1/7/2015
+955,67,,Ginger,1 piece (smashed),1/7/2015
+956,67,,Garlic,4 cloves (smashed),1/7/2015
+957,67,,Corrainder Leaf,1/4 cup (chopped),1/7/2015
+958,67,,Sugar,1 tablespoon,1/7/2015
+959,67,,Salt,1 tablespoon,1/7/2015
+960,67,,Red Chilli Powder,2 tablespoon,1/7/2015
+961,68,Pork.jpg,Pork,1 kg (leg cut into cubes),1/7/2015
+962,68,,Onion,"2 (medium, finely chopped)",1/7/2015
+963,68,,Tomato,"2 (medium, finely chopped)",1/7/2015
+964,68,,Chilli Powder,2 tablespoon,1/7/2015
+965,68,,Garlic,5 cloves (smashed),1/7/2015
+966,68,,Ginger,1 piece (smashed),1/7/2015
+967,68,,Curry Leaf,10,1/7/2015
+968,68,,Bay Leaf,2,1/7/2015
+969,68,,Mustard Seeds,1 tablespoon,1/7/2015
+970,68,,Cumin Seeds,1 tablespoon,1/7/2015
+971,68,,Cardamom,4 pods,1/7/2015
+972,68,,Corrainder Seeds,1 tablespoon,1/7/2015
+973,68,,Fenugreek Seeds,1 tablespoon,1/7/2015
+974,68,,Cloves,5,1/7/2015
+975,68,,Black Peppercorns,6 pods,1/7/2015
+976,68,,Vinegar,4 tablespoon (white),1/7/2015
+977,68,,Brown Sugar,2 tablespoon,1/7/2015
+978,68,,Salt ,To taste,1/7/2015
+979,68,,Red Chilli,3 (dried),1/7/2015
+980,69,Pork.jpg,Pork,1 kg (belly),1/7/2015
+981,69,,Onions,"3 (large, sliced)",1/7/2015
+982,69,,Carrot,2 (sliced),1/7/2015
+983,69,,Red Chilli,1 (chopped),1/7/2015
+984,69,,Oil,4 tablespoon (olive),1/7/2015
+985,69,,White Peppercorn,1 tablspoon (crushed),1/7/2015
+986,69,,Cumin Seeds,2 tablespoon (grounded),1/7/2015
+987,69,,Honey,2 tablespoon,1/7/2015
+988,69,,Celery,5 strands,1/7/2015
+989,69,,Garlic,5 cloves (skin on),1/7/2015
+990,69,,Thyme,5 strands,1/7/2015
+991,69,,Salt,1 tablespoon,1/7/2015
+992,70,Pork.jpg,Ham,1 kg (smoked),1/7/2015
+993,70,,Mustard Paste,2 tablespoon,1/7/2015
+994,70,,Brown Sugar,1 cup,1/7/2015
+995,70,,Honey,1/2 cup,1/7/2015
+996,70,,Cloves,10,1/7/2015
+997,70,,Salt,1 tablespoon,1/7/2015
+998,70,,Ginger Ale,1 cup,1/7/2015
+999,71,Pork.jpg,Pork,500 gms (lean),1/8/2015
+1000,71,,Onion,"2 (large, sliced)",1/8/2015
+1001,71,,Canola Oil,3 tablespoon,1/8/2015
+1002,71,,Ketchup,2 tablespoon,1/8/2015
+1003,71,,Mayonnaise,2 tablespoon (low fat),1/8/2015
+1004,71,,Dill Pickle Relish,2 tablespoon,1/8/2015
+1005,71,,Vinegar,1 tablespoon (white),1/8/2015
+1006,71,,Worcestershire sauce,2 tablespoon,1/8/2015
+1007,71,,Hamburger Buns,"4 (sesame seeded, toasted)",1/8/2015
+1008,71,,Black Pepper,1/2 tablespoon (grounded),1/8/2015
+1009,71,,Tomato,4 slices,1/8/2015
+1010,71,,Lettuce Leaves,4 (green),1/8/2015
+1011,72,Pork.jpg,Pork Tenderloin,1 kg (trimmed & cut cross-wise)  ,1/8/2015
+1012,72,,Honey,2 tablespoon,1/8/2015
+1013,72,,Mustard,4 tablespoon,1/8/2015
+1014,72,,Black Pepper,2 tablespoon,1/8/2015
+1015,72,,Garlic,2 cloves,1/8/2015
+1016,72,,Lemon Juice,3 tablespoon,1/8/2015
+1017,72,,Olive Oil,3 tablespoon,1/8/2015
+1018,72,,Salt,To taste,1/8/2015
+1019,72,,Thyme,1 tablespoon (crushed),1/8/2015
+1020,73,Pork.jpg,Pork Loin Chops,4 (boneless),1/8/2015
+1021,73,,Salt,1/2 tablespoon,1/8/2015
+1022,73,,Pepper,1/2 tablespoon,1/8/2015
+1023,73,,Canola,2 tablespoon,1/8/2015
+1024,73,,Beer,1 cup,1/8/2015
+1025,73,,Ketchup,3 tablespoon,1/8/2015
+1026,73,,Brown Sugar,2 tablespoon,1/8/2015
+1027,73,,Parsley,Few (chopped),1/8/2015
+1028,73,,Onion,1 (finely chopped),1/8/2015
+1029,74,Pork.jpg,Pork,"500 gms (lean, finely chopped)",1/8/2015
+1030,74,,Wonton Wrappers,20,1/8/2015
+1031,74,,Soy Sauce,1 tablespoon,1/8/2015
+1032,74,,Salt,1 tablespoon,1/8/2015
+1033,74,,Oyster Sauce,1 tablespoon,1/8/2015
+1034,74,,Sesame Oil,Few drops,1/8/2015
+1035,74,,Sherry ,1 tablespoon,1/8/2015
+1036,74,,Sugar,1/2 tablespoon,1/8/2015
+1037,74,,Onion,"1 (medium, finely minced)",1/8/2015
+1038,74,,White Pepper,1/4 tablespoon,1/8/2015
+1039,74,,Shallots,Few (thinly sliced),1/8/2015
+1040,74,,Soup Mix,100 gms,1/8/2015
+1041,75,Pork.jpg,Pork,250 gms (cut into pieces),1/8/2015
+1042,75,,Canned Kidney Beans,1 cups,1/8/2015
+1043,75,,Molasses,1/3 cup,1/8/2015
+1044,75,,Worcestershire sauce,1 tablespoon,1/8/2015
+1045,75,,Red Vinegar,1 tablespoon,1/8/2015
+1046,75,,Brown Sugar,1/3 cup,1/8/2015
+1047,75,,Mustard,3 tablespoon,1/8/2015
+1048,75,,Cloves,1/4 tablespoon (grounded),1/8/2015
+1049,75,,Onion,"2 (medium, chopped)",1/8/2015
+1050,76,Pork.jpg,Pork,1 kg (grounded),1/8/2015
+1051,76,,Onion,"1 (medium, chopped)",1/8/2015
+1052,76,,Olive Oil,2 tablespoon,1/8/2015
+1053,76,,Egg Yolk,2 (large),1/8/2015
+1054,76,,All Spice,1/4 tablespoon (grounded),1/8/2015
+1055,76,,Nutmeg,1/4 tablespoon (grounded),1/8/2015
+1056,76,,Salt,To taste,1/8/2015
+1057,76,,Black Pepper,1/4 tablespoon (grounded),1/8/2015
+1058,76,,Butter,1/4 cup,1/8/2015
+1059,76,,Flour,1/3 cup,1/8/2015
+1060,76,,Pork Broth,4 cups,1/8/2015
+1061,76,,Sour Cream,3/4 cup,1/8/2015
+1062,76,,Parsley Leaves,2 tablespoon (chopped),1/8/2015
+1063,76,,Panko,1/2 cup,1/8/2015
+1064,77,Pork.jpg,Pork,500 gms (grounded),1/8/2015
+1065,77,,Peanut Butter,1/4 cup,1/8/2015
+1066,77,,Chicken Broth,6 tablespoon,1/8/2015
+1067,77,,Sesame Oil,1/2 tablespoon,1/8/2015
+1068,77,,Rice Vinegar,2 tablespoon,1/8/2015
+1069,77,,Soy Sauce,3 tablespoon,1/8/2015
+1070,77,,Ginger,1/2 tablespoon (freshly grated),1/8/2015
+1071,77,,Chile Pepper,1/4 tablespoon (crushed),1/8/2015
+1072,77,,Salt,To taste,1/8/2015
+1073,77,,White Rice,1 cup (long grain),1/8/2015
+1074,77,,Eggplant,1 (small),1/8/2015
+1075,77,,Corn Starch,4 tablespoon,1/8/2015
+1076,77,,Onion,"1 (medium, sliced)",1/8/2015
+1077,77,,Coconut Milk,1/4 cup,1/8/2015
+1078,77,,Pepper,To taste,1/8/2015
+1079,78,Pork.jpg,Pork,500 gms (cut into cubes),1/8/2015
+1080,78,,Teriyaki Sauce,2 tablespoon,1/8/2015
+1081,78,,Red Wine Vinegar,1 tablespoon,1/8/2015
+1082,78,,Vegetable Oil,1 tablespoon,1/8/2015
+1083,78,,Brown Sugar,1 tablespoon,1/8/2015
+1084,78,,Red Pepper ,1/2 tablespoon (flakes),1/8/2015
+1085,79,Pork.jpg,Pork,"4 (chops, fat trimmed)",1/8/2015
+1086,79,,Olive Oil,2 tablespoon,1/8/2015
+1087,79,,Black Beans,"100 gms (drained , rinsed)",1/8/2015
+1088,79,,Corn ,"100 gms (drained , rinsed)",1/8/2015
+1089,79,,Salsa,2 cup,1/8/2015
+1090,79,,Cilantro,1/2 cup (chopped),1/8/2015
+1091,79,,Sour Cream,3 tablespoon,1/8/2015
+1092,80,Pork.jpg,Pork,500 gms (minced),1/8/2015
+1093,80,,Groundnut Oil,2 tablespoon,1/8/2015
+1094,80,,Ginger,1 tablespoon (sliced),1/8/2015
+1095,80,,Red Chilli,"1 (finely chpped, deseeded)",1/8/2015
+1096,80,,Szechaun Peppercorn,2 tablespoon (crushed),1/8/2015
+1097,80,,Chinese 5 Spice,1 tablespoon   ,1/8/2015
+1098,80,,Soy Sauce,2 tablespoon,1/8/2015
+1099,80,,Honey,1 tablespoon,1/8/2015
+1100,80,,Lime Juice,1 tablespoon,1/8/2015
+1101,80,,Basmati Rice,350 gms,1/8/2015
+1102,80,,Corriander Leaves,2 tablespoon (chopped),1/8/2015
+1103,80,,Onion,"1 (medium, sliced)",1/8/2015
+1104,80,,Coconut Milk,1/2 cup,1/8/2015
+1105,81,Egg.jpg,Eggs,6 (hard boiled),1/9/2015
+1106,81,,Onions,"2 (medium sized, cut into quarters)",1/9/2015
+1107,81,,Tomato,"3 (medium sized, cut into quarters)",1/9/2015
+1108,81,,Cooking Oil,5 tablespoon,1/9/2015
+1109,81,,Garlic Paste,2 tablespoon,1/9/2015
+1110,81,,Ginger Paste,2 tablespoon,1/9/2015
+1111,81,,Green Chilli,2 (sliced),1/9/2015
+1112,81,,Turmeric Poweder,1 tablespoon,1/9/2015
+1113,81,,Garam Masala,1 tablespoon,1/9/2015
+1114,81,,Corriander Powder,1/2 tablespoon,1/9/2015
+1115,81,,Salt,To taste,1/9/2015
+1116,81,,Water ,1 cup,1/9/2015
+1117,81,,Potatoes,2 (cut into cubes),1/9/2015
+1118,82,Egg.jpg,Eggs,2,1/9/2015
+1119,82,,Milk Cream,5 Tablespoon,1/9/2015
+1120,82,,Salt,To Taste,1/9/2015
+1121,82,,Pepper,Pinch,1/9/2015
+1122,82,,Vegetable Oil,1 Tablespoon,1/9/2015
+1123,83,Egg.jpg,Eggs,4,1/9/2015
+1124,83,,Onions,1 (finely chopped),1/9/2015
+1125,83,,Green Chilly,2 (finely minced),1/9/2015
+1126,83,,Corriander Leaves,2 tablespoon (finely chopped),1/9/2015
+1127,83,,Salt,To Taste,1/9/2015
+1128,83,,Oil,2 tablespoon,1/9/2015
+1129,83,,Turmeric Powder,1/4 tablespoon,1/9/2015
+1130,83,,Tomato,4 tablespoon (finely chopped),1/9/2015
+1131,84,Egg.jpg,Eggs,4,1/9/2015
+1132,84,,Onions,2 (finely chopped),1/9/2015
+1133,84,,Tomato,2 (finely chopped),1/9/2015
+1134,84,,Green Chilli,3 (sliced),1/9/2015
+1135,84,,Capsicum,1 (chopped),1/9/2015
+1136,84,,Corrainder Leaves,3 tablespoon (chopped),1/9/2015
+1137,84,,Turmeric Powder,1/2 tablespoon,1/9/2015
+1138,84,,Salt ,To taste,1/9/2015
+1139,84,,Ginger,1/2 inch (grinded),1/9/2015
+1140,84,,Milk,1 tablespoon,1/9/2015
+1141,85,Egg.jpg,Eggs,8 (hard boiled),1/9/2015
+1142,85,,Onions,"3 (medium sized, cut into quarters)",1/9/2015
+1143,85,,Cumin Seeds,1 tablespoon,1/9/2015
+1144,85,,Cooking Oil,3 tablespoon,1/9/2015
+1145,85,,Red Chilli Powder,1 tablespoon,1/9/2015
+1146,85,,Ginger Paste,1 tablespoon,1/9/2015
+1147,85,,Green Chilli,2 (sliced),1/9/2015
+1148,85,,Turmeric Poweder,1/2 tablespoon,1/9/2015
+1149,85,,Garam Masala,1/2 tablespoon,1/9/2015
+1150,85,,Corriander Leaf,2 tablespoon,1/9/2015
+1151,85,,Salt,To taste,1/9/2015
+1152,85,,Tomato,2 (finely chopped),1/9/2015
+1153,86,Egg.jpg,Eggs,4,1/9/2015
+1154,86,,Onions,"2 (medium sized, thinly sliced)",1/9/2015
+1155,86,,Lime,1 (juiced),1/9/2015
+1156,86,,Pepper,1/2 tablespoon,1/9/2015
+1157,86,,Green Chilli,2 (sliced),1/9/2015
+1158,86,,Salt,To taste,1/9/2015
+1159,86,,Flour,2 cups ,1/9/2015
+1160,86,,Water (warm),1 cup,1/9/2015
+1161,86,,Garam Masala,1/2 tablespoon,1/9/2015
+1162,87,Egg.jpg,Eggs,4,1/9/2015
+1163,87,,Muffins,4 (toasted),1/9/2015
+1164,87,,Egg Yolk,4,1/9/2015
+1165,87,,Lemon Juice,3 tablespoon,1/9/2015
+1166,87,,White Pepper,1 tablespoon,1/9/2015
+1167,87,,Worcestershire sauce,1/4 tablespoon,1/9/2015
+1168,87,,Ham,4 slices,1/9/2015
+1169,87,,Salt,To taste,1/9/2015
+1170,87,,Water ,1 cup,1/9/2015
+1171,87,,Vinegar,1 tablespoon,1/9/2015
+1172,88,Egg.jpg,Eggs,3 (hard boiled),1/9/2015
+1173,88,,Onions,"2 (medium sized, cut into quarters)",1/9/2015
+1174,88,,Tomato,"2 (medium sized, cut into quarters)",1/9/2015
+1175,88,,Cooking Oil,3 tablespoon,1/9/2015
+1176,88,,Garlic ,2 cloves,1/9/2015
+1177,88,,Ginger ,1/2 inch stem,1/9/2015
+1178,88,,Green Chilli,2 (sliced),1/9/2015
+1179,88,,Turmeric Poweder,1/4 tablespoon,1/9/2015
+1180,88,,Garam Masala,1 tablespoon,1/9/2015
+1181,88,,Corriander Leaf,2 spring (granishing),1/9/2015
+1182,88,,Red Chilli powder,1/2 tablespoon,1/9/2015
+1183,88,,Black Pepper,1 tablespoon,1/9/2015
+1184,88,,Fennel Seeds,1/2 tablespoon,1/9/2015
+1185,88,,Cumin Seeds,1/2 tablespoon,1/9/2015
+1186,88,,Corriander Seeds,2 tablespoon,1/9/2015
+1187,88,,Coconut,4 tablespoon (grated),1/9/2015
+1188,88,,Salt,To taste,1/9/2015
+1189,88,,Water ,1 cup,1/9/2015
+1190,89,,Eggs,8,1/9/2015
+1191,89,Egg.jpg,Onions,"2 (medium sized, minced)",1/9/2015
+1192,89,,Parsley,1 tablespoon (minced),1/9/2015
+1193,89,,Mayonnaise,1 tablespoon,1/9/2015
+1194,89,,Mustard,1 tablespoon,1/9/2015
+1195,89,,Thyme,1/4 tablespoon (chopped),1/9/2015
+1196,89,,Salt,To taste,1/9/2015
+1197,89,,Black Pepper,1/4 tablespoon   ,1/9/2015
+1198,89,,Cream Cheese,4 tabelspoon (grated),1/9/2015
+1199,89,,White Bread,2 slices,1/9/2015
+1200,90,Egg.jpg,Eggs,4 (hard boiled),1/9/2015
+1201,90,,Tomato,"2 (medium sized, sliced)",1/9/2015
+1202,90,,Onions,"2 (medium sized, chopped)",1/9/2015
+1203,90,,Green Bean,250 gms (cut into small pieces),1/9/2015
+1204,90,,Mayonnaise,1 cup,1/9/2015
+1205,90,,Mustard,1 cup,1/9/2015
+1206,90,,Salt,To taste,1/9/2015
+1207,90,,Pepper,1/4 tablespoon,1/9/2015
+1208,91,,Flour,200 gms,1/10/2015
+1209,91,,Baking Powder,1/2 tablespoon,1/10/2015
+1210,91,,Salt,1/2 tablespoon,1/10/2015
+1211,91,,Oil,9 tablespoon,1/10/2015
+1212,91,,Water,100 gms (to make dough),1/10/2015
+1213,91,Egg.jpg,Egg,2 (beaten),1/10/2015
+1214,91,,Extra Flour,1/4 cup,1/10/2015
+1215,92,Egg.jpg,Eggs,4 (hard boiled),1/10/2015
+1216,92,,Onions,"2 (medium, chopped)",1/10/2015
+1217,92,,Milk,1/4 cup,1/10/2015
+1218,92,,Cashewnuts,2 tablespoon (grounded),1/10/2015
+1219,92,,Green Chilli,5 (slit lengthwise),1/10/2015
+1220,92,,Coconut,1 tablespoon (scrapped),1/10/2015
+1221,92,,Corriander Powder,1 tablespoon   ,1/10/2015
+1222,92,,Cloves,3 pods,1/10/2015
+1223,92,,Cinnamon,1 stick (small),1/10/2015
+1224,92,,Green Cardamoms,2 pods,1/10/2015
+1225,92,,Turmeric Powder,1/2 tablespoon,1/10/2015
+1226,92,,Ginger,1 tablespoon (grated),1/10/2015
+1227,92,,Clarified Butter (Ghee),3 tablespoon,1/10/2015
+1228,92,,Salt,To taste,1/10/2015
+1229,92,,Corriander Leaves,1 tablespoon (chopped),1/10/2015
+1230,93,Egg.jpg,Eggs,2 (large),1/10/2015
+1231,93,,Salt,To taste,1/10/2015
+1232,93,,Black Pepper,A pinch,1/10/2015
+1233,93,,Cheese,"1/4 cup (Gruyere, Parmesan)",1/10/2015
+1234,93,,Clarified Butter,1 tablespoon,1/10/2015
+1235,94,Egg.jpg,Eggs,8 (hard boiled),1/10/2015
+1236,94,,Bengal Gram Flour (Besan),1 cup,1/10/2015
+1237,94,,Green Chilli,2 (finely chopped),1/10/2015
+1238,94,,Red Chilli Powder,1/2 tablespoon,1/10/2015
+1239,94,,Baking Soda,1/4 tablespoon,1/10/2015
+1240,94,,Black Pepper,1/4 tablespoon,1/10/2015
+1241,94,,Corriander Leaves,1 tablespoon (chopped),1/10/2015
+1242,94,,Salt,To taste,1/10/2015
+1243,94,,Oil,4 tablespoon,1/10/2015
+1244,95,Egg.jpg,Eggs,4 (hardboiled),1/10/2015
+1245,95,,Celery,1/3 cup (diced),1/10/2015
+1246,95,,Mayonnaise,1/3 cup   ,1/10/2015
+1247,95,,Mustard Sauce,2 tablespoon,1/10/2015
+1248,95,,Tomato,"1 (medium, diced)",1/10/2015
+1249,95,,Pickle Relish,2 tablespoon,1/10/2015
+1250,95,,Salt,1/2 tablespoon,1/10/2015
+1251,95,,Black Pepper,1/4 tablespoon (grounded),1/10/2015
+1252,96,Egg.jpg,Eggs,6,1/10/2015
+1253,96,,Oil,3 tablespoon,1/10/2015
+1254,96,,Basmathi Rice ,1.5 cups,1/10/2015
+1255,96,,Ginger Paste,1 tablespoon,1/10/2015
+1256,96,,Garlic Paste,1 tablespoon,1/10/2015
+1257,96,,Potato,"1 (large, cubed)",1/10/2015
+1258,96,,Capsicum,"1 (medium, chopped)",1/10/2015
+1259,96,,Onion,"1 (large, thinly sliced)",1/10/2015
+1260,96,,Green Chilli,2 (slit),1/10/2015
+1261,96,,Tomato,"1 (medium, chopped)",1/10/2015
+1262,96,,Turmeric,1/4 tablespoon (grounded),1/10/2015
+1263,96,,Chilli Powder,1/2 tablespoon,1/10/2015
+1264,96,,Biryani Masala Powder,1 tablespoon,1/10/2015
+1265,96,,Mint,1/2 tablespoon (chopped),1/10/2015
+1266,96,,Corriander Leaves,1/2 tablespoon (chopped),1/10/2015
+1267,96,,Salt,To taste,1/10/2015
+1268,96,,Yogurt,3 tablespoon,1/10/2015
+1269,96,,Water,2.5 cups,1/10/2015
+1270,96,,Star anise,1,1/10/2015
+1271,96,,Bay Leaf,1,1/10/2015
+1272,96,,Black Cumin,1/2 tablespoon,1/10/2015
+1273,96,,Green Cardamoms,4,1/10/2015
+1274,96,,Cloves,5,1/10/2015
+1275,96,,Cinnamon ,1 stick (small),1/10/2015
+1276,96,,Mace,1 strand,1/10/2015
+1277,97,Egg.jpg,Egg,3 (hardboiled),1/10/2015
+1278,97,,Onion,"1 (big, chopped)",1/10/2015
+1279,97,,Ginger Paste,1 tablespoon,1/10/2015
+1280,97,,Garlic Paste,1 tablespoon,1/10/2015
+1281,97,,Chilli Powder,1/2 tablespoon,1/10/2015
+1282,97,,Tomato Chilli Sauce,1/2 tablespoon,1/10/2015
+1283,97,,Cilantro,Few (chopped),1/10/2015
+1284,97,,Corn Flour,1/2 cup,1/10/2015
+1285,97,,Rice Flour,1 tablespoon,1/10/2015
+1286,97,,Soya Sauce,2 tablespoon,1/10/2015
+1287,97,,Salt,To taste,1/10/2015
+1288,97,,Oil,8 tablespoon,1/10/2015
+1289,98,Egg.jpg,Egg,3,1/10/2015
+1290,98,,Baked Beans,400 gms,1/10/2015
+1291,98,,Tomato,"2 (medium, chopped)",1/10/2015
+1292,98,,Garlic,2 cloves,1/10/2015
+1293,98,,Chilli Flake,1/2 tablespoon,1/10/2015
+1294,98,Cilantro Leaves.jpg,Corriander Leaves,1 tablespoon (chopped),1/10/2015
+1295,98,,Paprika,1 tablespoon (grounded),1/10/2015
+1296,98,Salt.jpg,Salt,To taste,1/10/2015
+1297,98,Sugar.jpg,Sugar,To taste,1/10/2015
+1298,98,Black Pepper.jpg,Black Pepper,To taste,1/10/2015
+1299,98,,Olive Oil,3 tablespoon,1/10/2015
+1300,98,,Bread,2 (toasted),1/10/2015
+1301,99,Egg.jpg,Egg,4,1/10/2015
+1302,99,Milk.jpg,Milk,1 cup,1/10/2015
+1303,99,,Cinnamon,2 tablespoon,1/10/2015
+1304,99,,Bread,8 slices ,1/10/2015
+1305,99,,Butter,2 tablespoon,1/10/2015
+1306,100,Rice.jpg,Cooked Rice,2 cups ,1/10/2015
+1307,100,,Tofu,100 gms (smoked),1/10/2015
+1308,100,,Garlic,2 cloves (finely chopped),1/10/2015
+1309,100,Egg.jpg,Egg,2 (beaten),1/10/2015
+1310,100,,Pea,1 cup,1/10/2015
+1311,100,,Chives,Handful,1/10/2015
+1312,100,,Soy Sauce,To taste,1/10/2015
+1313,100,,White Pepper,A pinch,1/10/2015
+1314,100,,Sesame Oil,1/2 tablespoon,1/10/2015
+1315,101,atta.jpg,Wheat flour (Atta),250 grams,1/11/2015
+1316,101,besan.jpg,Gram flour (Besan),100 grams,1/11/2015
+1317,101,sattu.jpg,Roasted Gram flour (Sattu),250 grams,1/11/2015
+1318,101,ajwain.jpg,Carom seeds (Ajwain),"15 grams, 3/4 tbsp",1/11/2015
+1319,101,salt.jpd,Salt,"15 grams, 3/4 tbsp",1/11/2015
+1320,101,brinjal.jpg,Egg Plant (Brinjal),1 pc,1/11/2015
+1321,101,tomato.jpg,Tomato ,2 pcs,1/11/2015
+1322,101,onion.jpg,Onion,1 pc,1/11/2015
+1323,101,chilli.jpg,Green Chilies,2 to 4 pcs (finely chopped),1/11/2015
+1324,101,ginger.jpg,Ginger,50 grams  (finely chopped),1/11/2015
+1325,101,oil.jpg,Mustard Oil,1/2 tbsp,1/11/2015
+1326,101,lemon.jpg,Lemon Juice,2 tbsp,1/11/2015
+1327,101,garlic.jpg,Garlic,1 clove  (finely chopped),1/11/2015
+1328,101,coriander.jpg,Coriander (Dhaniya Leaves),1/2 a bunch,1/11/2015
+1329,102,curd.jpg,Fresh Curd (Dahi),1 Cup mixed with 1.5 Cups of Water,1/11/2015
+1330,102,besan.jpg,Gram flour (Besan),1 Cup,1/11/2015
+1331,102,salt.jpd,Salt,to taste,1/11/2015
+1332,102,oil.jpg,Oil,3.5 tbsp,1/11/2015
+1333,102,mustard.jpg,Mustard Seeds (Rai),1tbsp,1/11/2015
+1334,102,kadipatta.jpg,Curry Leaves (Kadi Patta),5 to 6,1/11/2015
+1335,102,chilli.jpg,Green Chilies,1 tbsp finnely chopped,1/11/2015
+1336,102,ginger.jpg,Ginger,2 tbsp paste,1/11/2015
+1337,102,lemon.jpg,Lemon Juice,2 to 3 drops,1/11/2015
+1338,102,haldi.jpg,Turmeric Powder (Haldi),1/4 tbsp,1/11/2015
+1339,102,hing.jpg,Asafoetida (Hing),a pinch,1/11/2015
+1340,102,coconut.jpg,Coconut,1-2 tbsp grated,1/11/2015
+1341,102,coriander.jpg,Coriander (Dhaniya Leaves),1/2 a bunch,1/11/2015
+1342,103,bajra.jpg,Black Millet (Bajra),"1/2 Cup, soak for 6-8 hrs and drain",1/11/2015
+1343,103,moong.jpg,Spilt green gram (moong dal),"1/2 Cup, wash and drain",1/11/2015
+1344,103,ghee.jpg,Pure Ghee (Clarified Butter),1 tbsp,1/11/2015
+1345,103,jeera.jpg,Cumin Seeds (Jeera),1.5 tbsp,1/11/2015
+1346,103,haldi.jpg,Turmeric Powder (Haldi),a pinch,1/11/2015
+1347,103,hing.jpg,Asafoetida (Hing),a pinch,1/11/2015
+1348,103,chilipowder.jpg,Chili Powder,a pinch,1/11/2015
+1349,103,salt.jpd,Salt,to taste,1/11/2015
+1350,103,garammasala.jpg,Garam Masala,"a pinch, optional",1/11/2015
+1351,103,coriander.jpg,Coriander (Dhaniya Leaves),"2 tbsp, for garnish",1/11/2015
+1352,104,chana.jpg,Chickpeas (Kabuli Chana),"1 Cup, soaked overnight and boiled",1/11/2015
+1353,104,hing.jpg,Asafoetida (Hing),a pinch,1/11/2015
+1354,104,cloves.jpg,Cloves (laung),3-4 pcs,1/11/2015
+1355,104,cinnamon.jpg,Cinnamon (dalchini),1 stick,1/11/2015
+1356,104,jeera.jpg,Cumin Seeds (Jeera),0.5 tbsp,1/11/2015
+1357,104,haldi.jpg,Turmeric Powder (Haldi),a pinch,1/11/2015
+1358,104,coriander.jpg,Coriander (Dhaniya Leaves),0.5 tbsp,1/11/2015
+1359,104,rice.jpg,Rice (chawal),1 tbsp,1/11/2015
+1360,104,curd.jpg,Fresh Curd (Dahi),1 Cup,1/11/2015
+1361,104,ghee.jpg,Pure Ghee (Clarified Butter),1 tbsp,1/11/2015
+1362,104,salt.jpd,Salt,to taste,1/11/2015
+1363,104,oil.jpg,Mustard Oil,2 tbsp,1/11/2015
+1364,105,kalari.jpg,Kalari cheese,Defrost before frying,1/11/2015
+1365,105,oil.jpg,Oil,1 tbsp,1/11/2015
+1366,105,salt.jpd,Salt,to taste,1/11/2015
+1367,105,chilipowder.jpg,Chili Powder,a pinch,1/11/2015
+1368,105,garammasala.jpg,Garam Masala,"a pinch, optional",1/11/2015
+1369,106,brinjal.jpg,Egg Plant (Brinjal),1 pc,1/11/2015
+1370,106,peas.jpg,Green Peas (Matar),1/2 cup,1/11/2015
+1371,106,onion.jpg,Onion,"1 pc, finnely chopped",1/11/2015
+1372,106,chilli.jpg,Green Chilies,"2 pcs, finnely chopped",1/11/2015
+1373,106,tomato.jpg,Tomato ,"1 pc, finnely chopped",1/11/2015
+1374,106,chilipowder.jpg,Chili Powder,1/4 tbsp,1/11/2015
+1375,106,haldi.jpg,Turmeric powder (Haldi),1/4 tbsp,1/11/2015
+1376,106,garammasala.jpg,Garam Masala,1/2 tbsp,1/11/2015
+1377,106,oil.jpg,Oil,3tbsp,1/11/2015
+1378,106,salt.jpd,Salt,to taste,1/11/2015
+1379,106,coriander.jpg,Coriander (Dhaniya Leaves),1/2 a bunch,1/11/2015
+1380,107,lentil.jpg,Red Lentils,"2 Cup, rinsed",1/11/2015
+1381,107,chilipowder.jpg,Chili Powder,1 tbsp,1/11/2015
+1382,107,tomato.jpg,Tomato ,"1 pc, finnely chopped",1/11/2015
+1383,107,ginger.jpg,Ginger,"1 tbsp, finnely chopped",1/11/2015
+1384,107,garlic.jpg,Garlic,"2 cloves, finnely chopped",1/11/2015
+1385,107,haldi.jpg,Turmeric powder (Haldi),1/4 tbsp,1/11/2015
+1386,107,salt.jpd,Salt,to taste,1/11/2015
+1387,107,coriander.jpg,Coriander (Dhaniya Leaves),1/2 a bunch,1/11/2015
+1388,107,curd.jpg,Fresh Curd (Dahi),1 Cup,1/11/2015
+1389,108,idlibatter.jpg,Idli Batter,2 Cup,1/11/2015
+1390,108,onion.jpg,Onion,2 pcs,1/11/2015
+1391,108,carrot.jpg,Carrot,"1/4 pc, optional",1/11/2015
+1392,108,tomato.jpg,Tomato ,"1/4 pc, optional",1/11/2015
+1393,108,coriander.jpg,Coriander (Dhaniya Leaves),2 tbsp,1/11/2015
+1394,108,chilli.jpg,Green Chilies,"1, finnely chopped",1/11/2015
+1395,108,oil.jpg,Oil,2 tbsp,1/11/2015
+1396,109,rajma.jpg,Red Kidney Beans (Rajma),2 Cups,1/11/2015
+1397,109,oil.jpg,Oil,4 tbsp,1/11/2015
+1398,109,onion.jpg,Onion,"2 pcs, finnely chopped",1/11/2015
+1399,109,ginger.jpg,Ginger,"1/2 tbsp, paste",1/11/2015
+1400,109,garlic.jpg,Garlic,"1/2 tbsp, paste",1/11/2015
+1401,109,coriander.jpg,Coriander (Dhaniya Leaves),1 tbsp,1/11/2015
+1402,109,jeera.jpg,Cumin Seeds (Jeera),1/2 tbsp,1/11/2015
+1403,109,tomato.jpg,Tomato ,"3 pcs, puree",1/11/2015
+1404,109,haldi.jpg,Turmeric Powder (Haldi),a pinch,1/11/2015
+1405,109,chilipowder.jpg,Chili Powder,1/2 tbsp,1/11/2015
+1406,109,garammasala.jpg,Garam masala,1/2 tbsp,1/11/2015
+1407,109,salt.jpd,Salt,to taste,1/11/2015
+1408,110,boondi.jpg,Boondi,1/2 Cup,1/11/2015
+1409,110,curd.jpg,Fresh Curd (Dahi),1 Cup,1/11/2015
+1410,110,chatmasala.jpg,Chat Masala,1/4 tbsp,1/11/2015
+1411,110,jeera.jpg,Cumin Seeds (Jeera),1/4 tbsp,1/11/2015
+1412,110,chilipowder.jpg,Chili powder,a pinch,1/11/2015
+1413,110,mint.jpg,Mint leaves (pudina),"1/2 tbsp, chopped",1/11/2015
+1414,110,salt.jpd,Salt,to taste,1/11/2015
+1415,110,fennel.jpg,Fennel (Saunf) powder,1/4 tbsp,1/11/2015
+1416,110,coriander.jpg,Coriander (Dhaniya Leaves),1/4 a bunch,1/11/2015
+1417,111,curd.jpg,Fresh Curd (Dahi),"1.5 Cup, chilled",1/11/2015
+1418,111,sugar.jpg,Sugar,2 tbsp,1/11/2015
+1419,111,water.jpg,Water,0.5 Cup,1/11/2015
+1420,111,milk.jpg,Milk,"0.5 Cup, choose either milk or water",1/11/2015
+1421,111,kesar.jpg,Saffron (kesar),a pinch  (optional),1/11/2015
+1422,111,badam.jpg,Almonds (Badam),"4 pcs, sliced (optinal)",1/11/2015
+1423,111,pista.jpg,Pistachio,"4 pcs, sliced (optinal)",1/11/2015
+1424,111,rosewater.jpg,Rose water,1/2 tbsp (optional),1/11/2015
+1425,111,cardamom.jpg,Cardamom powder,a pinch (optional),1/11/2015
+1426,111,ice.jpg,Ice,"2 cubes, crushed (optional)",1/11/2015
+1427,112,sodawater.jpg,Soda water,500 ml,1/11/2015
+1428,112,sugar.jpg,Sugar,2-3 tbsp,1/11/2015
+1429,112,salt.jpd,Salt,"to taste, 1/4 tbsp",1/11/2015
+1430,112,jeera.jpg,Cumin Seeds (Jeera),1/4 tbsp powder,1/11/2015
+1431,112,pepper.jpg,Pepper powder,a pinch,1/11/2015
+1432,112,lemon.jpg,Lemon Juice,1/4 cup,1/11/2015
+1433,112,water.jpg,Water,1/4 cup,1/11/2015
+1434,112,ice.jpg,Ice,"2 cubes, crushed (optional)",1/11/2015
+1435,112,mint.jpg,Mint leaves (pudina),"4-5 leaves, to garnish",1/11/2015
+1436,113,badam.jpg,Almonds (Badam),1/4 cup,1/11/2015
+1437,113,milk.jpg,Milk,3 Cups,1/11/2015
+1438,113,kesar.jpg,Saffron (Kesar),a pinch,1/11/2015
+1439,113,sugar.jpg,Sugar,4 tbsp,1/11/2015
+1440,113,milk.jpg,Milk,2 tbsp condensed (optional),1/11/2015
+1441,114,vodka.jpg,Vodka,"120 ml, 4 oz",1/11/2015
+1442,114,vermouth.jpg,Vermouth,"15ml, 1/2 oz",1/11/2015
+1443,114,ice.jpg,Ice,"cubes, tray",1/11/2015
+1444,114,olives.jpg,Olives,12 pcs,1/11/2015
+1445,114,lemon.jpg,Lemon,4 lemon peels,1/11/2015
+1446,114,cocktailshaker.jpg,Cocktail shaker ,1,1/11/2015
+1447,115,gin.jpg,Gin,"90 ml, 3 oz",1/11/2015
+1448,115,vodka.jpg,Vodka,"30 ml, 1 oz",1/11/2015
+1449,115,kinalillet.jpg,Kina Lillet,"15ml, 1/2 oz",1/11/2015
+1450,115,lemon.jpg,Lemon,4 lemon peels,1/11/2015
+1451,115,cocktailshaker.jpg,Cocktail shaker ,1,1/11/2015
+1452,115,ice.jpg,Ice,"cubes, tray",1/11/2015
+1453,116,bourbon.jpg,Bourbon Whiskey,"120 ml, 4 oz",1/11/2015
+1454,116,angostura.jpg,Angostura Bitters,"4 dashes, 3.6ml",1/11/2015
+1455,116,sugar.jpg,Sugar,2 tsp,1/11/2015
+1456,116,maraschino.jpg,Maraschino cherry,2,1/11/2015
+1457,116,orange.jpg,Orange Wedge,2,1/11/2015
+1458,116,water.jpg,Water,"7ml, 2 splash",1/11/2015
+1459,116,ice.jpg,Ice,"cubes, tray",1/11/2015
+1460,116,cocktailshaker.jpg,Cocktail shaker ,1,1/11/2015
+1461,117,lightrum.jpg,Light Rum,"90 ml, 3 oz",1/11/2015
+1462,117,lemon.jpg,Lemon Juice,"45ml, 1.5 oz",1/11/2015
+1463,117,sugar.jpg,Sugar,"syrup - 8-10ml, 1/4 oz",1/11/2015
+1464,117,cocktailshaker.jpg,Cocktail shaker ,1,1/11/2015
+1465,117,ice.jpg,Ice,"cubes, tray",1/11/2015
+1466,117,lemon.jpg,Lemon,2 wedges,1/11/2015
+1467,118,tequila.jpg,Tequila,"90 ml, 3 oz",1/11/2015
+1468,118,lemon.jpg,Lemon Juice,"60ml, 2 oz",1/11/2015
+1469,118,triplesec.jpg,Triple Sec,"15ml, 1/2 oz (Cointreau recommended)",1/11/2015
+1470,118,cocktailshaker.jpg,Cocktail shaker ,1,1/11/2015
+1471,118,salt.jpd,Salt,to rim the glass,1/11/2015
+1472,118,ice.jpg,Ice,"cubes, tray",1/11/2015
+1473,118,lemon.jpg,Lemon,2 wedges,1/11/2015
+1474,119,vodka.jpg,Vodka,"60ml, 2oz",1/11/2015
+1475,119,tomato.jpg,Tomato ,"180ml, 6oz juice",1/11/2015
+1476,119,peppersauce.jpg,Hot Pepper sauce,"4 dashes, 3.6ml",1/11/2015
+1477,119,pepper.jpg,Pepper powder,a pinch,1/11/2015
+1478,119,salt.jpd,Salt,a pinch,1/11/2015
+1479,119,worcestershire.jpg,Worcestershire sauce,"2 dashes, 1.8ml",1/11/2015
+1480,119,lemon.jpg,Lemon Juice,"30ml, 1oz",1/11/2015
+1481,119,celery.jpg,Celery (Ajvain),"2 stalk, garnish",1/11/2015
+1482,119,ice.jpg,Ice,"cubes, tray",1/11/2015
+1483,120,ryewhiskey.jpg,Rye Whiskey,"120 ml, 4 oz",1/11/2015
+1484,120,vermouth.jpg,Vermouth,"30ml, 1 oz, sweet",1/11/2015
+1485,120,angostura.jpg,Angostura bitters,"4 dash, 3.6 ml",1/11/2015
+1486,120,maraschino.jpg,Maraschino Cherry,to garnish,1/11/2015
+1487,120,ice.jpg,Ice,"cubes, tray",1/11/2015
+1488,121,,Paneer (cottage cheese cubes),1 Cup,1/11/2015
+1489,121,,Fennel (Saunf) powder,1tsp,1/11/2015
+1490,121,,Mustard Seeds (Rai),1/4 tsp,1/11/2015
+1491,121,,Fenugreek (methi) seeds,5 to 6,1/11/2015
+1492,121,,Nigella (kalonji) seeds,1 tsp,1/11/2015
+1493,121,,Cumin Seeds (Jeera),1/2 tsp,1/11/2015
+1494,121,,Asafoetida (Hing),1/2 tsp,1/11/2015
+1495,121,,Onion,1/2 Cup,1/11/2015
+1496,121,,Turmeric Powder (Haldi),1/2 tsp,1/11/2015
+1497,121,,Chili Powder,1/2 tsp,1/11/2015
+1498,121,,Black salt  (sanchal),1/2 tsp,1/11/2015
+1499,121,,Fresh Curd (Dahi),3/4 Cup,1/11/2015
+1500,121,,Plain Flour (maida),1 tsp,1/11/2015
+1501,121,,Coriander (Dhaniya Leaves),3 tsp choped,1/11/2015
+1502,121,,Oil,1 tbsp,1/11/2015
+1503,121,,Salt,to taste,1/11/2015
+1504,122,,Wheat flour (Atta),2 Cups,1/11/2015
+1505,122,,Mint leaves (pudina),1 small bunch,1/11/2015
+1506,122,,Salt,to taste,1/11/2015
+1507,122,,Oil,1 tbsp,1/11/2015
+1508,122,,Butter,3 tbsp,1/11/2015
+1509,122,,Chat Masala,2 tsp,1/11/2015
+1510,123,,Cauliflower (Gobi),15 florets,1/11/2015
+1511,123,,Corn flour,4tbsp,1/11/2015
+1512,123,,Plain Flour (maida),5tbsp,1/11/2015
+1513,123,,Water,1 Cup,1/11/2015
+1514,123,,Black Pepper powder,1 tsp,1/11/2015
+1515,123,,Salt,to taste,1/11/2015
+1516,123,,Onion (spring),1/2 Cup,1/11/2015
+1517,123,,Garlic,1 tbsp chopped,1/11/2015
+1518,123,,Green Chilies,2 tsp chopped,1/11/2015
+1519,123,,Ginger,2 tsp chopped,1/11/2015
+1520,123,,Soya Sauce,1 tbsp,1/11/2015
+1521,123,,Tomato Ketchup,1 tbsp,1/11/2015
+1522,123,,Chilli sauce,1 tbsp,1/11/2015
+1523,123,,Oil,2 tbsp,1/11/2015
+1524,124,,Paneer (cottage cheese cubes),250 grams,1/11/2015
+1525,124,,Bell Pepper,1 large (any color),1/11/2015
+1526,124,,Tomato,1 medium,1/11/2015
+1527,124,,Onion,1 medium,1/11/2015
+1528,124,,Fresh Curd (Dahi),500 grams,1/11/2015
+1529,124,,Gram flour (Besan),4 tbsp,1/11/2015
+1530,124,,Turmeric Powder (Haldi),1/2 tsp,1/11/2015
+1531,124,,Pepper powder,1/2 tsp,1/11/2015
+1532,124,,Carom seeds (Ajwain),1/2 tsp,1/11/2015
+1533,124,,Fenugreek (methi) seeds,1/2 tsp,1/11/2015
+1534,124,,Coriander (Dhaniya Leaves),1 tsp,1/11/2015
+1535,124,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1536,124,,Chat Masala,1 tsp,1/11/2015
+1537,124,,Garam masala,1 tsp,1/11/2015
+1538,124,,Amchur (Mango) powder,1 tsp,1/11/2015
+1539,124,,Chili Powder,2 tsp,1/11/2015
+1540,124,,Ginger garlic paste,1 tbsp,1/11/2015
+1541,124,,Lemon Juice,1 tsp,1/11/2015
+1542,124,,Oil,3 tbsp,1/11/2015
+1543,124,,Salt,to taste,1/11/2015
+1544,125,,Pav (Square bun bread),4 pcs,1/11/2015
+1545,125,,Potato,200 grams (boiled),1/11/2015
+1546,125,,Green Chilies,1 chopped,1/11/2015
+1547,125,,Garlic,3/4 tbsp grated,1/11/2015
+1548,125,,Mustard Seeds (Rai),1/2 tsp,1/11/2015
+1549,125,,Asafoetida (Hing),a pinch,1/11/2015
+1550,125,,Curry Leaves (Kadi Patta),3 to 4,1/11/2015
+1551,125,,Turmeric Powder (Haldi),1/2 tsp,1/11/2015
+1552,125,,Oil,to fry,1/11/2015
+1553,125,,Gram flour (Besan),75 grams (1/3 Cup),1/11/2015
+1554,125,,Baking sodda,a pinch,1/11/2015
+1555,125,,Salt,to taste,1/11/2015
+1556,126,,Wheat flour (Atta),3 Cups,1/11/2015
+1557,126,,Water,1 Cup,1/11/2015
+1558,126,,Salt,to taste,1/11/2015
+1559,126,,Cauliflower (Gobi),"1/2 pc, grated finely",1/11/2015
+1560,126,,Green Chilies,1 or 2 chopped,1/11/2015
+1561,126,,Garam masala,1 tsp,1/11/2015
+1562,126,,Chili Powder,1 tsp,1/11/2015
+1563,126,,Pure Ghee (Clarified Butter),per taste,1/11/2015
+1564,127,,Rice (chawal),1 Cup,1/11/2015
+1565,127,,Parboiled rice (ukda chawal),1 Cup,1/11/2015
+1566,127,,Black lentil (urad) dal,1/2 Cup,1/11/2015
+1567,127,,Fenugreek (methi) seeds,1/4 tsp,1/11/2015
+1568,127,,Salt,to taste,1/11/2015
+1569,127,,Water,as required,1/11/2015
+1570,127,,Potato,4 pcs,1/11/2015
+1571,127,,Curry Leaves (Kadi Patta),8 to 10,1/11/2015
+1572,127,,Onion,3 pcs sliced,1/11/2015
+1573,127,,Mustard Seeds (Rai),1/2 tsp,1/11/2015
+1574,127,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1575,127,,Green Chilies,2 pcs chopped,1/11/2015
+1576,127,,Ginger,1 tsp paste,1/11/2015
+1577,127,,Coriander (Dhaniya Leaves),1 tbsp,1/11/2015
+1578,127,,Turmeric Powder (Haldi),1/2 tsp,1/11/2015
+1579,127,,Asafoetida (Hing),a pinch,1/11/2015
+1580,127,,Oil,3 tsp,1/11/2015
+1581,128,,Paneer (cottage cheese cubes),200 grams,1/11/2015
+1582,128,,Onion,"1 medium, chopped",1/11/2015
+1583,128,,Tomato,"1 medium, chopped",1/11/2015
+1584,128,,Green Chilies,1 or 2 chopped,1/11/2015
+1585,128,,Ginger garlic paste,1 tsp,1/11/2015
+1586,128,,Turmeric Powder (Haldi),1/4 tsp,1/11/2015
+1587,128,,Chili Powder,1/4 tsp,1/11/2015
+1588,128,,Garam masala,1/4 tsp,1/11/2015
+1589,128,,Cumin Seeds (Jeera),1/2 tsp,1/11/2015
+1590,128,,Pure Ghee (Clarified Butter),1 tbsp,1/11/2015
+1591,128,,Salt,to taste,1/11/2015
+1592,128,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1593,129,,Black lentil (urad) dal,1 Cup,1/11/2015
+1594,129,,Green Chilies,1 chopped,1/11/2015
+1595,129,,Ginger,small pc,1/11/2015
+1596,129,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1597,129,,Asafoetida (Hing),a pinch,1/11/2015
+1598,129,,Water,as required,1/11/2015
+1599,129,,Raisins,1/2 tbsp (optional),1/11/2015
+1600,129,,Cashew,10 pcs (optional),1/11/2015
+1601,129,,Salt,to taste,1/11/2015
+1602,129,,Fresh Curd (Dahi),2 Cups,1/11/2015
+1603,129,,Chat Masala,1 tsp,1/11/2015
+1604,129,,Chili Powder,1 tsp,1/11/2015
+1605,129,,Cumin Seeds (Jeera),2 tsp,1/11/2015
+1606,129,,Tamarind (seedless),1/2 Cup,1/11/2015
+1607,129,,Oil,1 tsp,1/11/2015
+1608,129,,Coriander (Dhaniya Leaves),2 Cups,1/11/2015
+1609,129,,Amchur (Mango) powder,1 tsp,1/11/2015
+1610,129,,Garlic,1 or 2 cloves,1/11/2015
+1611,129,,Jaggery (gur),8 tbsp (can use sugar),1/11/2015
+1612,130,,Paneer (cottage cheese cubes),200 grams,1/11/2015
+1613,130,,Cashew,"2 tbsp, grind into paste",1/11/2015
+1614,130,,Tomato,"4 medium, pureed",1/11/2015
+1615,130,,Green Chilies,2 chopped,1/11/2015
+1616,130,,Ginger garlic paste,1 tsp,1/11/2015
+1617,130,,Bay leaf (Tej patta),1 pc,1/11/2015
+1618,130,,Fenugreek ( kasuri methi),1 tsp,1/11/2015
+1619,130,,Garam masala,1 tsp,1/11/2015
+1620,130,,Chili Powder,1/2 tsp,1/11/2015
+1621,130,,Pure Ghee (Clarified Butter),1 tbsp,1/11/2015
+1622,130,,Water,1.5 Cups,1/11/2015
+1623,130,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1624,130,,Sugar,as required,1/11/2015
+1625,130,,Salt,to taste,1/11/2015
+1626,131,,Black lentil (urad) dal,1 Cup,1/11/2015
+1627,131,,Red Kidney Beans (Rajma),1/2 Cup,1/11/2015
+1628,131,,Water,4 Cups,1/11/2015
+1629,131,,Cumin Seeds (Jeera),1 tsp powder,1/11/2015
+1630,131,,Chili Powder,1/2 tsp,1/11/2015
+1631,131,,Turmeric Powder (Haldi),1/2 tsp,1/11/2015
+1632,131,,Onion,"1 medium, chopped",1/11/2015
+1633,131,,Tomato,"2 medium, chopped",1/11/2015
+1634,131,,Ginger garlic paste,1 tsp,1/11/2015
+1635,131,,Garam masala,1 tsp,1/11/2015
+1636,131,,Pure Ghee (Clarified Butter),2 tbsp,1/11/2015
+1637,131,,Cream,2 tbsp,1/11/2015
+1638,131,,Salt,to taste,1/11/2015
+1639,131,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1640,132,,Pigeon pea (tuvar) lentils,1 Cup,1/11/2015
+1641,132,,Green Chilies,2 chopped,1/11/2015
+1642,132,,Onion,"1 medium, chopped",1/11/2015
+1643,132,,Tomato,"2 medium, chopped",1/11/2015
+1644,132,,Ginger garlic paste,1 tsp,1/11/2015
+1645,132,,Turmeric Powder (Haldi),1 tsp,1/11/2015
+1646,132,,Asafoetida (Hing),a pinch,1/11/2015
+1647,132,,Water,2.5 Cups,1/11/2015
+1648,132,,Fenugreek ( kasuri methi),1/2 tsp,1/11/2015
+1649,132,,Garam masala,1/2 tsp,1/11/2015
+1650,132,,Coriander (Dhaniya Leaves),1 tsp,1/11/2015
+1651,132,,Salt,to taste,1/11/2015
+1652,132,,Oil,2 tbsp,1/11/2015
+1653,132,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1654,132,,Garlic,5 cloves chopped,1/11/2015
+1655,132,,Chili Powder,1/2 tsp,1/11/2015
+1656,132,,Pure Ghee (Clarified Butter),1/2 tsp,1/11/2015
+1657,133,,Chickpeas (Kabuli Chana),1 Cup,1/11/2015
+1658,133,,Water,"3 Cup, pressure cooking",1/11/2015
+1659,133,,Onion,"1 medium, chopped",1/11/2015
+1660,133,,Tomato,"1 medium, chopped",1/11/2015
+1661,133,,Ginger garlic paste,1 tsp,1/11/2015
+1662,133,,Turmeric Powder (Haldi),1/4 tsp,1/11/2015
+1663,133,,Chili Powder,1/2 tsp,1/11/2015
+1664,133,,Garam masala,1/4 tsp,1/11/2015
+1665,133,,Amchur (Mango) powder,1 tsp,1/11/2015
+1666,133,,Green Chilies,"2 to 3, chopped",1/11/2015
+1667,133,,Oil,2 tbsp,1/11/2015
+1668,133,,Salt,to taste,1/11/2015
+1669,133,,Cardamom powder,1 tsp,1/11/2015
+1670,133,,Cinnamon (dalchini),1 inch,1/11/2015
+1671,133,,Cloves (laung),2 pcs,1/11/2015
+1672,133,,Bay leaf (Tej patta),1,1/11/2015
+1673,133,,Carom seeds (Ajwain),1/4 tsp,1/11/2015
+1674,133,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1675,133,,Coriander (Dhaniya Leaves),1 tsp,1/11/2015
+1676,134,,Potato,3 medium,1/11/2015
+1677,134,,Cauliflower (Gobi),1 Cup chopped,1/11/2015
+1678,134,,Green Peas (Matar),1 Cup,1/11/2015
+1679,134,,Carrot,1/2 Cup,1/11/2015
+1680,134,,Onion,1 large,1/11/2015
+1681,134,,Tomato,"3 medium, finely chopped",1/11/2015
+1682,134,,Bell Pepper (green),1 medium,1/11/2015
+1683,134,,Ginger garlic paste,1 tsp,1/11/2015
+1684,134,,Green Chilies,2 chopped,1/11/2015
+1685,134,,Pav Bhaji Masala,3 tbsp,1/11/2015
+1686,134,,Garam masala,1/2 tsp,1/11/2015
+1687,134,,Chili Powder,1 tsp,1/11/2015
+1688,134,,Turmeric Powder (Haldi),1 tsp,1/11/2015
+1689,134,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1690,134,,Water,2 Cups,1/11/2015
+1691,134,,Butter,3 tbsp,1/11/2015
+1692,134,,Salt,to taste,1/11/2015
+1693,134,,Pav (Square bun bread),12 pcs,1/11/2015
+1694,135,,Paneer (cottage cheese cubes),100 grams,1/11/2015
+1695,135,,Potato,"2 medium, boiled",1/11/2015
+1696,135,,Corn flour,1 tbsp,1/11/2015
+1697,135,,Garam masala,1/4 tsp,1/11/2015
+1698,135,,Chili Powder,1 tsp,1/11/2015
+1699,135,,Milk Powder,2/4 tbsp or Khoya,1/11/2015
+1700,135,,Onion,1/2 pc,1/11/2015
+1701,135,,Tomato,1 Cup puree,1/11/2015
+1702,135,,Cashew,1/4 Cup paste,1/11/2015
+1703,135,,Ginger garlic paste,1 tsp,1/11/2015
+1704,135,,Water,2 Cups,1/11/2015
+1705,135,,Fenugreek ( kasuri methi),1 tsp,1/11/2015
+1706,135,,Salt,to taste,1/11/2015
+1707,135,,Oil,deep frying,1/11/2015
+1708,135,,Bay leaf (Tej patta),1 pc,1/11/2015
+1709,135,,Cinnamon (dalchini),1 inch,1/11/2015
+1710,135,,Cardamom powder,1 tsp,1/11/2015
+1711,135,,Cream,1 tbsp to garnish,1/11/2015
+1712,135,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1713,136,,Paneer (cottage cheese cubes),75 grams,1/11/2015
+1714,136,,Sweet Corn,75 grams (kernels),1/11/2015
+1715,136,,Potato,2 boiled & mashed,1/11/2015
+1716,136,,Cashew,1/4 Cup paste,1/11/2015
+1717,136,,Tomato,1 Cup puree,1/11/2015
+1718,136,,Chili Powder,1 tsp,1/11/2015
+1719,136,,Onion,2 finely chopped,1/11/2015
+1720,136,,Green Chilies,3 chopped,1/11/2015
+1721,136,,Garam masala,1 tsp,1/11/2015
+1722,136,,Plain Flour (maida),2 tbsp,1/11/2015
+1723,136,,Turmeric Powder (Haldi),a pinch,1/11/2015
+1724,136,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1725,136,,Ginger garlic paste,1 tbsp,1/11/2015
+1726,136,,Oil,deep frying,1/11/2015
+1727,136,,Salt,to taste,1/11/2015
+1728,136,,Raisins,15-20 pcs,1/11/2015
+1729,137,,Pasta,"200 grams, penne",1/11/2015
+1730,137,,Tomato sauce,4 tbsp,1/11/2015
+1731,137,,Olives,2 tsp,1/11/2015
+1732,137,,Basil leaves,1 bunch,1/11/2015
+1733,137,,Tomato,4 medium,1/11/2015
+1734,137,,Onion,"1 medium, chopped",1/11/2015
+1735,137,,Garlic,"4 cloves, chopped",1/11/2015
+1736,137,,Olive Oil,2 tbsp,1/11/2015
+1737,137,,Chili Powder,1/2 tsp,1/11/2015
+1738,137,,Oregano,1/2 tsp,1/11/2015
+1739,137,,Red wine,2 tsp (optional),1/11/2015
+1740,138,,Fenugreek (methi),2 Cups chopped,1/11/2015
+1741,138,,Green Peas (Matar),"1 Cup, boiled",1/11/2015
+1742,138,,Cream,1 Cup,1/11/2015
+1743,138,,Pure Ghee (Clarified Butter),2 tbsp,1/11/2015
+1744,138,,Sugar,per taste,1/11/2015
+1745,138,,Onion,"1 medium, chopped",1/11/2015
+1746,138,,Water,1/2 Cup,1/11/2015
+1747,138,,Ginger garlic paste,1 tsp,1/11/2015
+1748,138,,Green Chilies,1 or 2 chopped,1/11/2015
+1749,138,,Cashew,1/2 Cup broken,1/11/2015
+1750,138,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1751,138,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1752,139,,Rice (chawal),1.5 Cups basmati,1/11/2015
+1753,139,,Bay leaf (Tej patta),2 pc,1/11/2015
+1754,139,,Cloves (laung),4 pcs,1/11/2015
+1755,139,,Cinnamon (dalchini),1 inch,1/11/2015
+1756,139,,Cardamom,4 green,1/11/2015
+1757,139,,Water,3 Cups,1/11/2015
+1758,139,,Cauliflower (Gobi),1/2 pc,1/11/2015
+1759,139,,Carrot,"1 medium, chopped",1/11/2015
+1760,139,,Potato,1 medium,1/11/2015
+1761,139,,French Beans,1/2 Cup,1/11/2015
+1762,139,,Green Peas (Matar),1/2 Cup,1/11/2015
+1763,139,,Onion,"1 large, chopped",1/11/2015
+1764,139,,Green Chilies,1 chopped,1/11/2015
+1765,139,,Ginger,1 tbsp,1/11/2015
+1766,139,,Garlic,1 tbsp,1/11/2015
+1767,139,,Fresh Curd (Dahi),100 grams,1/11/2015
+1768,139,,Turmeric Powder (Haldi),a pinch,1/11/2015
+1769,139,,Chili Powder,a pinch,1/11/2015
+1770,139,,Cashew,1/4 Cup,1/11/2015
+1771,139,,Raisins,1/4 Cup,1/11/2015
+1772,139,,Pure Ghee (Clarified Butter),3 tbsp,1/11/2015
+1773,139,,Salt,to taste,1/11/2015
+1774,139,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1775,139,,Saffron (Kesar),few strands,1/11/2015
+1776,139,,Milk,2 tbsp,1/11/2015
+1777,140,,Bhindi (Okra),250 grams,1/11/2015
+1778,140,,Onion,"1 medium, chopped",1/11/2015
+1779,140,,Tomato,"1 medium, chopped",1/11/2015
+1780,140,,Ginger garlic paste,1 tsp,1/11/2015
+1781,140,,Chili Powder,1/2 tsp,1/11/2015
+1782,140,,Turmeric Powder (Haldi),1/4 tsp,1/11/2015
+1783,140,,Garam masala,1/4 tsp,1/11/2015
+1784,140,,Amchur (Mango) powder,1/4 tsp,1/11/2015
+1785,140,,Salt,to taste,1/11/2015
+1786,140,,Oil,3 tbsp,1/11/2015
+1787,140,,Fenugreek ( kasuri methi),1 tsp,1/11/2015
+1788,141,,Cauliflower (Gobi),"1 medium, chopped",1/11/2015
+1789,141,,Potato,"2 medium, chopped",1/11/2015
+1790,141,,Onion,"1 large, chopped",1/11/2015
+1791,141,,Tomato,"2 medium, chopped",1/11/2015
+1792,141,,Chili Powder,1/2 tsp,1/11/2015
+1793,141,,Turmeric Powder (Haldi),1/4 tsp,1/11/2015
+1794,141,,Garam masala,1/4 tsp,1/11/2015
+1795,141,,Ginger garlic paste,1/2 tsp,1/11/2015
+1796,141,,Oil,2 tbsp,1/11/2015
+1797,141,,Water,1.5 Cups,1/11/2015
+1798,141,,Salt,to taste,1/11/2015
+1799,141,,Cinnamon (dalchini),1 inch,1/11/2015
+1800,141,,Bay leaf (Tej patta),1 pc,1/11/2015
+1801,141,,Cardamom,3 pcs green,1/11/2015
+1802,141,,Cream,1 tbsp,1/11/2015
+1803,141,,Cashew,10 pcs (optional),1/11/2015
+1804,141,,Raisins,handful (optional),1/11/2015
+1805,142,,Green Peas (Matar),1 Cup,1/11/2015
+1806,142,,Onion,"2 medium, chopped",1/11/2015
+1807,142,,Chili Powder,1/2 tsp,1/11/2015
+1808,142,,Fenugreek ( kasuri methi),1/4 tsp,1/11/2015
+1809,142,,Coriander (Dhaniya Leaves),a bunch,1/11/2015
+1810,142,,Salt,to taste,1/11/2015
+1811,142,,Tomato,"3 medium, chopped",1/11/2015
+1812,142,,Ginger garlic paste,1/2 tsp,1/11/2015
+1813,142,,Cashew,5 whole,1/11/2015
+1814,142,,Fresh Curd (Dahi),2 tbsp,1/11/2015
+1815,142,,Green Chilies,1 chopped,1/11/2015
+1816,142,,Cloves (laung),2 pc,1/11/2015
+1817,142,,Cinnamon (dalchini),1 inch,1/11/2015
+1818,142,,Cumin Seeds (Jeera),1/2 tsp,1/11/2015
+1819,142,,Oil,3 tbsp,1/11/2015
+1820,143,,Rice (chawal),2 Cups basmati,1/11/2015
+1821,143,,Water,4 Cups,1/11/2015
+1822,143,,Bay leaf (Tej patta),1 pc,1/11/2015
+1823,143,,Cloves (laung),3 to 4,1/11/2015
+1824,143,,Cardamom,3 green,1/11/2015
+1825,143,,Ginger powder,1/2 tsp,1/11/2015
+1826,143,,Fennel (Saunf) powder,1/2 tsp,1/11/2015
+1827,143,,Saffron (Kesar),few strands,1/11/2015
+1828,143,,Oil,2 tbsp,1/11/2015
+1829,143,,Salt,to taste,1/11/2015
+1830,143,,Cashew,10 to 12,1/11/2015
+1831,143,,Raisins,a handful,1/11/2015
+1832,143,,Almonds (Badam),5 to 6,1/11/2015
+1833,143,,Walnut (Akhrot),4 to 5,1/11/2015
+1834,143,,Onion,"1 medium, chopped",1/11/2015
+1835,144,,Noodles,200 grams,1/11/2015
+1836,144,,spring onions,"3 medium, chopped",1/11/2015
+1837,144,,Carrot,1 medium,1/11/2015
+1838,144,,French Beans,10 finely chopped,1/11/2015
+1839,144,,Bell pepper,"1 medium, chopped",1/11/2015
+1840,144,,Garlic,1 tsp chopped,1/11/2015
+1841,144,,Green Chilies,2 finely chopped,1/11/2015
+1842,144,,Cabbage,1/4 shredded,1/11/2015
+1843,144,,Vinegar,1 tsp,1/11/2015
+1844,144,,Soya Sauce,1/2 tbsp,1/11/2015
+1845,144,,Oil,2 tbsp,1/11/2015
+1846,144,,Salt,to taste,1/11/2015
+1847,144,,Water,4 Cups,1/11/2015
+1848,145,,Noodles,200 grams,1/11/2015
+1849,145,,Bell pepper,"1 medium, long strips",1/11/2015
+1850,145,,Carrot,"1 medium, long strips",1/11/2015
+1851,145,,Cabbage,1/4 shredded,1/11/2015
+1852,145,,Oil,2 tbsp,1/11/2015
+1853,145,,Ginger,1 tsp,1/11/2015
+1854,145,,Chilly sauce,2 tsp,1/11/2015
+1855,145,,Soya Sauce,1/2 tbsp,1/11/2015
+1856,145,,Vinegar,1 tsp,1/11/2015
+1857,146,,Potato,"1 medium, cubes",1/11/2015
+1858,146,,Carrot,"1 medium, chopped",1/11/2015
+1859,146,,Green Peas (Matar),1/2 Cup,1/11/2015
+1860,146,,Cauliflower (Gobi),1/2 medium size,1/11/2015
+1861,146,,Onion,"1 medium, chopped",1/11/2015
+1862,146,,Tomato,"2 medium, chopped",1/11/2015
+1863,146,,Cloves (laung),2 pcs,1/11/2015
+1864,146,,Cinnamon (dalchini),1 inch,1/11/2015
+1865,146,,Bay leaf (Tej patta),1 pc,1/11/2015
+1866,146,,Ginger garlic paste,1 tsp,1/11/2015
+1867,146,,Chili Powder,1/2 tsp,1/11/2015
+1868,146,,Turmeric Powder (Haldi),1/4 tsp,1/11/2015
+1869,146,,Garam masala,1/4 tsp,1/11/2015
+1870,146,,Cumin Seeds (Jeera),1/2 tsp,1/11/2015
+1871,146,,Oil,3 tbsp,1/11/2015
+1872,146,,Mustard Seeds (Rai),1 tsp,1/11/2015
+1873,146,,Salt,to taste,1/11/2015
+1874,146,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1875,147,,Spinach (Palak),2 Cups,1/11/2015
+1876,147,,Green Peas (Matar),1 Cup,1/11/2015
+1877,147,,Potato,2 medium,1/11/2015
+1878,147,,Chat Masala,1 tsp,1/11/2015
+1879,147,,Amchur (Mango) powder,1 tsp,1/11/2015
+1880,147,,Ginger,1 tsp,1/11/2015
+1881,147,,Chili Powder,1/2 tsp,1/11/2015
+1882,147,,Gram flour (Besan),3 tbsp,1/11/2015
+1883,147,,Salt,to taste,1/11/2015
+1884,147,,Oil,2 tbsp,1/11/2015
+1885,148,,Noodles,"200 grams, boiled",1/11/2015
+1886,148,,Cabbage,1/2 Cup shredded,1/11/2015
+1887,148,,Onion,"1 medium, sliced",1/11/2015
+1888,148,,Carrot,2 chopped,1/11/2015
+1889,148,,Bell Pepper,1 long sliced,1/11/2015
+1890,148,,Cauliflower (Gobi),1 Cup,1/11/2015
+1891,148,,Ginger,1 tsp,1/11/2015
+1892,148,,Oil,2 tbsp,1/11/2015
+1893,148,,Salt,to taste,1/11/2015
+1894,148,,Corn flour,2 tbsp,1/11/2015
+1895,148,,Soya Sauce,1 tsp,1/11/2015
+1896,148,,Vinegar,1 tsp,1/11/2015
+1897,148,,Tomato puree,1/2 Cup,1/11/2015
+1898,148,,Chilli sauce,1 tbsp,1/11/2015
+1899,149,,Plain Flour (maida),1/2 Cup,1/11/2015
+1900,149,,Corn flour,1/2 Cup,1/11/2015
+1901,149,,Milk,1 Cup,1/11/2015
+1902,149,,Butter,2 tsp,1/11/2015
+1903,149,,Oil,deep frying,1/11/2015
+1904,149,,spring onions,1/4 Cup,1/11/2015
+1905,149,,French Beans,1/2 Cup,1/11/2015
+1906,149,,Carrot,1/2 Cup,1/11/2015
+1907,149,,Cabbage,1/2 Cup,1/11/2015
+1908,149,,Noodles,"1/2 Cup, boiled",1/11/2015
+1909,149,,Soya Sauce,2 tsp,1/11/2015
+1910,149,,Salt,to taste,1/11/2015
+1911,150,,Potato,1 Cup chopped,1/11/2015
+1912,150,,Carrot,1/2 Cup chopped,1/11/2015
+1913,150,,Cabbage,1/4 Cup chopped,1/11/2015
+1914,150,,French Beans,1/4 Cup chopped,1/11/2015
+1915,150,,Oil,deep frying,1/11/2015
+1916,150,,Onion,"1 small, chopped",1/11/2015
+1917,150,,Chili Powder,1/2 tsp,1/11/2015
+1918,150,,Turmeric Powder (Haldi),a pinch,1/11/2015
+1919,150,,Garam masala,a pinch,1/11/2015
+1920,150,,Plain Flour (maida),3/4 Cup,1/11/2015
+1921,150,,Bread crumbs,1/4 Cup,1/11/2015
+1922,150,,Salt,to taste,1/11/2015
+1923,151,,Black lentil (urad) dal,2 Cups,1/11/2015
+1924,151,,Tomato,1 Cup,1/11/2015
+1925,151,,Chili Powder,1 tsp,1/11/2015
+1926,151,,Turmeric Powder (Haldi),a pinch,1/11/2015
+1927,151,,Garam masala,1/2 tsp,1/11/2015
+1928,151,,Ginger garlic paste,1/2 tsp,1/11/2015
+1929,151,,Butter,5 tbsp,1/11/2015
+1930,151,,Cream,1/4 Cup,1/11/2015
+1931,151,,Water,6 Cups,1/11/2015
+1932,151,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+1933,152,,Wheat flour (Atta),2 Cups,1/11/2015
+1934,152,,Oil,4 tbsp,1/11/2015
+1935,152,,Water,for dough,1/11/2015
+1936,152,,Salt,to taste,1/11/2015
+1937,153,,Vermicelli (Seviyan),1.5 Cups,1/11/2015
+1938,153,,Milk,1/2 litre,1/11/2015
+1939,153,,Pure Ghee (Clarified Butter),2 tbsp,1/11/2015
+1940,153,,Sugar,3-4 tbsp,1/11/2015
+1941,153,,Cardamom,3 to 4 green,1/11/2015
+1942,153,,Cloves (laung),3 to 4,1/11/2015
+1943,153,,Cashew,8 to 10 roasted,1/11/2015
+1944,153,,Almonds (Badam),8 to 10 roasted,1/11/2015
+1945,153,,Raisins,handful,1/11/2015
+1946,153,,Walnut (Akhrot),2 to 3 (optional),1/11/2015
+1947,154,,Wheat flour (Atta),1/2 Cup,1/11/2015
+1948,154,,Plain Flour (maida),1/2 Cup,1/11/2015
+1949,154,,Oil,deep frying,1/11/2015
+1950,154,,Water,1Cup,1/11/2015
+1951,154,,Spilt green gram (moong dal),1/2 Cup readymade,1/11/2015
+1952,154,,Carom seeds (Ajwain),1 tsp,1/11/2015
+1953,154,,Asafoetida (Hing),1/4 tsp,1/11/2015
+1954,154,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1955,154,,Chili Powder,1 tsp,1/11/2015
+1956,154,,Amchur (Mango) powder,1 tsp,1/11/2015
+1957,154,,Fennel (Saunf) powder,1 tsp,1/11/2015
+1958,154,,Garam masala,1 tsp,1/11/2015
+1959,154,,Salt,to taste,1/11/2015
+1960,155,,Plain Flour (maida),1 Cup,1/11/2015
+1961,155,,Spilt green gram (moong dal),1/2 Cup,1/11/2015
+1962,155,,Pure Ghee (Clarified Butter),1/4 Cup,1/11/2015
+1963,155,,Carom seeds (Ajwain),1 tsp,1/11/2015
+1964,155,,Water,1/2 Cup,1/11/2015
+1965,155,,Asafoetida (Hing),1 tsp,1/11/2015
+1966,155,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+1967,155,,Chili Powder,1 tsp,1/11/2015
+1968,155,,Amchur (Mango) powder,1 tsp,1/11/2015
+1969,155,,Fennel (Saunf) powder,1 tsp,1/11/2015
+1970,155,,Garam masala,1 tsp,1/11/2015
+1971,155,,Oil,deep frying,1/11/2015
+1972,155,,Corn flour,2 tsp,1/11/2015
+1973,156,,Sweet Potatoes,1 Cup cooked & mashed,1/11/2015
+1974,156,,Butter,1/2 Cup,1/11/2015
+1975,156,,Eggs,2 pcs,1/11/2015
+1976,156,,Sugar,1 Cup granulated,1/11/2015
+1977,156,,Vanilla extract,1 tsp,1/11/2015
+1978,156,,Milk,1/2 Cup,1/11/2015
+1979,156,,Brown Sugar,1 Cup,1/11/2015
+1980,156,,Plain Flour (maida),1/2 Cup,1/11/2015
+1981,156,,Nuts,1/4 Cup chopped,1/11/2015
+1982,157,,Rissoto rice,1.5 Cups,1/11/2015
+1983,157,,White wine,1/2 Cup,1/11/2015
+1984,157,,Butter,1 tbsp,1/11/2015
+1985,157,,Olive Oil,1 tbsp,1/11/2015
+1986,157,,spring onions,2 finely chopped,1/11/2015
+1987,157,,Vegetable broth,4 Cups,1/11/2015
+1988,157,,Mustard Sauce,1/2 tsp,1/11/2015
+1989,157,,Cheddar Cheese,1 Cup,1/11/2015
+1990,157,,Chives,2 tbsp chopped,1/11/2015
+1991,158,,Potato,2 sliced,1/11/2015
+1992,158,,Corn flour,3 tbsp,1/11/2015
+1993,158,,Chili Powder,1 tsp,1/11/2015
+1994,158,,Oil,deep frying,1/11/2015
+1995,158,,spring onions,2 chopped,1/11/2015
+1996,158,,Capsicum,1 sliced,1/11/2015
+1997,158,,Salt,to taste,1/11/2015
+1998,158,,Sesame seeds,3 tsp white,1/11/2015
+1999,158,,Honey,3 tbsp,1/11/2015
+2000,158,,Garlic paste,1 tbsp,1/11/2015
+2001,158,,Soya Sauce,1/4 tsp,1/11/2015
+2002,158,,Chilli sauce,2 tsp,1/11/2015
+2003,159,,Pineapple,1 medium ripe,1/11/2015
+2004,159,,Orange juice,1/2 Cup,1/11/2015
+2005,159,,Honey,4 tbsp,1/11/2015
+2006,159,,Fresh Curd (Dahi),1/4 Cup,1/11/2015
+2007,159,,Sugar,1/2 Cup,1/11/2015
+2008,159,,Pistachio,1/4 Cup,1/11/2015
+2009,159,,Mint leaves (pudina),2 tbsp,1/11/2015
+2010,160,,Spilt bengal gram (chana dal),1 Cup,1/11/2015
+2011,160,,Water,3 Cups,1/11/2015
+2012,160,,Jaggery (gur),1 Cup,1/11/2015
+2013,160,,Fennel (Saunf) powder,1 tsp,1/11/2015
+2014,160,,Ginger powder,1 tsp,1/11/2015
+2015,160,,Cardamom powder,1/2 tsp,1/11/2015
+2016,160,,Nutmeg  (jalphal) powder,1/4 tsp,1/11/2015
+2017,160,,Pure Ghee (Clarified Butter),4 tsp,1/11/2015
+2018,160,,Wheat flour (Atta),2 Cups,1/11/2015
+2019,160,,Turmeric Powder (Haldi),1/4 tsp,1/11/2015
+2020,160,,Salt,to taste,1/11/2015
+2021,160,,Oil,for frying,1/11/2015
+2022,161,,Paneer (cottage cheese cubes),1 Cup grated,1/11/2015
+2023,161,,Wheat bread,8 slices,1/11/2015
+2024,161,,Butter,per taste,1/11/2015
+2025,161,,Green chutney,4 tbsp,1/11/2015
+2026,161,,Onion,1 medium,1/11/2015
+2027,161,,Green Chilies,2 chopped,1/11/2015
+2028,161,,Cumin powder,1/2 tsp,1/11/2015
+2029,161,,Chili Powder,1/2 tsp,1/11/2015
+2030,161,,Garam masala,1/2 tsp,1/11/2015
+2031,161,,Salt,to taste,1/11/2015
+2032,161,,Coriander (Dhaniya Leaves),1/2 tbsp,1/11/2015
+2033,162,,Rye Whiskey,60ml (2 oz),1/11/2015
+2034,162,,Vermouth,"45ml, 1.5 oz",1/11/2015
+2035,162,,Maraschino Liqueur,"4.5ml, 5 dashes",1/11/2015
+2036,162,,Ice,"cubes, tray",1/11/2015
+2037,163,,Triple Sec,"45ml, 1.5 oz",1/11/2015
+2038,163,,Cognac (brandy),"30 ml, 1 oz",1/11/2015
+2039,163,,Bourbon Whiskey,alternative to Cognac,1/11/2015
+2040,163,,Ice,"cubes, tray",1/11/2015
+2041,163,,Lemon,to garnish,1/11/2015
+2042,164,,Gin,"60ml, 2 oz",1/11/2015
+2043,164,,Champagne,"180ml, 6 oz",1/11/2015
+2044,164,,Lime Juice,"30ml, 1 oz",1/11/2015
+2045,164,,Sugar Syrup,"30ml, 1 oz",1/11/2015
+2046,164,,Lemon,Twist to garnish,1/11/2015
+2047,164,,Cocktail shaker ,1 pc,1/11/2015
+2048,165,,Irish Whiskey,"90ml, 3 oz",1/11/2015
+2049,165,,Brown Sugar,2 tsp,1/11/2015
+2050,165,,Coffee,"360ml, 12 oz hot",1/11/2015
+2051,165,,Cream ,to top,1/11/2015
+2052,166,,Apple jack (Brandy),"90ml, 3 oz",1/11/2015
+2053,166,,Grenadine (pomegranate syrup),2 tsp,1/11/2015
+2054,166,,Lime Juice,"30ml, 1 oz",1/11/2015
+2055,166,,Lemon,wedge to garnish,1/11/2015
+2056,166,,Ice,"cubes, tray",1/11/2015
+2057,167,,Gin,"60ml, 2 oz",1/11/2015
+2058,167,,Vermouth,"60ml, 2 oz sweet (rosso)",1/11/2015
+2059,167,,Campari,"60ml, 2 oz",1/11/2015
+2060,167,,Orange,"wedge, to garnish",1/11/2015
+2061,167,,Ice,"cubes, tray",1/11/2015
+2062,168,,Rye Whiskey,"60ml, 2 oz, Rye or Bourbon",1/11/2015
+2063,168,,Vermouth,"60ml, 2 oz sweet (rose)",1/11/2015
+2064,168,,Campari,"60ml, 2 oz",1/11/2015
+2065,168,,Orange,"wedge, to garnish",1/11/2015
+2066,168,,Ice,"cubes, tray",1/11/2015
+2067,169,,Cognac (brandy),"90ml, 3 oz",1/11/2015
+2068,169,,Absinthe,"1.8ml, 2 dashes",1/11/2015
+2069,169,,Peychaud bitters,"3.6ml, 4 dashes",1/11/2015
+2070,169,,Lemon,twist peel to garnish,1/11/2015
+2071,169,,Sugar,2 tsp,1/11/2015
+2072,169,,Ice,"cubes, tray",1/11/2015
+2073,170,,Rye Whiskey,"45 ml, 1.5 oz",1/11/2015
+2074,170,,Cognac (brandy),"45ml, 1.5 oz",1/11/2015
+2075,170,,Vermouth,"45ml, 1.5 oz, sweet",1/11/2015
+2076,170,,Benedictine,2 tsp,1/11/2015
+2077,170,,Peychaud bitters,"4 dashes, 3.6 ml",1/11/2015
+2078,170,,Angostura bitters,"4 dashes, 3.6 ml",1/11/2015
+2079,170,,Lemon,twist peel to garnish,1/11/2015
+2080,170,,Ice,"cubes, tray",1/11/2015
+2081,171,,Gin,"90ml, 3 oz",1/11/2015
+2082,171,,Lime Juice,"60ml, 2 oz",1/11/2015
+2083,171,,Sugar Syrup,"60 ml, 2 oz",1/11/2015
+2084,171,,Milk,"120 ml, 4 oz",1/11/2015
+2085,171,,Egg,"2 pcs, whites only",1/11/2015
+2086,171,,Orange blossom water,"4 dashes, 3.6 ml",1/11/2015
+2087,171,,Seltzer (soda water),"45ml, 1.5 oz",1/11/2015
+2088,171,,Ice ,"cubes, tray",1/11/2015
+2089,171,,Cocktail shaker ,1 pc,1/11/2015
+2090,172,,Mint leaves (pudina),8 fresh twigs,1/11/2015
+2091,172,,Bourbon Whiskey,"150 ml, 5 oz",1/11/2015
+2092,172,,Sugar,"1 tsp, powdered",1/11/2015
+2093,172,,Water,2 tsp,1/11/2015
+2094,172,,Ice,"cubes, tray",1/11/2015
+2095,173,,Bourbon Whiskey,"120ml, 4 oz",1/11/2015
+2096,173,,Lime Juice,"90ml, 3 oz",1/11/2015
+2097,173,,Sugar,"1 tsp, powdered",1/11/2015
+2098,173,,Cherry,to garnish,1/11/2015
+2099,173,,Lemon,"slices, to garnish",1/11/2015
+2100,173,,Egg,1 egg white,1/11/2015
+2101,173,,Cocktail shaker ,1 pc,1/11/2015
+2102,174,,Light Rum,"60ml, 2 oz",1/11/2015
+2103,174,,Dark Rum,"30ml, 1oz",1/11/2015
+2104,174,,Triple Sec,"30ml, 1oz",1/11/2015
+2105,174,,Pineapple Juice,"120 ml, 4 oz",1/11/2015
+2106,174,,Orange juice,"60 ml, 2 oz",1/11/2015
+2107,174,,Ice,"cubes, tray",1/11/2015
+2108,174,,Grenadine (pomegranate syrup),2 tsp,1/11/2015
+2109,174,,Cocktail shaker ,1 pc,1/11/2015
+2110,174,,Pineapple,wedge to garnish,1/11/2015
+2111,175,,Dark Rum,"60ml, 2 oz",1/11/2015
+2112,175,,Orgreat syrup,"30 ml, 1 oz (optional)",1/11/2015
+2113,175,,Pineapple Juice,"60 ml, 2 oz",1/11/2015
+2114,175,,Orange juice,"120 ml, 4 oz",1/11/2015
+2115,175,,Ice,"cubes, tray",1/11/2015
+2116,175,,Grenadine (pomegranate syrup),2 tsp,1/11/2015
+2117,175,,Angostura bitters,"4 dashes, 3.6ml",1/11/2015
+2118,175,,Cocktail shaker ,1 pc,1/11/2015
+2119,175,,Pineapple,wedge to garnish,1/11/2015
+2120,176,,Pisco brandy,"90 ml, 3 oz",1/11/2015
+2121,176,,Lime Juice,"45 ml, 1.5 oz",1/11/2015
+2122,176,,Sugar,1 tbsp,1/11/2015
+2123,176,,Egg,2 Whites,1/11/2015
+2124,176,,Cocktail shaker ,1 pc,1/11/2015
+2125,176,,Ice,"cubes, tray",1/11/2015
+2126,176,,Lemon,wedge to garnish,1/11/2015
+2127,177,,Vodka,"90 ml, 3 oz",1/11/2015
+2128,177,,Cointreau,"60 ml, 2 oz",1/11/2015
+2129,177,,Lime Juice,"30 ml, 1 oz",1/11/2015
+2130,177,,Cranberry Juice,"15ml, 1/2 oz",1/11/2015
+2131,177,,Cocktail shaker ,1,1/11/2015
+2132,177,,Ice,"cubes, tray",1/11/2015
+2133,177,,Orange,peel to garnish,1/11/2015
+2134,178,,Gin,"120 ml, 4 oz",1/11/2015
+2135,178,,Lime Juice,"60 ml, 2 oz",1/11/2015
+2136,178,,Sugar,"1.5 tsp, powdered",1/11/2015
+2137,178,,Seltzer (soda water),"180ml, 6 oz",1/11/2015
+2138,178,,Cocktail shaker ,1,1/11/2015
+2139,178,,Ice,"cubes, tray",1/11/2015
+2140,178,,Orange,slice to garnish,1/11/2015
+2141,178,,Maraschino Cherry,to garnish,1/11/2015
+2142,179,,Gin,"45 ml, 1.5 oz",1/11/2015
+2143,179,,Lime Juice,"45 ml, 1.5 oz",1/11/2015
+2144,179,,Green Chartreuse,"45 ml, 1.5 oz",1/11/2015
+2145,179,,Maraschino Liqueur,"45 ml, 1.5 oz",1/11/2015
+2146,179,,Cocktail shaker ,1 pc,1/11/2015
+2147,179,,Ice,"cubes, tray",1/11/2015
+2148,179,,Lemon,wedge to garnish,1/11/2015
+2149,180,,Light Rum,"120ml, 4 oz",1/11/2015
+2150,180,,Sugar,3-4 tsp,1/11/2015
+2151,180,,Mint leaves (pudina),10 to 12,1/11/2015
+2152,180,,Seltzer (soda water),"120ml, 4 oz",1/11/2015
+2153,180,,Cocktail shaker ,1 pc,1/11/2015
+2154,180,,Ice,"cubes, tray",1/11/2015
+2155,180,,Lemon,1 cut,1/11/2015
+2156,181,,Vodka,"30ml, 1 oz",1/11/2015
+2157,181,,Light Rum,"30ml, 1 oz",1/11/2015
+2158,181,,Triple Sec,"30ml, 1 oz",1/11/2015
+2159,181,,Gin,"30ml, 1 oz",1/11/2015
+2160,181,,Tequila,"30ml, 1 oz",1/11/2015
+2161,181,,Cola,"15ml, 1/2 oz",1/11/2015
+2162,181,,Lemon,wedge to garnish,1/11/2015
+2163,181,,Lime Juice,"60ml, 2 oz - Sour",1/11/2015
+2164,182,,Sabudana (tapioca pearls),1 Cup,1/11/2015
+2165,182,,Potato,2 medium,1/11/2015
+2166,182,,Peanuts (moongphali),1/2 Cup roasted,1/11/2015
+2167,182,,Ginger,1 tsp optional,1/11/2015
+2168,182,,Green Chilies,1 chopped,1/11/2015
+2169,182,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+2170,182,,Curry Leaves (Kadi Patta),5 to 6 optional,1/11/2015
+2171,182,,Sugar,per taste,1/11/2015
+2172,182,,Lemon Juice,1/2 tsp,1/11/2015
+2173,182,,Pure Ghee (Clarified Butter),2 tbsp,1/11/2015
+2174,182,,Salt,to taste,1/11/2015
+2175,183,,Black lentil (urad) dal,2 Cups,1/11/2015
+2176,183,,Water,for batter,1/11/2015
+2177,183,,Oil,deep frying,1/11/2015
+2178,183,,Onion,1 medium chopped,1/11/2015
+2179,183,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+2180,183,,Pepper powder,1 tsp,1/11/2015
+2181,183,,Ginger,1/2 tbsp chopped,1/11/2015
+2182,183,,Coconut,1/2 Cup chopped,1/11/2015
+2183,183,,Coriander (Dhaniya Leaves),few sprigs,1/11/2015
+2184,183,,Salt,to taste,1/11/2015
+2185,184,,Plain Flour (maida),1.5 Cups,1/11/2015
+2186,184,,Banana,1 medium ripe,1/11/2015
+2187,184,,Sugar,2 tbsp,1/11/2015
+2188,184,,Milk,1 Cup,1/11/2015
+2189,184,,Egg,2 large,1/11/2015
+2190,184,,Baking powder,3 tsp,1/11/2015
+2191,184,,Vanilla extract,1/2 tsp,1/11/2015
+2192,184,,Butter,"3 tbsp, unsalted",1/11/2015
+2193,184,,Mapple syrup,for serving,1/11/2015
+2194,185,,Flattened rice (poha),1/2 Cup thick ones,1/11/2015
+2195,185,,Potato,1 medium chopped,1/11/2015
+2196,185,,Onion,1 medium finely chopped,1/11/2015
+2197,185,,Green Chilies,1 finely chopped,1/11/2015
+2198,185,,Peanuts (moongphali),2 tbsp (optional),1/11/2015
+2199,185,,Turmeric Powder (Haldi),1/4 tsp,1/11/2015
+2200,185,,Mustard Seeds (Rai),1 tsp,1/11/2015
+2201,185,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+2202,185,,Curry Leaves (Kadi Patta),9 to 10,1/11/2015
+2203,185,,Coconut,3 tbsp grated,1/11/2015
+2204,185,,Coriander (Dhaniya Leaves),to garnish,1/11/2015
+2205,185,,Oil,3 tbsp,1/11/2015
+2206,185,,Sugar,per taste,1/11/2015
+2207,185,,Salt,per taste,1/11/2015
+2208,186,,Potato,"4 medium, boiled",1/11/2015
+2209,186,,Wheat flour (Atta),2 Cups,1/11/2015
+2210,186,,Chili Powder,1/2 tsp,1/11/2015
+2211,186,,Garam masala,1/4 tsp,1/11/2015
+2212,186,,Amchur (Mango) powder,1/2 tsp,1/11/2015
+2213,186,,Green Chilies,2 chopped finely. ,1/11/2015
+2214,186,,Water,for kneading,1/11/2015
+2215,186,,Pure Ghee (Clarified Butter),3-4 tbsp,1/11/2015
+2216,186,,Coriander (Dhaniya Leaves),2 tsp,1/11/2015
+2217,186,,Salt,to taste,1/11/2015
+2218,186,,Fresh Curd (Dahi),for serving,1/11/2015
+2219,186,,Pickle,for serving,1/11/2015
+2220,186,,Butter,for serving,1/11/2015
+2221,187,,Rava (semolina),1 Cup roasted,1/11/2015
+2222,187,,Spilt bengal gram (chana dal),1 tbsp,1/11/2015
+2223,187,,Black lentil (urad) dal,1/2 tbsp,1/11/2015
+2224,187,,Onion,"1 medium, chopped",1/11/2015
+2225,187,,Green Chilies,1 chopped,1/11/2015
+2226,187,,Ginger,1/2 inch grated,1/11/2015
+2227,187,,Water,2.5 Cups,1/11/2015
+2228,187,,Mustard Seeds (Rai),1 tsp,1/11/2015
+2229,187,,Cumin Seeds (Jeera),1/2 tsp,1/11/2015
+2230,187,,Curry Leaves (Kadi Patta),1 sprig,1/11/2015
+2231,187,,Sugar,1 to 2 tsp,1/11/2015
+2232,187,,Pure Ghee (Clarified Butter),2 tbsp,1/11/2015
+2233,187,,Salt,to taste,1/11/2015
+2234,188,,Plain Flour (maida),2 Cups,1/11/2015
+2235,188,,Milk,1.5 Cups,1/11/2015
+2236,188,,Egg,2 large,1/11/2015
+2237,188,,Honey,2 tbsp,1/11/2015
+2238,188,,Baking powder,3 tsp,1/11/2015
+2239,188,,Butter,6 tbsp melted,1/11/2015
+2240,188,,Cinnamon (dalchini),1 tsp,1/11/2015
+2241,188,,Salt,to taste,1/11/2015
+2242,189,,Moth sprouts (matki),3.5 Cups,1/11/2015
+2243,189,,Onion,"2 medium, chopped",1/11/2015
+2244,189,,Potato,"2 medium, cubes",1/11/2015
+2245,189,,Mustard Seeds (Rai),1 tsp,1/11/2015
+2246,189,,Cumin Seeds (Jeera),1 tsp,1/11/2015
+2247,189,,Ginger garlic paste,1/2 tsp,1/11/2015
+2248,189,,Green Chilies,1 large chopped,1/11/2015
+2249,189,,Chili Powder,1/2 tsp,1/11/2015
+2250,189,,Coriander powder,1 tsp,1/11/2015
+2251,189,,Tamarind (seedless),2 tsp in 1/2 Cup water,1/11/2015
+2252,189,,Water,1 Cup,1/11/2015
+2253,189,,Oil,3 tbsp,1/11/2015
+2254,189,,Curry Leaves (Kadi Patta),5 to 6,1/11/2015
+2255,189,,Pav (Square bun bread),12 pcs,1/11/2015
+2256,189,,Farsan or Sev,1 Cup,1/11/2015
+2257,189,,Lemon,1 cut,1/11/2015
+2258,189,,Coriander (Dhaniya Leaves),1/4 Cup,1/11/2015
+2259,189,,Fresh Curd (Dahi),1/4 Cup,1/11/2015
+2260,190,,Milk,1 litre (full cream),1/11/2015
+2261,190,,Cardamom powder,1/4 tsp,1/11/2015
+2262,190,,Sugar,2 tbsp,1/11/2015
+2263,190,,Pistachio,a handful,1/11/2015
+2264,190,,Saffron (Kesar),5 to 6 strands,1/11/2015
+2265,190,,Almonds (Badam),8 to 10,1/11/2015
+2266,190,,Rose water,few drops,1/11/2015
+2267,191,,Plain Flour (maida),1/4 Cup,1/11/2015
+2268,191,,Baking powder,a pinch,1/11/2015
+2269,191,,Milk Powder,1 Cup,1/11/2015
+2270,191,,Pure Ghee (Clarified Butter),1 tsp,1/11/2015
+2271,191,,Fresh Curd (Dahi),1.5 tbsp,1/11/2015
+2272,191,,Pistachio,4 to 5 pcs blanched,1/11/2015
+2273,191,,Almonds (Badam),4 to 5 pcs blanched,1/11/2015
+2274,191,,Water,2 Cups,1/11/2015
+2275,191,,Sugar,1.5 Cups,1/11/2015
+2276,191,,Rose water,1 tsp,1/11/2015
+2277,191,,Saffron (Kesar),a pinch,1/11/2015
+2278,191,,Cardamom,3 to 4 green,1/11/2015
+2279,192,,Carrot,4 Cups grated,1/11/2015
+2280,192,,Milk,4 Cups,1/11/2015
+2281,192,,Pure Ghee (Clarified Butter),4 tbsp,1/11/2015
+2282,192,,Sugar,12 tbsp,1/11/2015
+2283,192,,Cashew,15 to 20 pcs,1/11/2015
+2284,192,,Cardamom,5 to 6 pcs,1/11/2015
+2285,192,,Saffron (Kesar),a pinch,1/11/2015
+2286,192,,Raisins,a handful,1/11/2015
+2287,193,,Milk,2 litre,1/11/2015
+2288,193,,Plain Flour (maida),1  tsp,1/11/2015
+2289,193,,Water,2 Cups,1/11/2015
+2290,193,,Sugar,1.5 Cups,1/11/2015
+2291,193,,Rose water,1 tsp,1/11/2015
+2292,193,,Saffron (Kesar),a pinch,1/11/2015
+2293,193,,Cardamom,3 to 4 green,1/11/2015
+2294,193,,Lemon Juice,1/4 Cup,1/11/2015
+2295,194,,Vanilla Sponge,1.5 Cups crumbled,1/11/2015
+2296,194,,Sugar Syrup,2 tbsp,1/11/2015
+2297,194,,Milk,1 litre,1/11/2015
+2298,194,,Sugar,5 tbsp,1/11/2015
+2299,194,,Cream,4 tbsp,1/11/2015
+2300,194,,Cream Cheese,2 tbsp,1/11/2015
+2301,194,,Lemon Juice,3 tbsp,1/11/2015
+2302,194,,Blueberry crush,1/4 Cup,1/11/2015
+2303,194,,Whipped Cream,1 Cup,1/11/2015
+2304,194,,Blueberry,to garnish,1/11/2015
+2305,195,,Eggs,3 large,1/11/2015
+2306,195,,Milk,2.5 Cups,1/11/2015
+2307,195,,Sugar,12 tsp,1/11/2015
+2308,195,,Vanilla extract,1 tsp,1/11/2015
+2309,196,,Bottle Gourd (lauki),3 Cups,1/11/2015
+2310,196,,Milk,1/2 litre,1/11/2015
+2311,196,,Pure Ghee (Clarified Butter),3 tbsp,1/11/2015
+2312,196,,Cardmom,4 green,1/11/2015
+2313,196,,Almonds (Badam),1 tbsp blanched,1/11/2015
+2314,196,,Cashew,1 tbsp blanched,1/11/2015
+2315,196,,Pistachio,1 tbsp chopped,1/11/2015
+2316,196,,Raisins,a handful,1/11/2015
+2317,197,,Gram flour (Besan),4 Cups,1/11/2015
+2318,197,,Sugar,"2 Cup, powdered",1/11/2015
+2319,197,,Pure Ghee (Clarified Butter),1 Cup,1/11/2015
+2320,197,,Cardamom,5 to 6 green,1/11/2015
+2321,197,,Raisins,3 tbsp,1/11/2015
+2322,198,,Falooda sev,4 tbsp,1/11/2015
+2323,198,,Basil (sabja) seeds,4 tbsp,1/11/2015
+2324,198,,Vanilla Ice Cream,4 Scoops,1/11/2015
+2325,198,,Rose Syrup,6 tbsp,1/11/2015
+2326,198,,Milk,4 Cups chilled,1/11/2015
+2327,198,,Pistachio,5 sliced,1/11/2015
+2328,198,,Cashew,5 sliced,1/11/2015
+2329,198,,Raisins,a fistful,1/11/2015
+2330,198,,Strawberry jelly,2 tbsp (optional),1/11/2015
+2331,199,,Cocoa powder,15 grams,1/11/2015
+2332,199,,Plain Flour (maida),1/2 Cup,1/11/2015
+2333,199,,Baking powder,1/2 tsp,1/11/2015
+2334,199,,Vanilla extract,2 tsp,1/11/2015
+2335,199,,Sugar,7 tbsp powdered,1/11/2015
+2336,199,,Butter,5 tbsp melted,1/11/2015
+2337,199,,Chocolate,grated to garnish,1/11/2015
+2338,199,,Raspberry,2 tsp jam or jelly,1/11/2015
+2339,199,,Eggs,4 large,1/11/2015
+2340,199,,Cream,1.5 Cups,1/11/2015
+2341,199,,Gelatine,1 packet,1/11/2015
+2342,199,,Raspberry,1 Cup (optinal),1/11/2015
+2343,200,,Rava (semolina),1 Cup,1/11/2015
+2344,200,,Sugar,1 Cup,1/11/2015
+2345,200,,Pure Ghee (Clarified Butter),1/2 Cup,1/11/2015
+2346,200,,Cashew,12 chopped,1/11/2015
+2347,200,,Raisins,fistful,1/11/2015
+2348,200,,Water,2 Cups,1/11/2015
+2349,200,,Cardamom,4 green powdered,1/11/2015
+2350,201,,Mango,2 Alphanso,1/11/2015
+2351,201,,Milk,2 Cups,1/11/2015
+2352,201,,Sugar,2 tsp,1/11/2015
+2353,201,,Ice,6 to 9 cubes,1/11/2015
+2354,201,,Saffron (Kesar),a pinch,1/11/2015
+2355,201,,Cashew,3 to 4,1/11/2015
+2356,201,,Almonds (Badam),3 to 4,1/11/2015
+2357,201,,Pistachio,3 to 4,1/11/2015
